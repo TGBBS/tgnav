@@ -2,13 +2,10 @@
  * @Description:
  * @telegram: @tgyl9527bot
 -->
-## 声明
 
 【TGtuijian、电报推荐】9999+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。
 
 ❗️❗️❗️所有频道群组采集自网络，真实性未知,侵权请联系删除❗️❗❗️️
-
-❗️❗️❗️请自行辨别真假管好自己的钱包，不要乱下APP！！谨防诈骗！！！谨防诈骗！！!谨防诈骗！!！一切后果自负❗️❗️❗️
 
 ------------
 telegram汉化中文包地址 [https://t.me/pingdaotj](https://t.me/pingdaotj)
