@@ -1937,13 +1937,13 @@
 | GameFi | [Yuliverse](https://t.me/Yuliverse)           | GameFi - AR+Web3 游戏     |
 
 ### DAO
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
 | DAO | [DAOhaus 中文](https://t.me/DAOhausCN)          | DAO - DAOhaus 治理     |
 | DAO | [Gitcoin 中文](https://t.me/GitcoinCN)          | DAO - Gitcoin Grants |
 | DAO | [BitDAO 中文](https://t.me/BitDAO_CN)           | DAO - BitDAO 社群      |
 | DAO | [ENS 中文](https://t.me/ENS_CN)                 | DAO - 以太坊域名          |
 | DAO | [FlamingoDAO 中文](https://t.me/FlamingoDAO_CN) | DAO - NFT 投资 DAO     |
-| 板块  | Telegram                                     | 说明               |
-| --- | -------------------------------------------- | ---------------- |
 | DAO | [Gitcoin](https://t.me/gitcoinco)            | 资助 - Gitcoin DAO |
 | DAO | [Bankless DAO](https://t.me/BanklessDAO)     | 媒体 - Bankless 社区 |
 | DAO | [Aragon DAO](https://t.me/aragonproject)     | DAO - Aragon 治理  |
