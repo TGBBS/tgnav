@@ -1682,544 +1682,361 @@
 | Find Blog👁发现博客      | [https://t.me/findblog](https://t.me/findblog)                             | -    |
 | 苍穹の下・SKY 的 Blog      | [https://t.me/blueskyxnblog](https://t.me/blueskyxnblog)                   | -    |
 | 瞎玩菌                  | [https://t.me/blindgamer](https://t.me/blindgamer)                         | -    |
-| Tesla China 🅥       | [https://t.me/Teslacn](https://t.me/Teslacn)                               | -    |
+| Tesla China        | [https://t.me/Teslacn](https://t.me/Teslacn)                               | -    |
 
 
 
-### 其他
-*   [这个我知道](https://t.me/keyword_reply_bot) 本机器人能够自动回复关键词对应的内容
-*   [这个我删了 Bot](https://t.me/keyworddel_bot) 自动删除’推广 / 广告 / 菠菜’等等消息
-*   [Vultr 助手 Bot](https://t.me/vultr_helper_bot) 绑定 Vultr 账户，定时提醒 Vultr 账户的余额和流量不足信息
-*   [Telegram 权限管理 Bot](https://t.me/autopm_bot) Telegram 自动管理权限，指定时间自动关闭 / 打开群组权限
-*   [TGX - 频道秘书](https://t.me/zh_secretary_bot) Telegram 中文群组索引导航
-*   [TGCN - 群组频道狐](https://t.me/zh_groups_bot) Telegram 中文群组频道搜索机器人
-*   [新频道群组导航](https://t.me/groups_cnbot) 新频道群组导航
-*   [Translate Father](https://t.me/TranslateFather_bot) 翻译消息
-*   [Yandex.Translate](https://t.me/YTranslateBot) 翻译消息
-*   [Language Translator](https://t.me/ang_translate_bot) 翻译消息
-*   [中英翻譯 (English Chinese (Mandarin) translation)](https://t.me/en_to_tw_bot) 翻译消息
-*   [Sticker To GIF](https://t.me/Sticker2GIFBot) 贴纸下载，支持动态贴纸
-*   [Sticker Downloader](https://t.me/Stickerdownloadbot) 贴纸下载
-*   [StickerSetBot](https://t.me/stickerset2packbot) 贴纸下载
-*   [TG Downloader](https://t.me/GIFDownloader_bot) GIF 和贴纸下载
-*   [Manybot](https://t.me/Manybot) Manybot lets you create your own bots. Send messages, create custom commands and menus. Press Send message to begin
-*   [ControllerBot](https://t.me/ControllerBot) Awesome bot for channel owners that helps you to create rich posts, view stats and more.
-*   [vote](https://t.me/vote) 投票机器人，新建一个投票发布在群里，每一次投票都是实时显示结果的，结果会以十分直观的方式展示
-*   [PTRankBot](https://t.me/PTRankBot) 可以帮助你搜索和分享 iOS/macOS 应用，只需要在聊天框输入 @PTRankBot 和关键字，等待几秒就会出现搜索结果。支持命令查看 Store 各种排名，如 /top_free 查看每周免费排行榜
-*   [ehForwarderBot](https://t.me/EFBSupport) ehForwarderBot 能够将微信和 Telegram 连接在一起，你可以在 Telegram 上收发微信消息，详情查看:[https://meta.appinn.net/t/efb-v2-telegram-docker/10888](https://meta.appinn.net/t/efb-v2-telegram-docker/10888).GitHub 地址: [https://github.com/blueset/ehForwarderBot](https://github.com/blueset/ehForwarderBot)
-*   [AirPollution_Bot](https://t.me/AirPollution_Bot) 查询空气质量 (AQI), 数据来源为 aqicn.org, 比如发送 “/aqi 成都” 就会立即返回你成都的空气质量
-*   [temp_mail_bot](https://t.me/temp_mail_bot) 有效期 10 分钟临时邮箱服务，当你想要临时注册一个网站的账号时就可以用这种临时邮箱服务，避免自己的邮箱泄露也免于各种垃圾广告骚扰
-*   [utubebot](https://t.me/utubebot) YouTube 视频下载或者音频转换服务，把 YouTube 的链接发过去它就会帮你转换格式并为你提供文件，便于你下载此视频
-*   [apkdl_bot](https://t.me/apkdl_bot) Android APK 搜索和下载，输入 App 名即可提供多个来自国外网站 APK 下载链接，点 Preview 可以查看图标
-*   [LikeBot](https://t.me/LikeBot) 一个很酷的机器人，用基于表情符号的按钮创建帖子，可以点击表情符号投票.
-*   [Instasave_bot](https://t.me/Instasave_bot) 下载 Instagram 和 YouTube 的图片和视频
-*   [Creation Date](https://t.me/creationdatebot) 查询你的 tg ID 和注册时间
-*   [getidsbot](https://t.me/getidsbot) 查询你的 tg ID 和注册时间
-*   [TGSoBot](https://t.me/TGSoBot) Telegram 中文圈内容搜索引擎，主要用于支持官方不友好的中文搜索，有任何资源该引擎可以做到秒回.
-*   [TeleMe](https://www.teleme.io/) TeleMe is simple management & analytics software for Telegram communities. TeleMe 是一个方便好用的 Telegram 社群管理和统计 Bot.
-*   [Dr.Web](https://t.me/DrWebBot) 用于检测群组内的网页链接和文件，并在包含潜在威胁时发出警告.
-*   [daixiahu_bot](https://t.me/daixiahu_bot) 智能合租机器人。合租 求租 智能机器人，方便用户以最快的速度找到合适的车，支持 Netflix, Spotify, Youtube 等
-*   [cnLottery123_bot](https://t.me/cnLottery123_bot) 抽奖助手：便好用、公平公正的 Telegram 群组抽奖工具。适用于群里抽奖、抽签抓阄等场景.
-*   [tgLotteryBot](https://t.me/tgLotteryBot) 抽奖机器人
-*   [sauweenbot](https://t.me/sauweenbot) 一个中文群组管理机器人，内置一些全中文得简单操作
-*   [letmebot](https://t.me/letmebot) Teach those pricks how to use a search engine properly.
-*   [Doge Bot](https://t.me/jpg_dog_bot) JPG.DOG 的上线 Doge Bot 图床机器人，只需私聊发送图片，即可自动上传图床并返回链接！
-*   [areply_bot](https://t.me/areply_bot) 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能
-*   [WuhanPneumoniaBot](https://t.me/WuhanPneumoniaBot) 武汉新型冠状病毒感染肺炎查询
-*   [haoyybot](https://t.me/haoyybot) 歌曲音乐搜索机器人，输入歌曲名或者歌手名，把 TG 变成音乐播放器！
-*   [🎵 Music Downloader](https://t.me/MusicDownloaderRobot) Spotify 音乐下载
-*   [SangMataInfo_bot](https://t.me/SangMataInfo_bot) 群成员更改名称通知提醒
-*   [zlibrary](https://t.me/zlibrarybot) 搜书机器人
-*   [Nexus Search](https://t.me/libgen_scihub_bot) 搜书机器人
-*   [BookDown](https://t.me/bookdownbot) 搜书机器人
-*   [File Converter](https://t.me/newfileconverterbot) 格式转换:azw3 or mobi to epub
-*   [Send to Kindle](https://t.me/Send2KindleBot) Send to Kindle Bot
-*   [InstantViewBot](https://t.me/CorsaBot) 可以把文章都生成支持 Instant View
-*   [ChnInstantViewBot](https://t.me/ChnInstantViewBot) 可以把文章都生成支持 Instant View
-*   [WebpageBot](https://t.me/WebpageBot) 强制刷新 Telegram 链接预览
-*   [ReactBot](https://t.me/ReactBot) 频道消息添加点赞和评论按钮
-*   [ComenBot](https://t.me/ComenBot) 留言 / 评论机器人
-*   [CommentsBot](https://t.me/CommentsBot) 留言 / 评论机器人
-*   [CommentBot](https://t.me/bakalztbot) 频道消息添加点赞和评论按钮
-*   [Like and Comment](https://t.me/LikeComBot) 频道消息添加点赞和评论按钮
-*   [Channel Helper](https://t.me/jogle_channel_bot) 频道消息添加点赞和评论按钮
-*   [septs_autoclean_bot](https://t.me/septs_autoclean_bot) 频道助手
-*   [tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot) TGCN-CAPTCHA 加群验证
-*   [Jqs7ZweiBot](https://t.me/Jqs7ZweiBot) 加群验证
-*   [Captchat_Bot](https://t.me/Captchat_Bot) 加群验证
-*   [WatchDoorBot](https://t.me/WatchDoorBot) 加群验证
-*   [WooMaiBot](https://t.me/WooMaiBot) 加群验证
-*   [The Join Captcha Bot](https://t.me/join_captcha_bot) 加群验证
-*   [VideoTubeBot](https://t.me/VideoTubeBot) Downloads audio/video from YouTube.
-*   [PronunciationBot](https://t.me/PronunciationBot) 可以将 84 种语言文字转换成对应的语音 学习外语发音的利器
-*   [Shorten URL](https://t.me/referbot) 提供短网址 ShortenURL 服务，使用的网址为 ume.la
-*   [TransferRobot](https://t.me/TransferRobot) 上传文件后提供下载链接，适合做图床和文件分享
-*   [SpotifyMusicDownloaderBot](https://t.me/SpotifyMusicDownloaderBot) Spotify Music Downloader
-*   [Minesweeper](https://t.me/mine_sweeper_bot) 扫雷游戏
-*   [Combot](https://t.me/combot) 统计群消息情况，群成员情况
-*   [NodeRSSBot](https://t.me/NodeRSS_bot) A RSSBot written in Node.js https://github.com/fengkx/NodeRSSBot feel free to post issue or pull request
-*   [RustRssBot](https://t.me/RustRssBot) 中文 Telegram RSS 机器人
-*   [TheFeedReaderBot](https://t.me/TheFeedReaderBot) RSS 机器人
-*   [RSSchina_bot](https://t.me/RSSchina_bot) rss 订阅机器人
-*   [PdoRSS_bot](https://t.me/PdoRSS_bot) 一个勤勤恳恳的 RSS 订阅器
-*   [Warma Bot](https://t.me/warma_bot) 好听的萌妹子声音
-*   [get_id_bot](https://t.me/get_id_bot) get your telegram’s chat ID
-*   [GroupHub_bot](https://t.me/GroupHub_bot) tg 中文圈优质群组
-*   [TWBlackList_bot](https://t.me/TWBlackList_bot) 登爺的名單，辅助管理群成员，帮你 ban 人
-*   [CNBlackListRBot](https://t.me/CNBlackListRBot) 辅助管理群成员，帮你 ban 人
-*   [GroupButler](https://t.me/GroupButler_bot) This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more!
-*   [AntiServiceMessageBot](https://t.me/AntiServiceMessageBot) 自动把入群和退群通知删除
-*   [Anonymous Telegram Bot](https://t.me/Anonymous_telegram_bot) 群组匿名消息机器人。将机器人加入群组后，私聊机器人，可以通过机器人将文本、视频等匿名发送到群组内.
-*   [AntiHyperlinkBot](https://t.me/AntiHyperlinkBot) 自动删除包含有链接的消息
-*   [AntiCommandBot](https://t.me/AntiCommandBot) 自动删除 / 命令 的消息
-*   [AntiArabicScriptBot](https://t.me/AntiArabicScriptBot) removes all messages which contain arabic script
-*   [Giphy GIF Search](https://t.me/gif) GIF 搜索
-*   [Wikipedia Search](https://t.me/wiki) Wikipedia 搜索
-*   [Markdown Bot](https://t.me/Bold) Markdown 格式编辑消息
-*   [JPEGreenBot](https://t.me/JPEGreenBot) 图片劣化
-*   [ImageBot](https://t.me/imagebot) This simple bot can fetch images and GIFs upon request.
-*   [IMDb](https://t.me/imdb) This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat
-*   [Classical Music](https://t.me/music) This bot can help you find beautiful classical music.
-*   [YouTube Bot](https://t.me/youtube) This bot can help you find and share YouTube videos.
-*   [GitHub](https://t.me/githubbot) Get notifications about events in your public GitHub repositories and post comments directly from Telegram.
-*   [Shop Bot](https://t.me/shopbot) Try out the new Telegram Payments without actually paying anything.
-*   [StickerBot](https://t.me/sticker) This bot will help you find new relevant stickers for your favorite emoji.
-*   [Gamee](https://t.me/gamee) The best games on Telegram! Pick a game and challenge your friends
-*   [Hot Or Bot](https://t.me/hotorbot) Like others and let others like you.
-*   [GetMediaBot](https://getmediabot/) Get any media file from any where…
-*   [NoSticker](https://t.me/nosticker_bot) 自动删除群里的 Stickers
-*   [SpamMeNotBot](https://t.me/SpamMeNotBot) 保护您的组免受垃圾邮件 / 攻击
-*   [socks5_bot](https://t.me/socks5_bot) 免费获得 Socks5 代理
-*   [MahoNato_bot](https://t.me/MahoNato_bot) 森近真帆
-*   [telegraph](https://t.me/telegraph) 管理 Telegra.ph 文章
-*   [mdrobot](https://t.me/mdrobot) Markdown 机器人
-*   [referbot](https://t.me/referbot) 提供短网址 Shorten URL 服务，使用的网址为 ume.la
-*   [LinkGeneratorBot](https://t.me/LinkGeneratorBot) 短地址服务
-*   [QRCodeRoBot](https://t.me/QRCodeRoBot) 二维码识别机器人，通过拍照和上传图片的方式识别
-*   [thesafebot](https://t.me/thesafebot) 一个利用 telegram 存储功能实现额外加密的云存储服务
-*   [MyTeleCloudBot](https://t.me/MyTeleCloudBot) 另一个云存储服务，没有额外加密，不过功能还行
-*   [topdf_bot](https://t.me/topdf_bot) 转换文件为 PDF 格式 ss
-*   [Instasave_bot](https://t.me/Instasave_bot) 用来下载 instagram 的 bot
-*   [my_ali_bot](https://t.me/my_ali_bot) 用来在 AliExpress 上购物
-*   [TrustedSleepBot](https://t.me/TrustedSleepBot) 可信睡眠机器人
-*   [ddoc_bot](https://t.me/ddoc_bot) DDOS 攻击器
-*   [storebot](https://t.me/storebot) 机器人商店，索引了各种机器人，可以寻找自己感兴趣的
-*   [tchannelsbot](https://t.me/tchannelsbot) 索引了很多 Channel, 可以寻找自己感兴趣的 Channel
-*   [CostflowCryptoBot](https://t.me/CostflowCryptoBot) Cryptocurrencies
-*   [CostflowCurrencyBot](https://t.me/CostflowCurrencyBot) Real world currency rates/convention
-*   [stockprice_bot](https://t.me/stockprice_bot) 中文股票机器人，A 股 / 美股 / 港股
-*   [LotteryBot](https://t.me/LotteryBot) 一个比特币抽奖的机器人
-*   [todobot](https://t.me/todobot) To do list manager
-*   [rJailbreakBot](https://t.me/rJailbreakBot) Jailbreak Bot
-*   [iqdb_org_bot](https://t.me/iqdb_org_bot) IQDB Bot
-*   [ascii2d_bot](https://t.me/ascii2d_bot) Ascii2d Bot
-*   [wangjingze_bot](https://t.me/wangjingze_bot) 王境泽 Bot
-*   [yaplus_bot](https://t.me/yaplus_bot) Yaplus Bot
-*   [kunsu_bot](https://t.me/kunsu_bot) HandsUp Bot
-*   [youqianbot](https://t.me/youqianbot) 为所欲为 Bot
-*   [redpack_bot](https://t.me/redpack_bot) 红包 Bot
-*   [penle_bot](https://t.me/penle_bot) 喷了 Bot
-*   [jichou_bot](https://t.me/jichou_bot) 记仇 Bot
-*   [bugele_bot](https://t.me/bugele_bot) 不鸽了 Bot
-*   [jidubot](https://t.me/jidubot) 嫉妒 Bot
-*   [favorite_stickers_bot](https://t.me/favorite_stickers_bot) 贴纸包 Bot
-*   [PLGameBot](https://t.me/PLGameBot) 在线游戏的机器人
-*   [Cctv365bot](https://t.me/Cctv365bot) 电影搜索
-*   [Telegram Bot List](https://github.com/goq/telegram-list/blob/master/bots.md)
-*   [Telegram Bot List](https://github.com/eternnoir/pyTelegramBotAPI#bots-using-this-api)
-*   [Telegram Bot Store](https://storebot.me/)
-*   [Telegram Bots](https://blog.rawstack.co/post/telegram-bots)
-
-## 社交媒体
-
-### 各大板块重要Twitter账号
-- 无论你关注链上数据、宏观叙事、技术开发还是政策动向，都能在对应板块快速找到高质量的信息源：既有 Vitalik、Hayden Adams 等技术路线制定者，也有 Balaji、Cathie Wood 等宏观思想领袖；既涵盖交易员图表派、链上安全监测，又追踪 SEC、国会议员的监管风向，甚至包括萨尔瓦多总统 Bukele、阿根廷总统 Milei 等政要动态。通过关注并分类阅读这些账号，你可以：
-1. 第一时间掌握行业重大事件与政策变化（研究/媒体、合规/政策板块）。
-2. 洞察链上资金流与市场周期（链上/宏观、图表派）。
-3. 紧跟协议升级与 Layer-2 技术演进（核心创始/技术、Layer-2/基础设施）。
-4. 学习 DeFi、NFT 等细分赛道的实操与投研方法（DeFi 建设、NFT/元宇宙）。
-5. 获取华语社群与本土监管最新资讯（华语圈板块）。
-
-
-| 板块 / 分类            | Twitter | 标签 | 简介 |
-|----------------------|-------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| **核心创始/技术**    | [@VitalikButerin](https://twitter.com/VitalikButerin)       | 以太坊共同创始人 | 以太坊路线图与扩容、治理思考的一手来源，时常发布长文探讨加密未来。 |
-|                      | [@gavofyork](https://twitter.com/gavofyork)                 | Polkadot 创始人 | Web3 概念提出者，分享 Substrate / Polkadot 生态及跨链技术进展。 |
-|                      | [@IOHK_Charles](https://twitter.com/IOHK_Charles)           | Cardano 创始人 | 关注区块链教育与监管，对 Cardano 的研究路线和治理升级解读细致。 |
-|                      | [@cz_binance](https://twitter.com/cz_binance)               | Binance 创始人 | 行业最大交易所的政策风向标，常谈合规、产品迭代与市场情绪。 |
-|                      | [@brian_armstrong](https://twitter.com/brian_armstrong)     | Coinbase CEO | 上市交易所视角分析美国监管及加密与传统金融融合的趋势。 |
-|                      | [@aeyakovenko](https://twitter.com/aeyakovenko)             | Solana 创始人 | 专注高性能链扩容、手机 Saga 与 DePIN 等最新实验。 |
-|                      | [@haydenzadams](https://twitter.com/haydenzadams)           | Uniswap 创始人 | DEX 迭代与流动性机制设计的深度思考者，V4 进度必看。 |
-|                      | [@StaniKulechov](https://twitter.com/StaniKulechov)         | Aave 创始人 | 借贷协议与 Lens 去中心化社交的最新里程碑。 |
-|                      | [@justinsuntron](https://twitter.com/justinsuntron)         | Tron 创始人 | Tron、USDD 及各类链上资产布局的高频宣传者。 |
-|                      | [@RuneKek](https://twitter.com/RuneKek)                     | MakerDAO 创始人 | “Endgame” 方案与 DAI 稳定币治理改革的推动者。 |
-|                      | [@BarrySilbert](https://twitter.com/BarrySilbert)           | DCG 创始人 | 掌管 GBTC、Genesis 等子公司，对行业投融资与重组发声。 |
-|                      | [@rogerkver](https://twitter.com/rogerkver)                 | “Bitcoin Jesus” | 早期布道者，倡导 BCH 与自由主义经济理念。 |
-|                      | [@ErikVoorhees](https://twitter.com/ErikVoorhees)           | ShapeShift 创始 | 去中心化金融与个人自由哲学的长期支持者。 |
-|                      | [@RichardHeartWin](https://twitter.com/RichardHeartWin)     | PulseChain 创始 | HEX / PulseChain 推广，市场情绪营销高手。 |
-| **投资人/思想**      | [@balajis](https://twitter.com/balajis)                     | 前 Coinbase CTO | “网络国家” 提出者，宏观科技与加密结合的前瞻思考。 |
-|                      | [@cdixon](https://twitter.com/cdixon)                       | a16z Crypto | Web3 投资逻辑与开发者生态观察，线程质量高。 |
-|                      | [@pmarca](https://twitter.com/pmarca)                       | a16z 联合创始 | 纵观技术周期和监管辩论，对加密保持长期看多。 |
-|                      | [@CathieDWood](https://twitter.com/CathieDWood)             | ARK Invest CEO | 发表比特币价格模型与宏观流动性洞见。 |
-|                      | [@DTAPCAP](https://twitter.com/DTAPCAP)                     | 10T Holdings | 传统大宗商品与加密对冲理念的桥梁人物。 |
-|                      | [@KyleSamani](https://twitter.com/KyleSamani)               | Multicoin | 叙事驱动交易与 Solana 生态深度研究。 |
-|                      | [@TusharJain_](https://twitter.com/TusharJain_)             | Multicoin | 从交易员视角分享宏观事件与仓位管理策略。 |
-|                      | [@matthuang](https://twitter.com/matthuang)                 | Paradigm | 聚焦 L2、MEV 与交易所微结构的研究型合伙人。 |
-|                      | [@FEhrsam](https://twitter.com/FEhrsam)                     | Paradigm | Coinbase 联合创始人，讨论链上治理与安全性。 |
-|                      | [@avichal](https://twitter.com/avichal)                     | Electric Capital | 年度开发者报告主笔，关注开源贡献与资金流。 |
-|                      | [@zxocw](https://twitter.com/zxocw)                         | Polychain | 早期基础设施投资者，强调技术护城河。 |
-|                      | [@saylor](https://twitter.com/saylor)                       | MicroStrategy | “把公司金库全换成 BTC” 的极端多头代表。 |
-| **研究/媒体**        | [@coindesk](https://twitter.com/coindesk)                   | 行业新闻 | 老牌英文媒体，重大事件与数据报告首发地。 |
-|                      | [@TheBlock__](https://twitter.com/TheBlock__)               | 研究媒体 | 深挖加密与 TradFi 交叉，消息准确度高。 |
-|                      | [@WuBlockchain](https://twitter.com/WuBlockchain)           | 中英快讯 | 吴说区块链：最快速的中英文双语快讯与爆料。 |
-|                      | [@MessariCrypto](https://twitter.com/MessariCrypto)         | 研报平台 | 链上数据与长篇研报发布账号。 |
-|                      | [@glassnode](https://twitter.com/glassnode)                 | 链上数据 | 精细链上指标与可视化图表的首选来源。 |
-|                      | [@intotheblock](https://twitter.com/intotheblock)           | 数据洞察 | 提供大额转账、持仓分布等链上行为洞察。 |
-|                      | [@coinbureau](https://twitter.com/coinbureau)               | 教程频道 | 入门友好的视频与文章评测，覆盖面广。 |
-|                      | [@laurashin](https://twitter.com/laurashin)                 | Unchained | 深度访谈播客主持，常邀头部项目创始人。 |
-|                      | [@CamiRusso](https://twitter.com/CamiRusso)                 | The Defiant | 专注 DeFi 的深度新闻与专栏。 |
-|                      | [@twobitidiot](https://twitter.com/twobitidiot)             | Messari CEO | 尖锐行业评论与政策批判。 |
-|                      | [@adamscochran](https://twitter.com/adamscochran)           | 深度科普 | 长线程科普复杂协议与市场机制，逻辑清晰。 |
-|                      | [@100trillionUSD](https://twitter.com/100trillionUSD)       | PlanB S2F | S2F 模型作者，宏观供需视角解读 BTC。 |
-|                      | [@santimentfeed](https://twitter.com/santimentfeed)         | 市场情绪 | 社媒情绪、链上活跃度与鲸鱼动向数据推送。 |
-|                      | [@PositiveCrypto](https://twitter.com/PositiveCrypto)       | LookIntoBitcoin | 图形化 BTC 链上指标与策略工具更新。 |
-| **链上/宏观**        | [@cryptoquant_com](https://twitter.com/cryptoquant_com)      | CryptoQuant | 交易所资金流与矿工行为监控数据提供者。 |
-|                      | [@_Checkmatey_](https://twitter.com/_Checkmatey_)           | Glassnode 分析 | 链上周期与市场结构的深度解读。 |
-|                      | [@dilutionproof](https://twitter.com/dilutionproof)         | 长周期研究 | 发布宏观资金流模型与估值框架。 |
-|                      | [@rektcapital](https://twitter.com/rektcapital)             | 周期派 | 以减半与支撑位为核心的比特币周期分析。 |
-|                      | [@IT_Tech_PL](https://twitter.com/IT_Tech_PL)               | 链上+技术面 | 图表结合链上数据给出综合判断。 |
-|                      | [@ASvanevik](https://twitter.com/ASvanevik)                 | Nansen CEO | 分享钱包标签、资金流热图与链上 Alpha。 |
-|                      | [@Dune](https://twitter.com/Dune)                           | Dune Analytics | 社区仪表盘、查询模板与数据竞赛信息。 |
-|                      | [@WillyWoo](https://twitter.com/WillyWoo)                   | 链上先驱 | 早期链上分析师，善用投资者分布指标。 |
-|                      | [@intocryptoverse](https://twitter.com/intocryptoverse)     | Benjamin Cowen | 用数学模型研究 BTC 与流动性关系。 |
-| **图表派/KOL**      | [@CryptoCred](https://twitter.com/CryptoCred)               | 技术面教程 | 高质量入门到进阶技术面教学，体系完善。 |
-|                      | [@CryptoDonAlt](https://twitter.com/CryptoDonAlt)           | 波段交易 | 幽默风格结合波段逻辑，行情点评犀利。 |
-|                      | [@Pentosh1](https://twitter.com/Pentosh1)                   | 宏观+图表 | 宏观叙事结合技术面，关注期货持仓数据。 |
-|                      | [@TraderSZ](https://twitter.com/TraderSZ)                   | 订单流 | 订单簿与 SFP 策略实战派。 |
-|                      | [@TheCryptoDog](https://twitter.com/TheCryptoDog)           | 波段综述 | 资深 KOL，熊市依旧活跃分享观点。 |
-|                      | [@IncomeSharks](https://twitter.com/IncomeSharks)           | 指标混合 | 算法信号与 K 线结合的量化分析。 |
-|                      | [@tradermayne](https://twitter.com/tradermayne)             | 高杠杆日内 | 日内合约与 swing 复盘，实战细节多。 |
-|                      | [@galaxyBTC](https://twitter.com/galaxyBTC)                 | BTC 专注 | 专注 BTC 波段关键位与宏观趋势。 |
-|                      | [@Rager](https://twitter.com/Rager)                         | 水平线画手 | 简洁水平支撑阻力画法，新手友好。 |
-|                      | [@CryptoKaleo](https://twitter.com/CryptoKaleo)             | 叙事动能 | 抓叙事热点与动量走势，跟踪热点币首选。 |
-|                      | [@smartcontracter](https://twitter.com/smartcontracter)     | 5 浪理论 | Elliott Wave 计数为核心的行情推演。 |
-|                      | [@AltcoinPsycho](https://twitter.com/AltcoinPsycho)         | 新币猎手 | 私募动向与早期项目 Alpha 源。 |
-|                      | [@ColdBloodShill](https://twitter.com/ColdBloodShill)       | Meme 达人 | Meme 币生态与社区热点梳理高手。 |
-|                      | [@Bluntz_Capital](https://twitter.com/Bluntz_Capital)       | 结构派 | 结构化图表派，结合宏观趋势。 |
-|                      | [@Anbessa100](https://twitter.com/Anbessa100)               | 复盘 guru | 长期复盘关键行情，重视资金管理。 |
-| **DeFi 建设**        | [@thedefiedge](https://twitter.com/thedefiedge)             | DeFi 投研 | 通俗易懂的策略与风控科普贴，适合进阶学习。 |
-|                      | [@thedefiinvestor](https://twitter.com/thedefiinvestor)     | 策略科普 | 深入解析代币经济与收益模型，观点犀利。 |
-|                      | [@DeFi_Dad](https://twitter.com/DeFi_Dad)                   | 实操教程 | 手把手教学各类 DeFi 协议的使用方法。 |
-|                      | [@BanklessHQ](https://twitter.com/BanklessHQ)               | Bankless 媒体 | “去银行化” 运动旗舰媒体，播客与专栏齐全。 |
-|                      | [@RyanSAdams](https://twitter.com/RyanSAdams)               | Bankless 主播 | 宏观+以太坊更新长推，对政策解读细致。 |
-|                      | [@cobie](https://twitter.com/cobie)                         | UpOnly 主播 | 行业八卦与尖锐评论兼备，话题度高。 |
-|                      | [@AndreCronjeTech](https://twitter.com/AndreCronjeTech)     | Yearn 创始 | 时常空投新想法，开发者思考视角独特。 |
-|                      | [@0xMaki](https://twitter.com/0xMaki)                       | Sushi 创始 | 多链 DeFi 布道者，社群影响力大。 |
-|                      | [@kaiynne](https://twitter.com/kaiynne)                     | Synthetix 创始 | 去中心化衍生品市场与 tokenomics 洞见。 |
-|                      | [@hosseeb](https://twitter.com/hosseeb)                     | Dragonfly GP | 深度投研与安全审计视角，长文质量高。 |
-| **NFT/元宇宙**       | [@beeple](https://twitter.com/beeple)                       | 数字艺术家 | “Everydays” 创作者，巨额 NFT 拍卖纪录保持者。 |
-|                      | [@punk6529](https://twitter.com/punk6529)                   | 元宇宙倡导 | 开源元宇宙 OM 项目与开放版权倡议。 |
-|                      | [@gmoneyNFT](https://twitter.com/gmoneyNFT)                 | 高端 NFT | 9dcc 时尚品牌创始，高净值藏家视角。 |
-|                      | [@farokh](https://twitter.com/farokh)                       | RugRadio | NFT 社区主持人，推特 Spaces 活跃。 |
-|                      | [@Zeneca_33](https://twitter.com/Zenca_33)                  | NFT 情报 | “Zeneca” 情绪指数作者，教学与社群管理。 |
-|                      | [@garyvee](https://twitter.com/garyvee)                     | VeeFriends | Web3 营销大师，创业与自我提升金句多。 |
-|                      | [@punk9059](https://twitter.com/punk9059)                   | NFT 数据 | 发布每日 NFT 成交数据与市值排行。 |
-|                      | [@osf_nft](https://twitter.com/osf_nft)                     | Rekt Guy | 交易员转型艺术家，摄影与 NFT 融合作品。 |
-|                      | [@andrwwang](https://twitter.com/andrwwang)                 | NFT 记者 | 报道行业热点并采访头部创作者。 |
-|                      | [@CozomoMedici](https://twitter.com/CozomoMedici)           | 藏家(狗哥) | Snoop Dogg 的 NFT 分身，扶持艺术家。 |
-|                      | [@SteveAoki](https://twitter.com/SteveAoki)                 | DJ / NFT | 将音乐、演出与 NFT 结合的先锋实验者。 |
-|                      | [@dclblogger](https://twitter.com/dclblogger)               | 虚拟地产 | 早期元宇宙地产交易布道者与教育者。 |
-| **Layer-2/基础设施** | [@EliBenSasson](https://twitter.com/EliBenSasson)            | StarkWare | ZK-STARK 先驱，推广 Cairo 与 StarkNet。 |
-|                      | [@sgoldfed](https://twitter.com/sgoldfed)                   | Arbitrum | Offchain Labs 联合创始，Rollup 进展更新。 |
-|                      | [@MihailoBjelic](https://twitter.com/MihailoBjelic)         | Polygon | 多链 zkEVM 与 CDK 计划的核心推动者。 |
-|                      | [@gluk64](https://twitter.com/gluk64)                       | zkSync | Matter Labs CEO，ZK Stack 与 hyperchains。 |
-|                      | [@musalbas](https://twitter.com/musalbas)                   | Celestia | 模块化 DA 叙事布道者，分享 Rollup 未来。 |
-|                      | [@sreeramkannan](https://twitter.com/sreeramkannan)         | EigenLayer | 再质押与 AVS 机制提出者，深化 ETH 经济安全。 |
-|                      | [@karl_dot_tech](https://twitter.com/karl_dot_tech)         | OP Labs | 公共物品资助与 OP Stack 技术更新。 |
-|                      | [@SandyPengETH](https://twitter.com/SandyPengETH)           | Scroll | zkEVM 主网与多链互操作最新动态。 |
-| **合规/政策**        | [@HaileyLennonBTC](https://twitter.com/HaileyLennonBTC)     | 加密律师 | 解读 SEC / FinCEN 合规与行业诉讼。 |
-|                      | [@jchervinsky](https://twitter.com/jchervinsky)             | Blockchain Assoc. | 行业游说先锋，实时跟进国会法案。 |
-|                      | [@katherineykwu](https://twitter.com/katherineykwu)         | 法务研究 | 投资与法律交叉研究，长文高质量。 |
-|                      | [@HesterPeirce](https://twitter.com/HesterPeirce)           | SEC 委员 | “Crypto Mom”，主张宽松监管。 |
-|                      | [@SenLummis](https://twitter.com/SenLummis)                 | 友好议员 | 比特币拥趸，多项友好法案联合提案人。 |
-|                      | [@WarrenDavidson](https://twitter.com/WarrenDavidson)       | 美众议员 | 推动 Token Taxonomy Act 的主要力量。 |
-|                      | [@coincenter](https://twitter.com/coincenter)               | DC 智库 | 华盛顿智库，发布政策白皮书与听证会意见。 |
-|                      | [@BlockchainAssn](https://twitter.com/BlockchainAssn)       | 行业协会 | 代表行业利益与政策制定者沟通。 |
-|                      | [@GaryGensler](https://twitter.com/GaryGensler)             | 前 SEC 主席；执法高压 | 对加密市场执法态度强硬，监管言论风向标。 |
-|                      | [@SenWarren](https://twitter.com/SenWarren)                 | 参议员；加密批评者 | 推动更严格 AML / KYC 立法，批评加密风险。 |
-| **政界 / 公众人物**  | [@elonmusk](https://twitter.com/elonmusk)                   | Tesla / X CEO，Dogecoin 推动者 | 推文常引发市场波动，关注 AI、支付与链上社交。 |
-|                      | [@realDonaldTrump](https://twitter.com/realDonaldTrump)     | 美国前总统；稳定币立法 & NFT | NFT 卡牌发行者，公开表达对加密创新的支持。 |
-|                      | [@RobertKennedyJr](https://twitter.com/RobertKennedyJr)     | 总统竞选人；比特币倡导者 | 竞选期间多次强调比特币自由与科技创新。 |
-|                      | [@JMilei](https://twitter.com/JMilei)                       | 阿根廷总统；比特币自由流通支持 | 自由主义经济观，公开称赞 BTC 抗通胀属性。 |
-|                      | [@nayibbukele](https://twitter.com/nayibbukele)             | 萨尔瓦多总统；比特币法定化先驱 | 推动 BTC 法定货币化与“比特币债券” 计划。 |
-| **传统金融 / ETF**  | [@jerallaire](https://twitter.com/jerallaire)               | Circle 联合创始 / USDC | 稳定币监管与全球支付网络布局的一线信息。 |
-|                      | [@Sonnenshein](https://twitter.com/Sonnenshein)             | 前 Grayscale CEO；GBTC 转 ETF | 推动现货 BTC ETF 成功落地的关键人物。 |
-| **科技 / 加密创新** | [@sama](https://twitter.com/sama)                           | OpenAI & Worldcoin 联合创始 | 探讨 AI 与加密身份结合的未来趋势。 |
-|                      | [@jack](https://twitter.com/jack)                           | Block CEO；Lightning 推广 | 支持比特币 Layer-2、Nostr 等去中心化社交。 |
-| **华语圈**          | [@WuBlockchain](https://twitter.com/WuBlockchain)           | 中英快讯 | 吴说区块链：爆料速度快、视野国际化。 |
-|                      | [@8BTCnews](https://twitter.com/8BTCnews)                   | 中文媒体 | “巴比特” 旗下账号，关注政策与技术文章。 |
-|                      | [@DoveyWan](https://twitter.com/DoveyWan)                   | Primitive 创始 | 跨文化视角与幽默梗图并存的加密投资人。 |
-|                      | [@bigmagicdao](https://twitter.com/bigmagicdao)             | 加密投资 | Big Magic DAO 创始，发布一级研究贴。 |
-|                      | [@SpartanBlack_1](https://twitter.com/SpartanBlack_1)       | Spartan 资本 | 交易与叙事逻辑并重，东南亚视角突出。 |
-|                      | [@CryptoHayes](https://twitter.com/CryptoHayes)             | BitMEX 创始 | 宏观+加密长文与讽刺点评兼具。 |
-|                      | [@slowmist_tian](https://twitter.com/slowmist_tian)         | 慢雾安全 | 链上安全事件与漏洞预警第一手信息。 |
-|                      | [@StarXu](https://twitter.com/StarXu)                       | OKX 创始 | 分享交易所发展与全球合规进度。 |
-|                      | [@cz_binance](https://twitter.com/cz_binance)               | 币安创始 | **同上**，全球最大交易所的风向标。 |
-|                      | [@justinsuntron](https://twitter.com/justinsuntron)         | TRON 创始 | **同上**，链上资产布局与热点营销。 |
-|                      | [@SatoshiLite](https://twitter.com/SatoshiLite)             | LTC 创始 | 轻松谈技术与市场，关注 MimbleWimble 等升级。 |
-|                      | [@zhu1su](https://twitter.com/zhu1su)                       | 3AC 创始 | 常发哲学化长推，探讨市场周期。 |
-|                      | [@Arthur_0x](https://twitter.com/Arthur_0x)                 | DeFiance 资本 | 发布研究线程与新协议发现，偏早期 Alpha。 |
-|                      | [@ChandlerGuo](https://twitter.com/ChandlerGuo)             | 矿业大佬 | 早期矿霸，曾倡导 ETH Pow 分叉。 |
-|                      | [@dahongfei](https://twitter.com/dahongfei)                 | NEO 创始 | 讨论 Web3 与中国监管合规路线。 |
-|                      | [@JihanWu](https://twitter.com/JihanWu)                     | 矿机巨头 | 比特大陆联合创始，推动算力金融化。 |
-|                      | [@LeonHuobi](https://twitter.com/LeonHuobi)                 | 火币创始 | 交易所行业经验与合规思考分享。 |
-|                      | [@JiangZhuoer](https://twitter.com/JiangZhuoer)             | BTC.TOP 矿 | 探讨区块大小与网络治理的技术长文。 |
-|                      | [@boshen1011](https://twitter.com/boshen1011)               | 芬布希资本 | 早期一级投资笔记与市场研究。 |
-|                      | [@beenhero](https://twitter.com/beenhero)                   | imToken 创始 | 钱包安全与以太坊生态洞见。 |
-|                      | [@BlockBeatsAsia](https://twitter.com/BlockBeatsAsia)       | BlockBeats | 快节奏中文新闻站，市场速递多。 |
-|                      | [@BiteyeCN](https://twitter.com/BiteyeCN)                   | 研报平台 | 中文研究 DAO，发布高质量 DeFi 研报。 |
-|                      | [@Foresight_News](https://twitter.com/Foresight_News)       | Foresight 快讯 | 跟踪投融资与政策变动，推送及时。 |
-|                      | [@TechFlowPost](https://twitter.com/TechFlowPost)           | 深潮 TechFlow | Web3 新技术与应用前线报道。 |
-|                      | [@PANewsCN](https://twitter.com/PANewsCN)                   | PANews 媒体 | 投融资日报与访谈内容丰富。 |
-|                      | [@ChainCatcher_](https://twitter.com/ChainCatcher_)         | ChainCatcher | 产业速览与深度专访并重。 |
-|                      | [@JinseFinance](https://twitter.com/JinseFinance)           | 金色财经 | 行情、政策与活动全覆盖的中文门户。 |
-|                      | [@BlockTempo](https://twitter.com/BlockTempo)               | 动区媒体 | 台湾媒体，重视教育与新闻平衡。 |
-|                      | [@cryptohunt_ai](https://twitter.com/cryptohunt_ai)         | 数据情报 | 链上鲸鱼转账与交易情报监控工具。 |
-|                      | [@matrixport_en](https://twitter.com/matrixport_en)         | Matrixport 研报 | 衍生品研究与收益策略分析。 |
-|                      | [@imTokenOfficial](https://twitter.com/imTokenOfficial)     | imToken 钱包 | 官方安全提示与版本更新。 |
-|                      | [@OKX](https://twitter.com/OKX)                             | OKX 官方 | 上币公告、活动与研究报告。 |
-|                      | [@HTX_Global](https://twitter.com/HTX_Global)               | HTX 官方 | 多语言公告与全球活动预告。 |
-|                      | [@binance_sg](https://twitter.com/binance_sg)               | Binance SG | 新加坡合规信息与推广活动。 |
-|                      | [@kucoincom](https://twitter.com/kucoincom)                 | KuCoin 官方 | 活动与上市币速报。 |
-|                      | [@Bitgetglobal](https://twitter.com/Bitgetglobal)           | Bitget 交易所 | 合约产品与复制交易推广。 |
-|                      | [@Gate_io](https://twitter.com/Gate_io)                     | Gate 官方 | 理财与上新提醒频繁。 |
-|                      | [@Bybit_Official](https://twitter.com/Bybit_Official)       | Bybit 交易所 | 衍生品交易教程与赛事活动。 |
-|                      | [@MEXC_Official](https://twitter.com/MEXC_Official)         | MEXC 交易所 | 抢新活动与上币空投通知。 |
-|                      | [@Conflux_Network](https://twitter.com/Conflux_Network)     | Conflux 公链 | 树图生态与亚洲市场合作更新。 |
-|                      | [@HashKeyGroup](https://twitter.com/HashKeyGroup)           | HashKey 集团 | 香港持牌机构动态与资管产品。 |
-|                      | [@HashKeyExchange](https://twitter.com/HashKeyExchange)     | HashKey 交易 | 上线公告与安全合规教育。 |
-|                      | [@MerlinLayer2](https://twitter.com/MerlinLayer2)           | BTC 二层 | 比特币 L2 Merlin 研发与生态合作。 |
-|                      | [@mattyryze](https://twitter.com/mattyryze)                 | RyzeLabs 合伙 | 亚洲 Web3 投资与孵化洞见。 |
-|                      | [@LingfengCapital](https://twitter.com/LingfengCapital)     | 零峰资本 | 一级项目研究与投资逻辑分享。 |
-|                      | [@waterdripfund](https://twitter.com/waterdripfund)         | 水滴资本 | 链游与基础设施投资案例展示。 |
-|                      | [@mrjasonchoi](https://twitter.com/mrjasonchoi)             | Blockcrunch 播客 | 深度访谈播客摘要与投资观点。 |
-|                      | [@ChineseWhales](https://twitter.com/ChineseWhales)         | 中国鲸观察 | 监控链上巨额转账与鲸鱼动向。 |
-|                      | [@AltcoinGordon](https://twitter.com/AltcoinGordon)         | Bitget 分析 | 新币首发解析与市场热点评论。 |
+# 其他
+| 群组名称                      | 链接                                                                               | 功能描述                   |
+| ------------------------- | -------------------------------------------------------------------------------- | ---------------------- |
+| 这个我知道                     | [https://t.me/keyword_reply_bot](https://t.me/keyword_reply_bot)                 | 本机器人能够自动回复关键词对应的内容     |
+| 这个我删了 Bot                 | [https://t.me/keyworddel_bot](https://t.me/keyworddel_bot)                       | 自动删除推广 / 广告 / 菠菜等消息    |
+| Vultr 助手 Bot              | [https://t.me/vultr_helper_bot](https://t.me/vultr_helper_bot)                   | Vultr 账户绑定与余额/流量提醒     |
+| Telegram 权限管理 Bot         | [https://t.me/autopm_bot](https://t.me/autopm_bot)                               | 自动管理群权限，定时开关权限         |
+| TGX - 频道秘书                | [https://t.me/zh_secretary_bot](https://t.me/zh_secretary_bot)                   | 中文群组索引导航               |
+| TGCN - 群组频道狐              | [https://t.me/zh_groups_bot](https://t.me/zh_groups_bot)                         | 中文群组频道搜索机器人            |
+| 新频道群组导航                   | [https://t.me/groups_cnbot](https://t.me/groups_cnbot)                           | 新频道群组导航                |
+| Translate Father          | [https://t.me/TranslateFather_bot](https://t.me/TranslateFather_bot)             | 翻译消息                   |
+| Yandex.Translate          | [https://t.me/YTranslateBot](https://t.me/YTranslateBot)                         | 翻译消息                   |
+| Language Translator       | [https://t.me/ang_translate_bot](https://t.me/ang_translate_bot)                 | 翻译消息                   |
+| 中英翻譯                      | [https://t.me/en_to_tw_bot](https://t.me/en_to_tw_bot)                           | 中英文互译                  |
+| Sticker To GIF            | [https://t.me/Sticker2GIFBot](https://t.me/Sticker2GIFBot)                       | 贴纸下载/动态贴纸转 GIF         |
+| Sticker Downloader        | [https://t.me/Stickerdownloadbot](https://t.me/Stickerdownloadbot)               | 贴纸下载                   |
+| StickerSetBot             | [https://t.me/stickerset2packbot](https://t.me/stickerset2packbot)               | 贴纸下载                   |
+| TG Downloader             | [https://t.me/GIFDownloader_bot](https://t.me/GIFDownloader_bot)                 | GIF 和贴纸下载              |
+| Manybot                   | [https://t.me/Manybot](https://t.me/Manybot)                                     | 创建自定义机器人、命令、菜单         |
+| ControllerBot             | [https://t.me/ControllerBot](https://t.me/ControllerBot)                         | 频道运营辅助、排版与数据统计         |
+| vote                      | [https://t.me/vote](https://t.me/vote)                                           | 创建可视化投票                |
+| PTRankBot                 | [https://t.me/PTRankBot](https://t.me/PTRankBot)                                 | iOS/macOS 应用搜索与榜单查询    |
+| ehForwarderBot            | [https://t.me/EFBSupport](https://t.me/EFBSupport)                               | 微信与 Telegram 互通        |
+| AirPollution_Bot          | [https://t.me/AirPollution_Bot](https://t.me/AirPollution_Bot)                   | 空气质量 AQI 查询            |
+| temp_mail_bot             | [https://t.me/temp_mail_bot](https://t.me/temp_mail_bot)                         | 10 分钟临时邮箱              |
+| utubebot                  | [https://t.me/utubebot](https://t.me/utubebot)                                   | YouTube 视频/音频下载        |
+| apkdl_bot                 | [https://t.me/apkdl_bot](https://t.me/apkdl_bot)                                 | Android APK 搜索下载       |
+| LikeBot                   | [https://t.me/LikeBot](https://t.me/LikeBot)                                     | 表情按钮投票                 |
+| Instasave_bot             | [https://t.me/Instasave_bot](https://t.me/Instasave_bot)                         | Instagram/YouTube 媒体下载 |
+| Creation Date             | [https://t.me/creationdatebot](https://t.me/creationdatebot)                     | 查询 Telegram ID 与注册时间   |
+| getidsbot                 | [https://t.me/getidsbot](https://t.me/getidsbot)                                 | 查询 Telegram ID         |
+| TGSoBot                   | [https://t.me/TGSoBot](https://t.me/TGSoBot)                                     | 中文内容搜索引擎               |
+| TeleMe                    | [https://www.teleme.io/](https://www.teleme.io/)                                 | 群组管理与统计                |
+| Dr.Web                    | [https://t.me/DrWebBot](https://t.me/DrWebBot)                                   | 链接与文件安全检测              |
+| daixiahu_bot              | [https://t.me/daixiahu_bot](https://t.me/daixiahu_bot)                           | 合租/车位/共享账户匹配机器人        |
+| cnLottery123_bot          | [https://t.me/cnLottery123_bot](https://t.me/cnLottery123_bot)                   | 群组抽奖工具                 |
+| tgLotteryBot              | [https://t.me/tgLotteryBot](https://t.me/tgLotteryBot)                           | 抽奖机器人                  |
+| sauweenbot                | [https://t.me/sauweenbot](https://t.me/sauweenbot)                               | 中文群管机器人                |
+| letmebot                  | [https://t.me/letmebot](https://t.me/letmebot)                                   | 搜索引擎教育机器人              |
+| Doge Bot                  | [https://t.me/jpg_dog_bot](https://t.me/jpg_dog_bot)                             | 图片图床机器人                |
+| areply_bot                | [https://t.me/areply_bot](https://t.me/areply_bot)                               | 自动解除频道同步置顶+小工具         |
+| WuhanPneumoniaBot         | [https://t.me/WuhanPneumoniaBot](https://t.me/WuhanPneumoniaBot)                 | 疫情信息查询                 |
+| haoyybot                  | [https://t.me/haoyybot](https://t.me/haoyybot)                                   | 音乐搜索机器人                |
+| Music Downloader          | [https://t.me/MusicDownloaderRobot](https://t.me/MusicDownloaderRobot)           | Spotify 下载             |
+| SangMataInfo_bot          | [https://t.me/SangMataInfo_bot](https://t.me/SangMataInfo_bot)                   | 群成员改名记录提醒              |
+| zlibrary                  | [https://t.me/zlibrarybot](https://t.me/zlibrarybot)                             | 搜书                     |
+| Nexus Search              | [https://t.me/libgen_scihub_bot](https://t.me/libgen_scihub_bot)                 | 搜书                     |
+| BookDown                  | [https://t.me/bookdownbot](https://t.me/bookdownbot)                             | 搜书                     |
+| File Converter            | [https://t.me/newfileconverterbot](https://t.me/newfileconverterbot)             | 文件格式转换                 |
+| Send to Kindle            | [https://t.me/Send2KindleBot](https://t.me/Send2KindleBot)                       | Kindle 推送              |
+| InstantViewBot            | [https://t.me/CorsaBot](https://t.me/CorsaBot)                                   | Instant View 生成        |
+| ChnInstantViewBot         | [https://t.me/ChnInstantViewBot](https://t.me/ChnInstantViewBot)                 | Instant View 中文        |
+| WebpageBot                | [https://t.me/WebpageBot](https://t.me/WebpageBot)                               | 强制刷新页面预览               |
+| ReactBot                  | [https://t.me/ReactBot](https://t.me/ReactBot)                                   | 频道点赞/评论按钮              |
+| ComenBot                  | [https://t.me/ComenBot](https://t.me/ComenBot)                                   | 留言/评论                  |
+| CommentsBot               | [https://t.me/CommentsBot](https://t.me/CommentsBot)                             | 留言/评论                  |
+| CommentBot                | [https://t.me/bakalztbot](https://t.me/bakalztbot)                               | 点赞/评论                  |
+| Like and Comment          | [https://t.me/LikeComBot](https://t.me/LikeComBot)                               | 点赞/评论                  |
+| Channel Helper            | [https://t.me/jogle_channel_bot](https://t.me/jogle_channel_bot)                 | 点赞/评论                  |
+| septs_autoclean_bot       | [https://t.me/septs_autoclean_bot](https://t.me/septs_autoclean_bot)             | 频道助手                   |
+| tgcnjoincaptchabot        | [https://t.me/tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)               | 加群验证                   |
+| Jqs7ZweiBot               | [https://t.me/Jqs7ZweiBot](https://t.me/Jqs7ZweiBot)                             | 加群验证                   |
+| Captchat_Bot              | [https://t.me/Captchat_Bot](https://t.me/Captchat_Bot)                           | 加群验证                   |
+| WatchDoorBot              | [https://t.me/WatchDoorBot](https://t.me/WatchDoorBot)                           | 加群验证                   |
+| WooMaiBot                 | [https://t.me/WooMaiBot](https://t.me/WooMaiBot)                                 | 加群验证                   |
+| The Join Captcha Bot      | [https://t.me/join_captcha_bot](https://t.me/join_captcha_bot)                   | 加群验证                   |
+| VideoTubeBot              | [https://t.me/VideoTubeBot](https://t.me/VideoTubeBot)                           | YouTube 音视频下载          |
+| PronunciationBot          | [https://t.me/PronunciationBot](https://t.me/PronunciationBot)                   | 文本转语音/多语言发音            |
+| Shorten URL               | [https://t.me/referbot](https://t.me/referbot)                                   | 短链接生成                  |
+| TransferRobot             | [https://t.me/TransferRobot](https://t.me/TransferRobot)                         | 文件图床/下载链接              |
+| SpotifyMusicDownloaderBot | [https://t.me/SpotifyMusicDownloaderBot](https://t.me/SpotifyMusicDownloaderBot) | Spotify 下载             |
+| Minesweeper               | [https://t.me/mine_sweeper_bot](https://t.me/mine_sweeper_bot)                   | 扫雷                     |
+| Combot                    | [https://t.me/combot](https://t.me/combot)                                       | 群数据统计/管理               |
+| NodeRSSBot                | [https://t.me/NodeRSS_bot](https://t.me/NodeRSS_bot)                             | RSS 订阅                 |
+| RustRssBot                | [https://t.me/RustRssBot](https://t.me/RustRssBot)                               | 中文 RSSBot              |
+| TheFeedReaderBot          | [https://t.me/TheFeedReaderBot](https://t.me/TheFeedReaderBot)                   | RSS 订阅                 |
+| RSSchina_bot              | [https://t.me/RSSchina_bot](https://t.me/RSSchina_bot)                           | RSS 订阅                 |
+| PdoRSS_bot                | [https://t.me/PdoRSS_bot](https://t.me/PdoRSS_bot)                               | RSS 订阅                 |
+| Warma Bot                 | [https://t.me/warma_bot](https://t.me/warma_bot)                                 | 萌妹子语音                  |
+| get_id_bot                | [https://t.me/get_id_bot](https://t.me/get_id_bot)                               | 获取 chat ID             |
+| GroupHub_bot              | [https://t.me/GroupHub_bot](https://t.me/GroupHub_bot)                           | 中文圈优质群组导航              |
+| TWBlackList_bot           | [https://t.me/TWBlackList_bot](https://t.me/TWBlackList_bot)                     | 群黑名单                   |
+| CNBlackListRBot           | [https://t.me/CNBlackListRBot](https://t.me/CNBlackListRBot)                     | 群黑名单                   |
+| GroupButler               | [https://t.me/GroupButler_bot](https://t.me/GroupButler_bot)                     | 群管机器人                  |
+| AntiServiceMessageBot     | [https://t.me/AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)         | 删除入退群消息                |
+| Anonymous Telegram Bot    | [https://t.me/Anonymous_telegram_bot](https://t.me/Anonymous_telegram_bot)       | 匿名消息发送                 |
+| AntiHyperlinkBot          | [https://t.me/AntiHyperlinkBot](https://t.me/AntiHyperlinkBot)                   | 删除含链接消息                |
+| AntiCommandBot            | [https://t.me/AntiCommandBot](https://t.me/AntiCommandBot)                       | 删除斜杠命令                 |
+| AntiArabicScriptBot       | [https://t.me/AntiArabicScriptBot](https://t.me/AntiArabicScriptBot)             | 删除阿拉伯字符消息              |
+| Giphy GIF Search          | [https://t.me/gif](https://t.me/gif)                                             | GIF 搜索                 |
+| Wikipedia Search          | [https://t.me/wiki](https://t.me/wiki)                                           | Wiki 搜索                |
+| Markdown Bot              | [https://t.me/Bold](https://t.me/Bold)                                           | Markdown 编辑            |
+| JPEGreenBot               | [https://t.me/JPEGreenBot](https://t.me/JPEGreenBot)                             | 图片劣化                   |
+| ImageBot                  | [https://t.me/imagebot](https://t.me/imagebot)                                   | 图片/GIF 搜索              |
+| IMDb                      | [https://t.me/imdb](https://t.me/imdb)                                           | IMDb 查询                |
+| Classical Music           | [https://t.me/music](https://t.me/music)                                         | 古典音乐搜索                 |
+| YouTube Bot               | [https://t.me/youtube](https://t.me/youtube)                                     | YouTube 搜索             |
+| GitHub                    | [https://t.me/githubbot](https://t.me/githubbot)                                 | GitHub 通知              |
+| Shop Bot                  | [https://t.me/shopbot](https://t.me/shopbot)                                     | Payments 示例            |
+| StickerBot                | [https://t.me/sticker](https://t.me/sticker)                                     | Emoji 贴纸搜索             |
+| Gamee                     | [https://t.me/gamee](https://t.me/gamee)                                         | 在线游戏                   |
+|                           |                                                                                  |                        |
 
    
-### 中文电报群
-| 板块 / 分类 | Telegram                                                    | 标签         | 简介               |
-| ------- | ----------------------------------------------------------- | ---------- | ---------------- |
-| 交易所     | [Binance 中文群](https://t.me/BinanceChinese)                  | 官方         | 币安官方中文讨论与公告      |
-| 交易所     | [OKX 中文社区](https://t.me/OKXOfficialChinese)                 | 官方         | OKX 官方中文社群       |
-| 交易所     | [HTX 中文群](https://t.me/HuobiGlobalChinese)                  | 官方         | HTX（原 Huobi）中文社区 |
-| 交易所     | [Gate 中文](https://t.me/Gateio_Chinese)                      | 官方         | Gate.io 中文群      |
-| 交易所     | [KuCoin 中文](https://t.me/KuCoinChinese)                     | 官方         | KuCoin 交流与活动     |
-| 交易所     | [MEXC 中文](https://t.me/MEXCzh)                              | 官方         | MEXC 中文社群        |
-| 交易所     | [Bitget 中文](https://t.me/BitgetOfficialCN)                  | 官方         | Bitget 期货交易中文群   |
-| 交易所     | [Bybit 中文](https://t.me/BybitChinese)                       | 官方         | Bybit 官方讨论       |
-| 交易所     | [LBank 中文](https://t.me/LBank_CN)                           | 官方         | LBank 交易所中文群     |
-| 交易所     | [ProEX 中文](https://t.me/ProEX_CN)                           | 官方         | ProEX 讨论         |
-| 交易所     | [Coinlist 中文](https://t.me/CoinlistCN)                      | 官方         | Coinlist 打新讨论    |
-| 交易所     | [Bitmart 中文](https://t.me/Bitmart_CN)                       | 官方         | Bitmart 交流       |
-| 交易所     | [BingX 中文](https://t.me/BingXCN)                            | 官方         | BingX 社群         |
-| 交易所     | [Hotbit 中文](https://t.me/Hotbit_CN)                         | 官方         | Hotbit 社群        |
-| 交易所     | [WhiteBIT 中文](https://t.me/WhiteBIT_CN)                     | 官方         | WhiteBIT 讨论      |
-| 交易所     | [ZB 中文](https://t.me/ZBCh)                                  | 官方         | ZB.com 中文群       |
-| 交易所     | [Bitrue 中文](https://t.me/BitrueChinese)                     | 官方         | Bitrue 社群        |
-| 交易所     | [Pionex 中文](https://t.me/PionexCN)                          | 官方         | Pionex 网格交易      |
-| 交易所     | [OKX API 中文](https://t.me/OKX_API_CN)                       | 技术         | OKX API 讨论       |
-| 交易所     | [Deribit 中文](https://t.me/DeribitCN)                        | 衍生品        | Deribit 期权交流     |
-| DeFi    | [DeFiCN](https://t.me/DeFiCN)                               | DeFi       | 综合 DeFi 讨论       |
-| DeFi    | [Uniswap 中文](https://t.me/UniswapCN)                        | DEX        | Uniswap 使用与治理    |
-| DeFi    | [Aave 中文](https://t.me/AaveCN)                              | 借贷         | Aave 借贷协议        |
-| DeFi    | [Curve 中文](https://t.me/CurveFinanceCN)                     | 稳定币        | Curve 流动性        |
-| DeFi    | [MakerDAO 中文](https://t.me/MakerDAO_CN)                     | 稳定币        | Maker 与 DAI      |
-| DeFi    | [PancakeSwap 中文](https://t.me/PancakeSwap_CN)               | BSC        | PancakeSwap      |
-| DeFi    | [Sushi 中文](https://t.me/SushiSwapCN)                        | DEX        | SushiSwap        |
-| DeFi    | [GMX 中文](https://t.me/GMXChinese)                           | 永续         | GMX 合约           |
-| DeFi    | [Compound 中文](https://t.me/CompoundCN)                      | 借贷         | Compound 协议      |
-| DeFi    | [Venus 中文](https://t.me/Venus_CN)                           | 借贷         | Venus 借贷         |
-| DeFi    | [dYdX 中文](https://t.me/dydxCN)                              | 合约         | dYdX 交易所         |
-| DeFi    | [Lido 中文](https://t.me/Lido_CN)                             | 质押         | Lido 流动质押        |
-| DeFi    | [Pendle 中文](https://t.me/Pendle_CN)                         | 收益         | Pendle 期限收益      |
-| DeFi    | [Stargate 中文](https://t.me/Stargate_CN)                     | 跨链         | Stargate 跨链桥     |
-| DeFi    | [Osmosis 中文](https://t.me/Osmosis_CN)                       | Cosmos     | Osmosis DEX      |
-| NFT     | [OpenSea 中文](https://t.me/OpenSea_CN)                       | NFT        | OpenSea 交流       |
-| NFT     | [Blur 中文](https://t.me/Blur_CN)                             | NFT        | Blur 竞价市场        |
-| NFT     | [Azuki 中文](https://t.me/Azuki_CN)                           | NFT        | Azuki 社群         |
-| NFT     | [YugaLabs 中文](https://t.me/YugaLabsCN)                      | NFT        | BAYC / Otherside |
-| NFT     | [PudgyPenguins 中文](https://t.me/Pudgy_CN)                   | NFT        | 小胖企鹅爱好者          |
-| NFT     | [ElementMarket 中文](https://t.me/ElementMarketCN)            | NFT        | Element 市场       |
-| NFT     | [NFTCN 社群](https://t.me/NFTCN)                              | NFT        | 综合 NFT 讨论        |
-| NFT     | [StepN 中文](https://t.me/StepN_official_CN)                  | NFT/GameFi | StepN 跑鞋         |
-| NFT     | [MagicEden 中文](https://t.me/MagicEdenCN)                    | NFT        | Solana NFT 市场    |
-| NFT     | [Loot 中文](https://t.me/Loot_CN)                             | NFT        | Loot 项目          |
-| Layer 2 | [zkSync 中文](https://t.me/zkSync_CN)                         | ZK         | zkSync 生态        |
-| Layer 2 | [StarkNet 中文](https://t.me/StarkNet_CN)                     | ZK         | StarkNet 技术      |
-| Layer 2 | [Optimism 中文](https://t.me/Optimism_CN)                     | Rollup     | Optimism 生态      |
-| Layer 2 | [Arbitrum 中文](https://t.me/ArbitrumCN)                      | Rollup     | Arbitrum 交流      |
-| Layer 2 | [Base 中文](https://t.me/BaseChain_CN)                        | Rollup     | Coinbase Base    |
-| Layer 2 | [Taiko 中文](https://t.me/Taiko_CN)                           | ZK         | Taiko 测试网        |
-| Layer 2 | [Linea 中文](https://t.me/LineaChinese)                       | ZK         | ConsenSys Linea  |
-| Layer 2 | [Scroll 中文](https://t.me/Scroll_ZK_CN)                      | ZK         | Scroll 生态        |
-| Layer 2 | [Manta 中文](https://t.me/Manta_CN)                           | ZK         | Manta Network    |
-| Layer 2 | [Metis 中文](https://t.me/MetisCN)                            | Rollup     | Metis DAO        |
-| GameFi  | [Axie Infinity 中文](https://t.me/AxieInfinityCN)             | GameFi     | Axie 游戏          |
-| GameFi  | [Gala Games 中文](https://t.me/GalaGamesCN)                   | GameFi     | Gala 生态          |
-| GameFi  | [Illuvium 中文](https://t.me/Illuvium_CN)                     | GameFi     | Illuvium RPG     |
-| GameFi  | [Star Atlas 中文](https://t.me/StarAtlasCN)                   | GameFi     | Star Atlas       |
-| GameFi  | [BigTime 中文](https://t.me/BigTime_CN)                       | GameFi     | Big Time MMO     |
-| GameFi  | [The Sandbox 中文](https://t.me/TheSandboxCN)                 | GameFi     | 元宇宙 Sandbox      |
-| GameFi  | [Mavia 中文](https://t.me/Mavia_CN)                           | GameFi     | Heroes of Mavia  |
-| GameFi  | [AlienWorlds 中文](https://t.me/AlienWorldsCN)                | GameFi     | Alien Worlds     |
-| GameFi  | [Yuliverse 中文](https://t.me/YuliverseCN)                    | GameFi     | AR+LBS 游戏        |
-| GameFi  | [Pixels 中文](https://t.me/Pixels_CN)                         | GameFi     | Pixels 农场        |
-| DAO     | [DAOhaus 中文](https://t.me/DAOhausCN)                        | DAO        | DAOhaus 治理       |
-| DAO     | [Gitcoin 中文](https://t.me/GitcoinCN)                        | DAO        | Gitcoin Grants   |
-| DAO     | [BitDAO 中文](https://t.me/BitDAO_CN)                         | DAO        | BitDAO 社群        |
-| DAO     | [ENS 中文](https://t.me/ENS_CN)                               | DAO        | 以太坊域名            |
-| DAO     | [FlamingoDAO 中文](https://t.me/FlamingoDAO_CN)               | DAO        | NFT 投资 DAO       |
-| 开发者     | [Web3DevCN](https://t.me/Web3DevSchool_CN)                  | 技术         | Web3 开发者学院       |
-| 开发者     | [Solidity 中文](https://t.me/Solidity_CN)                     | 技术         | Solidity 语言      |
-| 开发者     | [Substrate 中文](https://t.me/Substrate_CN)                   | 技术         | 波卡 Substrate     |
-| 开发者     | [Rust 区块链](https://t.me/Rust_Blockchain_CN)                 | 技术         | Rust+区块链         |
-| 开发者     | [Hardhat 中文](https://t.me/Hardhat_CN)                       | 技术         | Hardhat 工具       |
-| 开发者     | [ETH Shanghai Dev](https://t.me/ETHShanghai)                | 技术         | ETHShanghai 社群   |
-| 开发者     | [Chainlink 中文](https://t.me/Chainlink_CN)                   | Oracle     | Chainlink 预言机    |
-| 开发者     | [MoveLang 中文](https://t.me/MoveLang_CN)                     | 技术         | Move 语言          |
-| 开发者     | [WasmEdge 中文](https://t.me/WasmEdge_CN)                     | 技术         | WebAssembly      |
-| 开发者     | [Cosmos SDK 中文](https://t.me/CosmosSDK_CN)                  | 技术         | Cosmos SDK       |
-| 挖矿      | [Bitcoin 矿工中文](https://t.me/Bitcoin_Mining_CN)              | 矿业         | BTC 挖矿           |
-| 挖矿      | [Ethereum 矿工中文](https://t.me/EthMining_CN)                  | 矿业         | PoW 历史讨论         |
-| 挖矿      | [Filecoin 中文矿工](https://t.me/Filecoin_Miner_CN)             | 矿业         | FIL 存储矿工         |
-| 挖矿      | [Chia 矿工](https://t.me/ChiaCN)                              | 矿业         | Chia 农场          |
-| 挖矿      | [Kaspa 矿工中文](https://t.me/Kaspa_CN)                         | 矿业         | Kaspa GPU 挖矿     |
-| 媒体/研究   | [8BTC News 中文](https://t.me/BTCSuperGroup)                  | 媒体         | 巴比特新闻群           |
-| 媒体/研究   | [Odaily 星球日报](https://t.me/Odaily_CN)                       | 媒体         | 行业快讯             |
-| 媒体/研究   | [ChainCatcher 中文](https://t.me/ChainCatcher_CN)             | 媒体         | 链捕手社区            |
-| 媒体/研究   | [BlockBeats 中文](https://t.me/BlockBeats)                    | 媒体         | 深潮 TechFlow      |
-| 媒体/研究   | [Footprint Analytics 中文](https://t.me/FootprintAnalyticsCN) | 数据         | 数据洞察             |
-| 媒体/研究   | [PANews 中文](https://t.me/PANews_CN)                         | 媒体         | PANews 讨论        |
-| 媒体/研究   | [CoinVoice 中文](https://t.me/CoinVoiceCN)                    | 媒体         | CoinVoice        |
-| 媒体/研究   | [Foresight News 中文](https://t.me/ForesightNewsCN)           | 媒体         | ForesightNews    |
-| 媒体/研究   | [TechFlow 中文](https://t.me/TechFlowCN)                      | 媒体         | TechFlow         |
-| 媒体/研究   | [Decrypt 中文](https://t.me/Decrypt_CN)                       | 媒体         | Decrypt 中文频道     |
-| 交易信号    | [CryptoSignalsCN](https://t.me/CryptoSignalsCN)             | 信号         | 行情/策略            |
-| 交易信号    | [WhaleAlert 中文](https://t.me/WhaleAlertCN)                  | 监控         | 巨鲸转账             |
-| 交易信号    | [RAVEN Signals CN](https://t.me/RAVENSignalsCN)             | 信号         | RAVEN 策略         |
-| 交易信号    | [TrendMaster CN](https://t.me/TrendMasterCN)                | 信号         | 趋势跟踪             |
-| 交易信号    | [FutureNet 中文](https://t.me/FutureNet_CN)                   | 信号         | 合约策略             |
+# Web3电报群
+### 交易所 Exchanges
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 交易所 | [Binance 中文群](https://t.me/BinanceChinese)  | 官方 - 币安官方中文讨论与公告                                                   |
+| 交易所 | [OKX 中文社区](https://t.me/OKXOfficialChinese) | 官方 - OKX 官方中文社群       |
+| 交易所 | [HTX 中文群](https://t.me/HuobiGlobalChinese)  | 官方 - HTX（原 Huobi）中文社区 |
+| 交易所 | [Gate 中文](https://t.me/Gateio_Chinese)      | 官方 - Gate.io 中文群      |
+| 交易所 | [KuCoin 中文](https://t.me/KuCoinChinese)     | 官方 - KuCoin 交流与活动     |
+| 交易所 | [MEXC 中文](https://t.me/MEXCzh)              | 官方 - MEXC 中文社群        |
+| 交易所 | [Bitget 中文](https://t.me/BitgetOfficialCN)  | 官方 - Bitget 期货交易中文群   |
+| 交易所 | [Bybit 中文](https://t.me/BybitChinese)       | 官方 - Bybit 官方讨论       |
+| 交易所 | [LBank 中文](https://t.me/LBank_CN)           | 官方 - LBank 交易所中文群     |
+| 交易所 | [ProEX 中文](https://t.me/ProEX_CN)           | 官方 - ProEX 讨论         |
+| 交易所 | [Coinlist 中文](https://t.me/CoinlistCN)      | 官方 - Coinlist 打新讨论    |
+| 交易所 | [Bitmart 中文](https://t.me/Bitmart_CN)       | 官方 - Bitmart 交流       |
+| 交易所 | [BingX 中文](https://t.me/BingXCN)            | 官方 - BingX 社群         |
+| 交易所 | [Hotbit 中文](https://t.me/Hotbit_CN)         | 官方 - Hotbit 社群        |
+| 交易所 | [WhiteBIT 中文](https://t.me/WhiteBIT_CN)     | 官方 - WhiteBIT 讨论      |
+| 交易所 | [ZB 中文](https://t.me/ZBCh)                  | 官方 - ZB.com 中文群       |
+| 交易所 | [Bitrue 中文](https://t.me/BitrueChinese)     | 官方 - Bitrue 社群        |
+| 交易所 | [Pionex 中文](https://t.me/PionexCN)          | 官方 - Pionex 网格交易      |
+| 交易所 | [OKX API 中文](https://t.me/OKX_API_CN)       | 技术 - OKX API 讨论       |
+| 交易所 | [Deribit 中文](https://t.me/DeribitCN)        | 衍生品 - Deribit 期权交流    | 
+| 交易所 | [Binance Exchange](https://t.me/binanceexchange)    | 官方 - 全球 Binance 主群 |
+| 交易所 | [Coinbase Official](https://t.me/Coinbase_Official) | 官方 - Coinbase 英文社区 |
+| 交易所 | [OKX Global](https://t.me/okx_official)             | 官方 - OKX 全球英文群     |
+| 交易所 | [Bybit English](https://t.me/BybitEnglish)          | 官方 - Bybit 交易者中心   |
+| 交易所 | [KuCoin Exchange](https://t.me/KuCoin_Exchange)     | 官方 - KuCoin 英文社群   |
+| 交易所 | [Gate.io Official](https://t.me/Gateio)             | 官方 - Gate.io 全球群   |
+| 交易所 | [MEXC Global](https://t.me/MEXCGlobalOfficial)      | 官方 - MEXC 英文社群     |
+| 交易所 | [Bitget Global](https://t.me/BitgetEN)              | 官方 - Bitget 英文群    |
+| 交易所 | [Deribit Exchange](https://t.me/deribit)            | 衍生品 - 期权合约讨论       |
+| 交易所 | [Kraken Exchange](https://t.me/KrakenExchange)      | 官方 - Kraken 公告与讨论  |
+| 交易所 | [Bitstamp](https://t.me/BitstampOfficial)           | 官方 - Bitstamp 全球群  |
+| 交易所 | [BingX Global](https://t.me/BingXOfficial)          | 社交交易 - BingX 跟单社群  |
+| 交易所 | [BitMEX](https://t.me/BitMEXOfficial)               | 期货 - BitMEX 社区     |
+| 交易所 | [Phemex](https://t.me/Phemex_English)               | 期货 - Phemex 英文聊天   |
+| 交易所 | [WhiteBIT Global](https://t.me/WhiteBIT)            | 官方 - WhiteBIT 讨论   |
 
-### 英文电报群
-| 板块 / 分类 | Telegram                                                 | 标签         | 简介               |
-| ------- | -------------------------------------------------------- | ---------- | ---------------- |
-| 交易所     | [Binance Exchange](https://t.me/binanceexchange)         | 官方         | 全球 Binance 主群    |
-| 交易所     | [Coinbase Official](https://t.me/Coinbase_Official)      | 官方         | Coinbase 英文社区    |
-| 交易所     | [OKX Global](https://t.me/okx_official)                  | 官方         | OKX 全球英文群        |
-| 交易所     | [Bybit English](https://t.me/BybitEnglish)               | 官方         | Bybit 交易者中心      |
-| 交易所     | [KuCoin Exchange](https://t.me/KuCoin_Exchange)          | 官方         | KuCoin 英文社群      |
-| 交易所     | [Gate.io Official](https://t.me/Gateio)                  | 官方         | Gate.io 全球群      |
-| 交易所     | [MEXC Global](https://t.me/MEXCGlobalOfficial)           | 官方         | MEXC 英文社群        |
-| 交易所     | [Bitget Global](https://t.me/BitgetEN)                   | 官方         | Bitget 英文群       |
-| 交易所     | [Deribit Exchange](https://t.me/deribit)                 | 衍生品        | 期权合约讨论           |
-| 交易所     | [Kraken Exchange](https://t.me/KrakenExchange)           | 官方         | Kraken 公告与讨论     |
-| 交易所     | [Bitstamp](https://t.me/BitstampOfficial)                | 官方         | Bitstamp 全球群     |
-| 交易所     | [BingX Global](https://t.me/BingXOfficial)               | 社交交易       | BingX 跟单社群       |
-| 交易所     | [BitMEX](https://t.me/BitMEXOfficial)                    | 期货         | BitMEX 社区        |
-| 交易所     | [Phemex](https://t.me/Phemex_English)                    | 期货         | Phemex 英文聊天      |
-| 交易所     | [WhiteBIT Global](https://t.me/WhiteBIT)                 | 官方         | WhiteBIT 讨论      |
-| DeFi    | [Uniswap](https://t.me/Uniswap)                          | DEX        | Uniswap 协议社区     |
-| DeFi    | [Aave](https://t.me/AaveOfficial)                        | 借贷         | Aave 治理与交流       |
-| DeFi    | [MakerDAO](https://t.me/makerDAOofficial)                | 稳定币        | DAI 社区           |
-| DeFi    | [Curve Finance](https://t.me/curvefi)                    | 稳定币交换      | Curve 讨论         |
-| DeFi    | [SushiSwap](https://t.me/sushiswap)                      | DEX        | SushiSwap 社区     |
-| DeFi    | [PancakeSwap](https://t.me/PancakeSwap)                  | BSC        | PancakeSwap 全球群  |
-| DeFi    | [GMX](https://t.me/GMX_IO)                               | 永续         | GMX 合约交易         |
-| DeFi    | [dYdX](https://t.me/dydxofficial)                        | 永续         | dYdX 协议群         |
-| DeFi    | [Lido Finance](https://t.me/lidofinance)                 | 质押         | Lido 液态质押        |
-| DeFi    | [Pendle Finance](https://t.me/pendlefinance)             | 收益         | Pendle 收益分离      |
-| DeFi    | [Stargate Finance](https://t.me/StargateFinance)         | 跨链桥        | Stargate 跨链      |
-| DeFi    | [Yearn Finance](https://t.me/yearnfinance)               | 收益         | Yearn 保险库        |
-| DeFi    | [Balancer](https://t.me/balancerlabs)                    | AMM        | Balancer DAO     |
-| DeFi    | [Synthetix](https://t.me/synthetix_io)                   | 衍生品        | Synthetix 协议     |
-| DeFi    | [Radiant Capital](https://t.me/RadiantCapital)           | 借贷         | 跨链借贷 Radiant     |
-| NFT     | [OpenSea Official](https://t.me/opensea)                 | NFT        | OpenSea 市场       |
-| NFT     | [Blur.io](https://t.me/BlurExchange)                     | NFT        | Blur 竞价平台        |
-| NFT     | [Azuki Official](https://t.me/azukiofficial)             | NFT        | Azuki 持有者群       |
-| NFT     | [Yuga Labs / BAYC](https://t.me/bayc_official)           | NFT        | BAYC 社区          |
-| NFT     | [Pudgy Penguins](https://t.me/pudgypenguins)             | NFT        | Pudgy Penguins   |
-| NFT     | [Magic Eden](https://t.me/magicedenio)                   | NFT        | Solana NFT 市场    |
-| NFT     | [Parallel TCG](https://t.me/parallel)                    | NFT        | Parallel 卡牌游戏    |
-| NFT     | [Treasure DAO](https://t.me/treasure_dao)                | NFT/Game   | Treasure 生态      |
-| NFT     | [Loot Project](https://t.me/lootproject)                 | NFT        | Loot 冒险者         |
-| NFT     | [DG Pals](https://t.me/DGPals)                           | NFT/GameFi | DG Pals 宠物       |
-| Layer 2 | [zkSync Era](https://t.me/zksync)                        | ZK         | zkSync 主群        |
-| Layer 2 | [StarkNet](https://t.me/starknet)                        | ZK         | StarkNet 官方      |
-| Layer 2 | [Optimism](https://t.me/OptimismPortal)                  | Rollup     | Optimism 动态      |
-| Layer 2 | [Arbitrum Official](https://t.me/ArbitrumOfficial)       | Rollup     | Arbitrum 社区      |
-| Layer 2 | [Base Chain](https://t.me/base_chain)                    | Rollup     | Coinbase Base    |
-| Layer 2 | [Linea](https://t.me/linea_build)                        | ZK         | Linea 开发者        |
-| Layer 2 | [Scroll ZKP](https://t.me/scrollzkp)                     | ZK         | Scroll 社区        |
-| Layer 2 | [Mantle Network](https://t.me/mantlenetwork)             | Rollup     | Mantle DAO       |
-| Layer 2 | [Taiko Labs](https://t.me/taikolabs)                     | ZK         | Taiko 开发群        |
-| Layer 2 | [Metis DAO](https://t.me/MetisDAO)                       | Rollup     | Metis 生态         |
-| GameFi  | [Axie Infinity](https://t.me/axieinfinity)               | GameFi     | Axie 玩家群         |
-| GameFi  | [Gala Games](https://t.me/GalaGamesOfficial)             | GameFi     | Gala 生态          |
-| GameFi  | [Illuvium Official](https://t.me/illuviumio)             | GameFi     | Illuvium RPG     |
-| GameFi  | [Big Time](https://t.me/BigTimeOfficial)                 | GameFi     | BigTime MMO      |
-| GameFi  | [Star Atlas](https://t.me/staratlas)                     | GameFi     | Star Atlas 元宇宙   |
-| GameFi  | [The Sandbox](https://t.me/sandboxgame)                  | 元宇宙        | Sandbox 创作者      |
-| GameFi  | [Pixels Global](https://t.me/PixelsOnline)               | GameFi     | Pixels 农场        |
-| GameFi  | [Heroes of Mavia](https://t.me/HeroesOfMavia)            | GameFi     | Mavia 策略         |
-| GameFi  | [Alien Worlds](https://t.me/alienworldschat)             | GameFi     | Alien Worlds     |
-| GameFi  | [Yuliverse](https://t.me/Yuliverse)                      | GameFi     | AR+Web3 游戏       |
-| DAO     | [Gitcoin](https://t.me/gitcoinco)                        | 资助         | Gitcoin DAO      |
-| DAO     | [Bankless DAO](https://t.me/BanklessDAO)                 | 媒体         | Bankless 社区      |
-| DAO     | [Aragon DAO](https://t.me/aragonproject)                 | DAO        | Aragon 治理        |
-| DAO     | [ENS DAO](https://t.me/ensdomains)                       | 域名         | Ethereum 域名      |
-| DAO     | [BitDAO](https://t.me/bitdao_official)                   | 国库         | BitDAO 持有人       |
-| DAO     | [Flamingo DAO](https://t.me/flamingodao)                 | NFT        | 艺术投资 DAO         |
-| DAO     | [Moloch DAO](https://t.me/molochdao)                     | 资助         | ETH 资助 DAO       |
-| DAO     | [Friends With Benefits](https://t.me/fwbDAO)             | 社交         | FWB 成员群          |
-| DAO     | [LexDAO](https://t.me/lexdao)                            | 法律         | LexDAO 律师公会      |
-| DAO     | [PleasrDAO](https://t.me/pleasrdao)                      | 收藏         | PleasrDAO        |
-| 开发者     | [Ethereum Dev](https://t.me/ethdev)                      | 技术         | 以太坊开发者           |
-| 开发者     | [Solidity](https://t.me/solidity_lang)                   | 技术         | Solidity 语言      |
-| 开发者     | [Chainlink Dev](https://t.me/chainlinkofficial)          | 预言机        | Chainlink 开发     |
-| 开发者     | [Substrate Technical](https://t.me/SubstrateTechnical)   | 波卡         | Substrate 技术     |
-| 开发者     | [Rust Blockchain](https://t.me/rust_blockchain)          | 技术         | Rust + 区块链       |
-| 开发者     | [Hardhat](https://t.me/HardhatPlugin)                    | 技术         | Hardhat 工具       |
-| 开发者     | [Move Language](https://t.me/move_language)              | Aptos/Sui  | Move 语言群         |
-| 开发者     | [Cosmos SDK](https://t.me/cosmosdev)                     | Cosmos     | Cosmos 开发        |
-| 开发者     | [Web3.js](https://t.me/web3js)                           | 技术         | web3.js 库        |
-| 开发者     | [EthGlobal Hack](https://t.me/ethglobal)                 | 黑客松        | ETH 黑客松          |
-| 媒体/研究   | [CoinDesk News](https://t.me/coindesk_news)              | 媒体         | CoinDesk 新闻      |
-| 媒体/研究   | [Cointelegraph](https://t.me/cointelegraph)              | 媒体         | Cointelegraph 新闻 |
-| 媒体/研究   | [The Block](https://t.me/TheBlock_)                      | 媒体         | The Block 快讯     |
-| 媒体/研究   | [Messari](https://t.me/MessariCrypto)                    | 研究         | Messari 洞见       |
-| 媒体/研究   | [Decrypt](https://t.me/Decrypt77)                        | 媒体         | Decrypt 新闻       |
-| 媒体/研究   | [Bankless](https://t.me/BanklessHQ)                      | 媒体         | Bankless 资讯      |
-| 媒体/研究   | [CryptoSlate](https://t.me/CryptoSlate)                  | 媒体         | CryptoSlate 新闻   |
-| 媒体/研究   | [Foresight News](https://t.me/foresight_news)            | 媒体         | Foresight 英文     |
-| 媒体/研究   | [Footprint Analytics](https://t.me/FootprintAnalytics)   | 数据         | Footprint 数据     |
-| 媒体/研究   | [CryptoQuant](https://t.me/cryptoquant_official)         | 数据         | 链上指标 CryptoQuant |
-| 交易信号    | [Crypto Pump Club](https://t.me/cryptoclubpump)          | 信号         | 拉盘预警             |
-| 交易信号    | [RAVEN Signals Pro](https://t.me/ravensignalspro)        | 信号         | 技术面洞察            |
-| 交易信号    | [Whale Alert](https://t.me/whale_alert)                  | 链上监控       | 大额转账提醒           |
-| 交易信号    | [Binance Killers](https://t.me/BinanceKillers)           | 信号         | 合约策略             |
-| 交易信号    | [Cabal Lines](https://t.me/caballines)                   | 信号         | 市场技术分析           |
-| 交易信号    | [Chain Crawlers](https://t.me/ChainCrawlers)             | 信号         | 链上侦察             |
-| 交易信号    | [CoinGape Signals](https://t.me/CoinGapeSignals)         | 信号         | CoinGape 交易      |
-| 交易信号    | [Smart Options](https://t.me/SmartOptions)               | 信号         | 机器人策略            |
-| 交易信号    | [ICO Drops Deals](https://t.me/ICO_Drops)                | 空投         | ICO/IDO 提醒       |
-| 交易信号    | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号         | Hopper 策略        |    
+### DeFi
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| DeFi | [DeFiCN](https://t.me/DeFiCN)                 | DeFi - 综合 DeFi 讨论    |
+| DeFi | [Uniswap 中文](https://t.me/UniswapCN)          | DEX - Uniswap 使用与治理  |
+| DeFi | [Aave 中文](https://t.me/AaveCN)                | 借贷 - Aave 借贷协议       |
+| DeFi | [Curve 中文](https://t.me/CurveFinanceCN)       | 稳定币 - Curve 流动性      |
+| DeFi | [MakerDAO 中文](https://t.me/MakerDAO_CN)       | 稳定币 - Maker 与 DAI    |
+| DeFi | [PancakeSwap 中文](https://t.me/PancakeSwap_CN) | BSC - PancakeSwap    |
+| DeFi | [Sushi 中文](https://t.me/SushiSwapCN)          | DEX - SushiSwap      |
+| DeFi | [GMX 中文](https://t.me/GMXChinese)             | 永续 - GMX 合约          |
+| DeFi | [Compound 中文](https://t.me/CompoundCN)        | 借贷 - Compound 协议     |
+| DeFi | [Venus 中文](https://t.me/Venus_CN)             | 借贷 - Venus 借贷        |
+| DeFi | [dYdX 中文](https://t.me/dydxCN)                | 合约 - dYdX 交易所        |
+| DeFi | [Lido 中文](https://t.me/Lido_CN)               | 质押 - Lido 流动质押       |
+| DeFi | [Pendle 中文](https://t.me/Pendle_CN)           | 收益 - Pendle 期限收益     |
+| DeFi | [Stargate 中文](https://t.me/Stargate_CN)       | 跨链 - Stargate 跨链桥    |
+| DeFi | [Osmosis 中文](https://t.me/Osmosis_CN)         | Cosmos - Osmosis DEX |
+| DeFi | [Uniswap](https://t.me/Uniswap)                  | DEX - Uniswap 协议社区    |
+| DeFi | [Aave](https://t.me/AaveOfficial)                | 借贷 - Aave 治理与交流       |
+| DeFi | [MakerDAO](https://t.me/makerDAOofficial)        | 稳定币 - DAI 社区          |
+| DeFi | [Curve Finance](https://t.me/curvefi)            | 稳定币交换 - Curve 讨论      |
+| DeFi | [SushiSwap](https://t.me/sushiswap)              | DEX - SushiSwap 社区    |
+| DeFi | [PancakeSwap](https://t.me/PancakeSwap)          | BSC - PancakeSwap 全球群 |
+| DeFi | [GMX](https://t.me/GMX_IO)                       | 永续 - GMX 合约交易         |
+| DeFi | [dYdX](https://t.me/dydxofficial)                | 永续 - dYdX 协议群         |
+| DeFi | [Lido Finance](https://t.me/lidofinance)         | 质押 - Lido 液态质押        |
+| DeFi | [Pendle Finance](https://t.me/pendlefinance)     | 收益 - Pendle 收益分离      |
+| DeFi | [Stargate Finance](https://t.me/StargateFinance) | 跨链桥 - Stargate 跨链     |
+| DeFi | [Yearn Finance](https://t.me/yearnfinance)       | 收益 - Yearn 保险库        |
+| DeFi | [Balancer](https://t.me/balancerlabs)            | AMM - Balancer DAO    |
+| DeFi | [Synthetix](https://t.me/synthetix_io)           | 衍生品 - Synthetix 协议    |
+| DeFi | [Radiant Capital](https://t.me/RadiantCapital)   | 借贷 - 跨链借贷 Radiant     |
+
+### NFT
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| NFT | [OpenSea 中文](https://t.me/OpenSea_CN)            | NFT - OpenSea 交流       |
+| NFT | [Blur 中文](https://t.me/Blur_CN)                  | NFT - Blur 竞价市场        |
+| NFT | [Azuki 中文](https://t.me/Azuki_CN)                | NFT - Azuki 社群         |
+| NFT | [YugaLabs 中文](https://t.me/YugaLabsCN)           | NFT - BAYC / Otherside |
+| NFT | [PudgyPenguins 中文](https://t.me/Pudgy_CN)        | NFT - 小胖企鹅爱好者          |
+| NFT | [ElementMarket 中文](https://t.me/ElementMarketCN) | NFT - Element 市场       |
+| NFT | [NFTCN 社群](https://t.me/NFTCN)                   | NFT - 综合 NFT 讨论        |
+| NFT | [StepN 中文](https://t.me/StepN_official_CN)       | NFT/GameFi - StepN 跑鞋  |
+| NFT | [MagicEden 中文](https://t.me/MagicEdenCN)         | NFT - Solana NFT 市场    |
+| NFT | [Loot 中文](https://t.me/Loot_CN)                  | NFT - Loot 项目          |
+| NFT | [OpenSea Official](https://t.me/opensea)       | NFT - OpenSea 市场        |
+| NFT | [Blur.io](https://t.me/BlurExchange)           | NFT - Blur 竞价平台         |
+| NFT | [Azuki Official](https://t.me/azukiofficial)   | NFT - Azuki 持有者群        |
+| NFT | [Yuga Labs / BAYC](https://t.me/bayc_official) | NFT - BAYC 社区           |
+| NFT | [Pudgy Penguins](https://t.me/pudgypenguins)   | NFT - Pudgy Penguins    |
+| NFT | [Magic Eden](https://t.me/magicedenio)         | NFT - Solana NFT 市场     |
+| NFT | [Parallel TCG](https://t.me/parallel)          | NFT - Parallel 卡牌游戏     |
+| NFT | [Treasure DAO](https://t.me/treasure_dao)      | NFT/Game - Treasure 生态  |
+| NFT | [Loot Project](https://t.me/lootproject)       | NFT - Loot 冒险者          |
+| NFT | [DG Pals](https://t.me/DGPals)                 | NFT/GameFi - DG Pals 宠物 |
+
+### Layer 2
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| Layer 2 | [zkSync 中文](https://t.me/zkSync_CN)     | ZK - zkSync 生态         |
+| Layer 2 | [StarkNet 中文](https://t.me/StarkNet_CN) | ZK - StarkNet 技术       |
+| Layer 2 | [Optimism 中文](https://t.me/Optimism_CN) | Rollup - Optimism 生态   |
+| Layer 2 | [Arbitrum 中文](https://t.me/ArbitrumCN)  | Rollup - Arbitrum 交流   |
+| Layer 2 | [Base 中文](https://t.me/BaseChain_CN)    | Rollup - Coinbase Base |
+| Layer 2 | [Taiko 中文](https://t.me/Taiko_CN)       | ZK - Taiko 测试网         |
+| Layer 2 | [Linea 中文](https://t.me/LineaChinese)   | ZK - ConsenSys Linea   |
+| Layer 2 | [Scroll 中文](https://t.me/Scroll_ZK_CN)  | ZK - Scroll 生态         |
+| Layer 2 | [Manta 中文](https://t.me/Manta_CN)       | ZK - Manta Network     |
+| Layer 2 | [Metis 中文](https://t.me/MetisCN)        | Rollup - Metis DAO     |
+| Layer 2 | [zkSync Era](https://t.me/zksync)                  | ZK - zkSync 主群         |
+| Layer 2 | [StarkNet](https://t.me/starknet)                  | ZK - StarkNet 官方       |
+| Layer 2 | [Optimism](https://t.me/OptimismPortal)            | Rollup - Optimism 动态   |
+| Layer 2 | [Arbitrum Official](https://t.me/ArbitrumOfficial) | Rollup - Arbitrum 社区   |
+| Layer 2 | [Base Chain](https://t.me/base_chain)              | Rollup - Coinbase Base |
+| Layer 2 | [Linea](https://t.me/linea_build)                  | ZK - Linea 开发者         |
+| Layer 2 | [Scroll ZKP](https://t.me/scrollzkp)               | ZK - Scroll 社区         |
+| Layer 2 | [Mantle Network](https://t.me/mantlenetwork)       | Rollup - Mantle DAO    |
+| Layer 2 | [Taiko Labs](https://t.me/taikolabs)               | ZK - Taiko 开发群         |
+| Layer 2 | [Metis DAO](https://t.me/MetisDAO)                 | Rollup - Metis 生态      |
+
+### GameFi
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| GameFi | [Axie Infinity 中文](https://t.me/AxieInfinityCN) | GameFi - Axie 游戏         |
+| GameFi | [Gala Games 中文](https://t.me/GalaGamesCN)       | GameFi - Gala 生态         |
+| GameFi | [Illuvium 中文](https://t.me/Illuvium_CN)         | GameFi - Illuvium RPG    |
+| GameFi | [Star Atlas 中文](https://t.me/StarAtlasCN)       | GameFi - Star Atlas      |
+| GameFi | [BigTime 中文](https://t.me/BigTime_CN)           | GameFi - Big Time MMO    |
+| GameFi | [The Sandbox 中文](https://t.me/TheSandboxCN)     | GameFi - 元宇宙 Sandbox     |
+| GameFi | [Mavia 中文](https://t.me/Mavia_CN)               | GameFi - Heroes of Mavia |
+| GameFi | [AlienWorlds 中文](https://t.me/AlienWorldsCN)    | GameFi - Alien Worlds    |
+| GameFi | [Yuliverse 中文](https://t.me/YuliverseCN)        | GameFi - AR+LBS 游戏       |
+| GameFi | [Pixels 中文](https://t.me/Pixels_CN)             | GameFi - Pixels 农场       |
+| GameFi | [Axie Infinity](https://t.me/axieinfinity)    | GameFi - Axie 玩家群       |
+| GameFi | [Gala Games](https://t.me/GalaGamesOfficial)  | GameFi - Gala 生态        |
+| GameFi | [Illuvium Official](https://t.me/illuviumio)  | GameFi - Illuvium RPG   |
+| GameFi | [Big Time](https://t.me/BigTimeOfficial)      | GameFi - BigTime MMO    |
+| GameFi | [Star Atlas](https://t.me/staratlas)          | GameFi - Star Atlas 元宇宙 |
+| GameFi | [The Sandbox](https://t.me/sandboxgame)       | 元宇宙 - Sandbox 创作者       |
+| GameFi | [Pixels Global](https://t.me/PixelsOnline)    | GameFi - Pixels 农场      |
+| GameFi | [Heroes of Mavia](https://t.me/HeroesOfMavia) | GameFi - Mavia 策略       |
+| GameFi | [Alien Worlds](https://t.me/alienworldschat)  | GameFi - Alien Worlds   |
+| GameFi | [Yuliverse](https://t.me/Yuliverse)           | GameFi - AR+Web3 游戏     |
+
+### DAO
+| DAO | [DAOhaus 中文](https://t.me/DAOhausCN)          | DAO - DAOhaus 治理     |
+| DAO | [Gitcoin 中文](https://t.me/GitcoinCN)          | DAO - Gitcoin Grants |
+| DAO | [BitDAO 中文](https://t.me/BitDAO_CN)           | DAO - BitDAO 社群      |
+| DAO | [ENS 中文](https://t.me/ENS_CN)                 | DAO - 以太坊域名          |
+| DAO | [FlamingoDAO 中文](https://t.me/FlamingoDAO_CN) | DAO - NFT 投资 DAO     |
+| 板块  | Telegram                                     | 说明               |
+| --- | -------------------------------------------- | ---------------- |
+| DAO | [Gitcoin](https://t.me/gitcoinco)            | 资助 - Gitcoin DAO |
+| DAO | [Bankless DAO](https://t.me/BanklessDAO)     | 媒体 - Bankless 社区 |
+| DAO | [Aragon DAO](https://t.me/aragonproject)     | DAO - Aragon 治理  |
+| DAO | [ENS DAO](https://t.me/ensdomains)           | 域名 - Ethereum 域名 |
+| DAO | [BitDAO](https://t.me/bitdao_official)       | 国库 - BitDAO 持有人  |
+| DAO | [Flamingo DAO](https://t.me/flamingodao)     | NFT - 艺术投资 DAO   |
+| DAO | [Moloch DAO](https://t.me/molochdao)         | 资助 - ETH 资助 DAO  |
+| DAO | [Friends With Benefits](https://t.me/fwbDAO) | 社交 - FWB 成员群     |
+| DAO | [LexDAO](https://t.me/lexdao)                | 法律 - LexDAO 律师公会 |
+| DAO | [PleasrDAO](https://t.me/pleasrdao)          | 收藏 - PleasrDAO   |
+
+### 开发者
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 开发者 | [Web3DevCN](https://t.me/Web3DevSchool_CN)   | 技术 - Web3 开发者学院        |
+| 开发者 | [Solidity 中文](https://t.me/Solidity_CN)      | 技术 - Solidity 语言       |
+| 开发者 | [Substrate 中文](https://t.me/Substrate_CN)    | 技术 - 波卡 Substrate      |
+| 开发者 | [Rust 区块链](https://t.me/Rust_Blockchain_CN)  | 技术 - Rust + 区块链        |
+| 开发者 | [Hardhat 中文](https://t.me/Hardhat_CN)        | 技术 - Hardhat 工具        |
+| 开发者 | [ETH Shanghai Dev](https://t.me/ETHShanghai) | 技术 - ETH Shanghai 社群   |
+| 开发者 | [Chainlink 中文](https://t.me/Chainlink_CN)    | Oracle - Chainlink 预言机 |
+| 开发者 | [MoveLang 中文](https://t.me/MoveLang_CN)      | 技术 - Move 语言           |
+| 开发者 | [WasmEdge 中文](https://t.me/WasmEdge_CN)      | 技术 - WebAssembly       |
+| 开发者 | [Cosmos SDK 中文](https://t.me/CosmosSDK_CN)   | 技术 - Cosmos SDK        |
+| 开发者 | [Ethereum Dev](https://t.me/ethdev)                    | 技术 - 以太坊开发者          |
+| 开发者 | [Solidity](https://t.me/solidity_lang)                 | 技术 - Solidity 语言     |
+| 开发者 | [Chainlink Dev](https://t.me/chainlinkofficial)        | 预言机 - Chainlink 开发   |
+| 开发者 | [Substrate Technical](https://t.me/SubstrateTechnical) | 波卡 - Substrate 技术    |
+| 开发者 | [Rust Blockchain](https://t.me/rust_blockchain)        | 技术 - Rust + 区块链      |
+| 开发者 | [Hardhat](https://t.me/HardhatPlugin)                  | 技术 - Hardhat 工具      |
+| 开发者 | [Move Language](https://t.me/move_language)            | Aptos/Sui - Move 语言群 |
+| 开发者 | [Cosmos SDK](https://t.me/cosmosdev)                   | Cosmos - Cosmos 开发   |
+| 开发者 | [Web3.js](https://t.me/web3js)                         | 技术 - web3.js 库       |
+| 开发者 | [EthGlobal Hack](https://t.me/ethglobal)               | 黑客松 - ETH 黑客松        |
+
+### 挖矿
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 挖矿 | [Bitcoin 矿工中文](https://t.me/Bitcoin_Mining_CN)  | 矿业 - BTC 挖矿       |
+| 挖矿 | [Ethereum 矿工中文](https://t.me/EthMining_CN)      | 矿业 - PoW 历史讨论     |
+| 挖矿 | [Filecoin 中文矿工](https://t.me/Filecoin_Miner_CN) | 矿业 - FIL 存储矿工     |
+| 挖矿 | [Chia 矿工](https://t.me/ChiaCN)                  | 矿业 - Chia 农场      |
+| 挖矿 | [Kaspa 矿工中文](https://t.me/Kaspa_CN)             | 矿业 - Kaspa GPU 挖矿 |
+
+### 媒体
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 媒体/研究 | [8BTC News 中文](https://t.me/BTCSuperGroup)                  | 媒体 - 巴比特新闻群        |
+| 媒体/研究 | [Odaily 星球日报](https://t.me/Odaily_CN)                       | 媒体 - 行业快讯          |
+| 媒体/研究 | [ChainCatcher 中文](https://t.me/ChainCatcher_CN)             | 媒体 - 链捕手社区         |
+| 媒体/研究 | [BlockBeats 中文](https://t.me/BlockBeats)                    | 媒体 - 深潮 TechFlow   |
+| 媒体/研究 | [Footprint Analytics 中文](https://t.me/FootprintAnalyticsCN) | 数据 - 数据洞察          |
+| 媒体/研究 | [PANews 中文](https://t.me/PANews_CN)                         | 媒体 - PANews 讨论     |
+| 媒体/研究 | [CoinVoice 中文](https://t.me/CoinVoiceCN)                    | 媒体 - CoinVoice     |
+| 媒体/研究 | [Foresight News 中文](https://t.me/ForesightNewsCN)           | 媒体 - ForesightNews |
+| 媒体/研究 | [TechFlow 中文](https://t.me/TechFlowCN)                      | 媒体 - TechFlow      |
+| 媒体/研究 | [Decrypt 中文](https://t.me/Decrypt_CN)                       | 媒体 - Decrypt 中文频道  |
+| 媒体/研究 | [CoinDesk News](https://t.me/coindesk_news)            | 媒体 - CoinDesk 新闻      |
+| 媒体/研究 | [Cointelegraph](https://t.me/cointelegraph)            | 媒体 - Cointelegraph 新闻 |
+| 媒体/研究 | [The Block](https://t.me/TheBlock_)                    | 媒体 - The Block 快讯     |
+| 媒体/研究 | [Messari](https://t.me/MessariCrypto)                  | 研究 - Messari 洞见       |
+| 媒体/研究 | [Decrypt](https://t.me/Decrypt77)                      | 媒体 - Decrypt 新闻       |
+| 媒体/研究 | [Bankless](https://t.me/BanklessHQ)                    | 媒体 - Bankless 资讯      |
+| 媒体/研究 | [CryptoSlate](https://t.me/CryptoSlate)                | 媒体 - CryptoSlate 新闻   |
+| 媒体/研究 | [Foresight News](https://t.me/foresight_news)          | 媒体 - Foresight 英文     |
+| 媒体/研究 | [Footprint Analytics](https://t.me/FootprintAnalytics) | 数据 - Footprint 数据     |
+| 媒体/研究 | [CryptoQuant](https://t.me/cryptoquant_official)       | 数据 - 链上指标 CryptoQuant |
+
+### 交易信号
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 交易信号 | [CryptoSignalsCN](https://t.me/CryptoSignalsCN) | 信号 - 行情/策略    |
+| 交易信号 | [WhaleAlert 中文](https://t.me/WhaleAlertCN)      | 监控 - 巨鲸转账     |
+| 交易信号 | [RAVEN Signals CN](https://t.me/RAVENSignalsCN) | 信号 - RAVEN 策略 |
+| 交易信号 | [TrendMaster CN](https://t.me/TrendMasterCN)    | 信号 - 趋势跟踪     |
+| 交易信号 | [FutureNet 中文](https://t.me/FutureNet_CN)       | 信号 - 合约策略     |
+| 交易信号 | [Crypto Pump Club](https://t.me/cryptoclubpump)          | 信号 - 拉盘预警        |
+| 交易信号 | [RAVEN Signals Pro](https://t.me/ravensignalspro)        | 信号 - 技术面洞察       |
+| 交易信号 | [Whale Alert](https://t.me/whale_alert)                  | 链上监控 - 大额转账提醒    |
+| 交易信号 | [Binance Killers](https://t.me/BinanceKillers)           | 信号 - 合约策略        |
+| 交易信号 | [Cabal Lines](https://t.me/caballines)                   | 信号 - 市场技术分析      |
+| 交易信号 | [Chain Crawlers](https://t.me/ChainCrawlers)             | 信号 - 链上侦察        |
+| 交易信号 | [CoinGape Signals](https://t.me/CoinGapeSignals)         | 信号 - CoinGape 交易 |
+| 交易信号 | [Smart Options](https://t.me/SmartOptions)               | 信号 - 机器人策略       |
+| 交易信号 | [ICO Drops Deals](https://t.me/ICO_Drops)                | 空投 - ICO/IDO 提醒  |
+| 交易信号 | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号 - Hopper 策略   |
+
 
 #### 参考资料
 
-- [BotoStore](https://botostore.com/) 一个专门收录telegram bot的国外网站，过滤了垃圾邮件和成人内容的bot
-- [BotsArchive](https://botsarchive.com/) Telegram机器人档案，不收录成人内容的bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
+- [BotoStore](https://botostore.com/)
+- [BotsArchive](https://botsarchive.com/) bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
 - [Telegram Bot：@BotsArchiveBot](https://t.me/BotsArchiveBot)
-- [Search Telegram Bots](https://botlist.infotelbot.com/) 一个按类型查找电报机器人网站
+- [Search Telegram Bots](https://botlist.infotelbot.com/) 
 
 （排名不分先后）
