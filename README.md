@@ -2083,7 +2083,7 @@
 | PagerMaid-Modify Update                | [https://t.me/PagerMaid_Modify](https://t.me/PagerMaid_Modify)                     | -    |                                                                         
 
 #### 参考资料
-- [AZeC4](https://github.com/AZeC4/TelegramGroup) 信息来源
+- [AZeC4](https://github.com/AZeC4/TelegramGroup) 群组/频道信息来源
 - [bigtree945](https://github.com/bigtree945/Official_VPS) VPS信息来源
 - [BotoStore](https://botostore.com/) 信息来源
 - [BotsArchive](https://botsarchive.com/) bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
