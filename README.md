@@ -27,7 +27,7 @@ Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, 
 - [资源搜索机器人/BOT](#资源搜索机器人)
 - [资源搜索群](#资源搜索群)
 - [Telegram官方/机器人/BOT](#Telegram官方/机器人)
-- [Telegram功能机器人/BOT](#Telegram功能机器人)
+- [Telegram功能机器人/BOT/数据分析/群组管理/脚本/搬运机器人](#Telegram功能机器人)
 - [Telegram电报官方机器人/BOT](#Telegram电报官方机器人)
 - [Web3频道/群组](#频道数据分析/管理)
 - [金融相关频道](#金融相关频道)
