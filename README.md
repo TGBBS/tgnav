@@ -28,6 +28,7 @@
 - [科学上网](#科学上网)
 - [金融相关频道](#金融相关频道)
 - [社群](#社群) 
+- [二次元/cosplay/老司机/小姐姐套图](#二次元/cosplay/老司机/小姐姐套图)
 - [软件群组/频道](#软件群组/频道) 
 - [一些未分类频道/群组](#一些未分类频道/群组) 
 
@@ -1057,6 +1058,45 @@
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
 
+# 二次元/cosplay/老司机/小姐姐套图
+| 群组名称                       | 链接                                                                                           | 功能描述 |
+| -------------------------- | -------------------------------------------------------------------------------------------- | ---- |
+| 韵の小院              | [https://t.me/YunRan233](https://t.me/YunRan233)             | 二周目版                                         |          |
+| 公诸同好              | [https://t.me/gongzhutonghao/](https://t.me/gongzhutonghao/) | 高质量动漫&二次元&插画作品分享                             |          |
+| Miku Arx          | [https://t.me/MikuArt/](https://t.me/MikuArt/)               | 主要发Twitter&Pixiv上的图(ACG相关为主)                 |          |
+| 不涩!超美丽二次元插画       | [https://t.me/BuseChannels/](https://t.me/BuseChannels/)     | 不涩!超美丽二次元插画                                  |          |
+| 一个兴趣使然的PC壁纸频道     | [https://t.me/CGSFW/](https://t.me/CGSFW/)                   | PC壁纸分享                                       |          |
+| [NSFW]守护最好的百合好的百合 | [https://t.me/yuri_on1y](https://t.me/yuri_on1y)             | 守护最好的百合 [NSFW]                               |          |
+| 萌图交流~色图也收，不要太过    | [https://t.me/jialeleya2233](https://t.me/jialeleya2233)     | 萌图交流，不要过分                                    |          |
+| PIXIV站每日Top50搬运   | [https://t.me/pixiv_top50](https://t.me/pixiv_top50)         | 搬运Pixiv每日综合排行榜前50图片                          |          |
+| 绝对萌域所             | [https://t.me/moeisland](https://t.me/moeisland)             | 最新萌图，每日更新                                    |          |
+| 萌图                | [https://t.me/ovov1234/](https://t.me/ovov1234/)             | Pixiv美图、萌图、壁纸、二次元、ACG                        |          |
+| 萌图志               | [https://t.me/moepic](https://t.me/moepic)                   | 不定时推送二次元插画                                   |          |
+| 晴的私藏图             | 精选壁纸美图                                                       | [https://t.me/qing_01](https://t.me/qing_01) | 精选壁纸与美图  |
+| 笔记本:好图收藏与整理:壁纸    | [https://t.me/linyunbook2](https://t.me/linyunbook2)         | 壁纸收藏整理                                       |          |
+| ANIME壁纸壁纸每天更新     | [https://t.me/acgwallpaper](https://t.me/acgwallpaper)       | 壁纸每日更新                                       |          |
+| SomeACG           | 每日少女壁纸ACG壁纸频i                                                | [https://t.me/SomeACG](https://t.me/SomeACG) | 高质量ACG壁纸 |
+| 小黎画师分享小聚画师分享      | [https://t.me/xianli202505](https://t.me/xianli202505)       | 小黎画师分享（二代目）                                  |          |
+| 萌图_v2             | [https://t.me/ovo_123](https://t.me/ovo_123)                 | ACG/二次元                                      |          |
+| Coser展馆           | [https://t.me/COSYiMi](https://t.me/COSYiMi)                 | Cosplay收藏                                    |          |
+### 小姐姐
+| 板块         | Telegram                                                             | 说明                                                         |                      |
+| ---------- | -------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------- |
+| 萌妹子聚集地     | [https://t.me/moemeizi](https://t.me/moemeizi)                       | 萌妹子聚集地                                                     |                      |
+| 朱颜别镜 妹子图美女      |    [https://t.me/meizitu3](https://t.me/meizitu3)                                                            |    全网美女，妹子图收藏            |        |
+| 白丝即正义      | [https://t.me/baisi](https://t.me/baisi)                             | 不定时推送一些绅士老爷们喜闻乐见的福利                                        |                      |
+| 妹纸图        | [https://t.me/Mzitu](https://t.me/Mzitu)                             | 妹纸图                                                        |                      |
+| 颜值美女       | [https://t.me/yanzhizaici](https://t.me/yanzhizaici)                 | 分享些美女 不定时更新                                                |                      |
+| 少女实在是太美好了  | [https://t.me/tastegirl](https://t.me/tastegirl)                     | 收藏级妹子图分享频道                                                 |                      |
+| 看小姐姐       | [https://t.me/kanxiaojiejie](https://t.me/kanxiaojiejie)             | 每日更新一张图，相信日积月累的力量                                          |                      |
+| 美女写真       | [https://t.me/laosiji100](https://t.me/laosiji100)                   | 美女写真                                                       |                      |
+| JK精选       | [https://t.me/EnjoyJK](https://t.me/EnjoyJK)                         | JK精选                                                       |                      |
+| Fine Girls 收集器| [https://t.me/iamfinecollect](https://t.me/iamfinecollect)                                                                   | 妹子图收集器，所有资源出自互联网收集整理|
+| 自尊的小姐姐们    | [https://t.me/ZZDXJJ](https://t.me/ZZDXJJ)                           | 没钱只能看看你的甜，有钱还能尝尝你的咸                                        |                      |
+| 快乐星球妹子图    | [https://t.me/botmzt](https://t.me/botmzt)                                                                     |     妹子图收集器，所有资源出自互联网          |     
+| 小瑜的老婆们     | [https://t.me/goumingdexiaojiejie](https://t.me/goumingdexiaojiejie) | 狗命可以不要，老婆必须得叫！                                             |                      |
+| 少女一顾倾人城    | [https://t.me/love_nice_girl](https://t.me/love_nice_girl)           | 每日分享美好                                                     |                      |
+| 仙女坊        | [https://t.me/meinv1916](https://t.me/meinv1916)                     | 仙女坊                                                        |                      |
 
 # 软件群组/频道
 | 群组名称                       | 链接                                                                                           | 功能描述 |
@@ -2083,7 +2123,7 @@
 | PagerMaid-Modify Update                | [https://t.me/PagerMaid_Modify](https://t.me/PagerMaid_Modify)                     | -    |                                                                         
 
 #### 参考资料
-- [AZeC4](https://github.com/AZeC4/TelegramGroup) 群组/频道信息来源
+- [AZeC4](https://github.com/AZeC4/TelegramGroup) 信息来源
 - [bigtree945](https://github.com/bigtree945/Official_VPS) VPS信息来源
 - [BotoStore](https://botostore.com/) 信息来源
 - [BotsArchive](https://botsarchive.com/) bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
