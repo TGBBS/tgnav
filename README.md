@@ -19,13 +19,17 @@
 
 - [资源搜索机器人](#资源搜索机器人)
 - [资源搜索群](#资源搜索群)
-- [Telegram官方加密货币钱包](#Telegram官方加密货币钱包)
-- [Telegram官方链接](#Telegram官方链接)
+- [Telegram官方/机器人](#Telegram官方/机器人)
+- [Telegram功能机器人](#Telegram功能机器人)
 - [Telegram电报官方机器人](#Telegram电报官方机器人)
-- [频道数据分析/管理](#频道数据分析/管理)
-- [其他机器人](#其他机器人)
-
-<br>
+- [Web3频道/群组](#频道数据分析/管理)
+- [金融相关频道](#金融相关频道)
+- [VPS官方商家](#VPS官方商家)
+- [科学上网](#科学上网)
+- [金融相关频道](#金融相关频道)
+- [社群](#社群) 
+- [软件群组/频道](#软件群组/频道) 
+- [一些未分类频道/群组](#一些未分类频道/群组) 
 
 # 资源搜索机器人 
 #### 各个机器人资源库不一样，由于协议号泛滥，使用中文搜索降低机器人出验证率
@@ -51,24 +55,13 @@
 |TG全能搜群资源大群                           | [https://t.me/zysoso](hhttps://t.me/zysoso)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-smss资源库   |
 <br>
 
-# Telegram官方加密货币钱包 
+# Telegram官方/机器人
 | 名字     | 链接 | 简介     |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付                                          |
-
-<br>
-
-# Telegram官方链接
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |客服页面                             | [https://telegram.org/support](https://telegram.org/support)          | -  |
 |官方 Twitter|[ https://twitter.com/telegram]( https://twitter.com/telegram)|-|              
 | 官方FAQ| [官方FAQ]((https://telegra.ph/Common-Login-Problems-03-12)) | - |
-
-# Telegram电报官方机器人
-
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
 | BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
 | Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 创建贴纸包，管理贴纸                       |
@@ -82,6 +75,13 @@
 | Verify Bot            | [@VerifyBot](https://t.me/VerifyBot/)                               | 认证你的Telegram频道、群组和机器人         |
 | Username Bot          | [@username_bot](https://t.me/username_bot/)                         | 通过权威认证获取被占用的用户名             |
 | Fragment Auction Alerts | [@fragment](https://t.me/fragment/)                               | Fragment拍卖通知机器人                     |
+<br>
+
+
+# Telegram功能机器人
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱 |
 | nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
 | Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
@@ -118,7 +118,7 @@
 
 
 
-# 频道数据分析/管理
+### 频道数据分析/管理
 
 | 名字                  | 链接                                                                 | 功能描述                                   |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
@@ -131,8 +131,7 @@
 | TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
 | Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
 
-
-# 群组抽奖机器人
+### 群组抽奖机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 抽奖助手机器人      | [@tgLotteryBot](https://t.me/tgLotteryBot)       | 抽奖助手机器人  |
@@ -142,7 +141,19 @@
 | Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
 | Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
 
-# 协助管理群组机器人验证
+### 京豆/脚本
+| 名字          |                    链接                    | 功能描述        |
+| :---------- | :--------------------------------------: | :---------- |
+| jdShareCode | [@jdShareCode](https://t.me/jdShareCode) | - |
+| PKC皮卡车      | [@topstyle996](https://t.me/topstyle996) | - |
+| Leeco-雪花社   |   [@xuehuashe](https://t.me/xuehuashe)   | - |
+| jdShareCode    |      [@jdShareCode](https://t.me/jdShareCode)      | ——（未提供，可补充） |
+| PKC皮卡车         |      [@topstyle996](https://t.me/topstyle996)      | ——（未提供，可补充） |
+| Leeco-雪花社      |        [@xuehuashe](https://t.me/xuehuashe)        | ——（未提供，可补充） |
+| Bigo社区群        |        [@bigo_tool](https://t.me/bigo_tool)        | ——（未提供，可补充） |
+| Fragment账号实时报价 | [@Fragment_Monitor](https://t.me/Fragment_Monitor) | ——（未提供，可补充） |
+
+### 群组管理/验证/进出群消息管理/广告杀手机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
@@ -156,38 +167,57 @@
 | 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
 | 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
-
-# 欢迎机器人
+| 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
+| 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
+| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
+| 删除含有黑名单词的发言   | [@grep_robot](https://t.me/grep_robot)        | 删除含有黑名单词的发言      |
+| 广告杀手      | [@LookOnbot](https://t.me/LookOnbot)       | 广告杀手,只需要删除消息即可协助群管理清除广告,另有众多实用功能,包括禁止关联频道置顶,封杀病毒文件等  |
+| 广告链接拦截      | [@ProtectronBot](https://t.me/ProtectronBot)       | 删除广告链接,短链接,转发,进出群消息,设置关键字黑名单,禁止刷屏,删除色情图片等,误杀比较多.  |
+| 发言频率限制   | [@freqrobot](https://t.me/freqrobot)        | 限制群员发言频率      |
+| 广告终结者      | [@adzhongjiezhe_bot](https://t.me/adzhongjiezhe_bot)       | 广告终结者,通过设置关键字来删除违规消息  |
+| 禁止关联频道置顶      | [@DiscussUnpinBot](https://t.me/DiscussUnpinBot)       | 禁止关联频道群置顶  |
+| 自动删除exe、scr、com、cpl后缀的文件   | [@noexebot](https://t.me/noexebot)        | 自动删除exe、scr、com、cpl后缀的文件      |
+| 删除进群24小时新人转发,图片等信息      | [@daysandbox_bot](https://t.me/daysandbox_bot)       | 删除进群24小时新人转发,图片等信息  |
+| 删除特定类型的信息   | [@watchdog_robot](https://t.me/watchdog_robot)        | 删除特定类型的信息,例如链接,贴纸,图片,语音信息,文件等等      |
+| 删除阿拉伯语和波斯语信息      | [@noarab_bot](https://t.me/noarab_bot)       | 删除阿拉伯语和波斯语信息  |
+| 删除指定语言的信息      | [@lang_blocker_bot](https://t.me/lang_blocker_bot)       | 删除指定语言的信息  |
+| 禁止群聊天   | [@HushRobot](https://t.me/HushRobot)        | 禁止群聊天      |
+| 删除进群退群提示信息      | [@joinhider_bot](https://t.me/joinhider_bot)       | 删除进群退群提示信息  |
+| 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
+| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
+| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
+| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
+### 欢迎机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
-| 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
-| 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
+| 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 入群欢迎机器人，自定义配置欢迎文本  |
+| 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 入群欢迎机器人，自定义配置欢迎文本  |
+| 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 入群欢迎机器人，自定义配置欢迎文本      |
 
-# 广告拦截
+### 广告拦截
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
+| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀，针对协议号、营销号等  |
 | 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
-| 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | I remove join/leave messages in groups and supergroups.      |
+| 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | 删除出群消息的机器人，I remove join/leave messages in groups and supergroups.      |
 
-# 看门
+### 关键词屏蔽机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7  |
 
-# 昵称
+### 昵称
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 忘记设置username提醒      | [@UNameBot](https://t.me/UNameBot)       | 在使用者忘記設定 username 時發送提醒訊息  |
 | 监控名字更改记录      | [@SangMata_BOT](https://t.me/SangMata_BOT)       | 放入群组可以监控群里用户名字更改记录  |
 
-# 骂人
+### 杠精专用机器人
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 骂人机器人  |
+| 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 这是一个喜感的骂人机器人。当你说话的时候，他有 10% 的几率会回一句 ”个屁“，”个头“ 或者其他消息。你可以把它拉到组里面，然后...  |
 
-# 下载机器人
+### 下载机器人
 | 名字               | 链接                                           | 功能描述                                   |
 | :---               | :----:                                         | :---                                       |
 | 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云音乐下载                        |
@@ -205,22 +235,14 @@
 | B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot)     | B站下载                                 |
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
-
-# 其他有趣机器人
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
-| 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
+|  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=P0H0AWM30WF9XLM0)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
 | 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
 | 群管理机器人      | [@WeGroupRobot](https://t.me/WeGroupRobot)       |专为管理和优化群组聊天体验而设计。它可以帮助群组管理员简化日常管理任务，提高群组的互动质量 |
-| 方丈群管理机器人      | [@fangzhang_bot](https://t.me/fangzhang_bot)       |新人进群验证、新人进群欢迎词、垃圾信息拦截、自动回复、定时发送、强制订阅、消息统计 |
 | 起点交易机器人      | [@qdbot](https://t.me/qdbot?start=invite_533296)       |网络骗子太多，需要担保平台，保证双方利益的交易机器人 |
 | 双向机器人      | [@LivegramBot](https://t.me/LivegramBot)       |可以免费创建属于自己的双向机器人，解决账号无法主动发起会话的问题  |
 | 按钮机器人      | [@PostBot](https://t.me/PostBot)       | 可以在群组或者频道里面编辑按钮控件，用来挂链接或者打广告的神器 |
 | 查特皮皮鸡      | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT)       |基于OpenAI和 Google Cloud AI Platform 的 Anti-Spam机器人，可以有效过滤文字、图片、贴纸等垃圾广告。 |
-| 长消息杀手   | [@LongMessageKillerBot](https://t.me/LongMessageKillerBot)        | 最近长消息炸群很多，使用这个长消息杀手机器人可以防止炸群  |
-| 广告杀手   | [@GuangGaoShaShouBot](https://t.me/GuangGaoShaShouBot)        | 本机器人专业封杀中文广告内容以及广告号 |
 |  频道搬运机器人  | [@kuaixiaBot](https://t.me/kuaixiaBot?start=c42d54b0f9e36592783b7d594421eafa)        | 破解频道/群组不允许转发机器人,频道主运营利器|
 |  频道搬运机器人  | [@msg_get_bot](https://t.me/msg_get_bot?start=K86QAr71)        | 破解频道/群组不允许转发机器人,频道主运营利器|
 |  ID查询机器人  | [@username_to_id_bot](https://t.me/username_to_id_bot)        | 查询用户ID、频道ID、群组ID |
@@ -240,28 +262,10 @@
 | More useful bots for group owners      | [@GroupOwnerBot](https://t.me/GroupOwnerBot)       | More useful bots for group owners  |
 | 文件与链接检测      | [@drwebbot](https://t.me/drwebbot)       | Dr.Web（大蜘蛛）公司推出了一个实验性的 Telegram Bot，它可以检查网页链接和文件，并在包含威胁时发出警告。单文件限制20M（Aquamarine）  |
 | 群组清理大师      | [@GroupCleanupMasterBot](https://t.me/GroupCleanupMasterBot)       | 群组清理大师智能清除广告  |
-| 删除含有黑名单词的发言   | [@grep_robot](https://t.me/grep_robot)        | 删除含有黑名单词的发言      |
-| 广告杀手      | [@LookOnbot](https://t.me/LookOnbot)       | 广告杀手,只需要删除消息即可协助群管理清除广告,另有众多实用功能,包括禁止关联频道置顶,封杀病毒文件等  |
-| 广告链接拦截      | [@ProtectronBot](https://t.me/ProtectronBot)       | 删除广告链接,短链接,转发,进出群消息,设置关键字黑名单,禁止刷屏,删除色情图片等,误杀比较多.  |
-| 发言频率限制   | [@freqrobot](https://t.me/freqrobot)        | 限制群员发言频率      |
-| 广告终结者      | [@adzhongjiezhe_bot](https://t.me/adzhongjiezhe_bot)       | 广告终结者,通过设置关键字来删除违规消息  |
-| 禁止关联频道置顶      | [@DiscussUnpinBot](https://t.me/DiscussUnpinBot)       | 禁止关联频道群置顶  |
-| 自动删除exe、scr、com、cpl后缀的文件   | [@noexebot](https://t.me/noexebot)        | 自动删除exe、scr、com、cpl后缀的文件      |
-| 删除进群24小时新人转发,图片等信息      | [@daysandbox_bot](https://t.me/daysandbox_bot)       | 删除进群24小时新人转发,图片等信息  |
-| 删除特定类型的信息   | [@watchdog_robot](https://t.me/watchdog_robot)        | 删除特定类型的信息,例如链接,贴纸,图片,语音信息,文件等等      |
-| 删除阿拉伯语和波斯语信息      | [@noarab_bot](https://t.me/noarab_bot)       | 删除阿拉伯语和波斯语信息  |
-| 删除指定语言的信息      | [@lang_blocker_bot](https://t.me/lang_blocker_bot)       | 删除指定语言的信息  |
-| 禁止群聊天   | [@HushRobot](https://t.me/HushRobot)        | 禁止群聊天      |
-| 删除进群退群提示信息      | [@joinhider_bot](https://t.me/joinhider_bot)       | 删除进群退群提示信息  |
-| 删除欢迎信息      | [@nohello_robot](https://t.me/nohello_robot)       | 删除欢迎信息  |
-| 统计群组发言数   | [@jung2_bot](https://t.me/jung2_bot)        | 统计群组中用户的发言数      |
-| 统计秘书      | [@FengStatsBot](https://t.me/FengStatsBot)       | 统计秘书,本秘书做群中各种统计，发言次数等  |
-| 管理通知      | [@MasterTagAlertBot](https://t.me/MasterTagAlertBot)       | 管理通知  |
 | IMDb查电影信息   | [@imdb](https://t.me/imdb)        | IMDb查电影信息      |
 | URL转TG档案      | [@uploadbot](https://t.me/uploadbot)       | 神奇的普通URL網址轉TG檔案，单个文件限制500M,每天限制1GB。如果想更多空間可以買VIP  |
 | 提供工作机会      | [@jobs_bot](https://t.me/jobs_bot)       | telegram官方提供工作机会  |
 | 临时邮箱机器人      | [@sms24_me](https://t.me/sms24_me)       | 提供电话号码用于接收短信  |
-| 群组管理      | [http://teleme.io](http://teleme.io)       | TeleMe 是一款功能强大又方便好用的 Telegram 社群管理 Bot 机器人,收费,有免费额度  |
 | 搜索机器人      | [@SearcheeBot](https://t.me/SearcheeBot)       | TG频道搜索机器人  |
 | bot搜索   | [@BotListBot](https://t.me/BotListBot)        | bot搜索      |
 | 查找bot,频道,群,贴纸等      | [@ExploreTelegramBot](https://t.me/ExploreTelegramBot)       | 查找bot,频道,群,贴纸等  |
@@ -273,12 +277,482 @@
 | 中文Telegram RSS机器人   | [@RustRssBot](https://t.me/RustRssBot)        | 中文 Telegram RSS 机器人     |
 | 解除频道消息在群组的置顶   | [@areply_bot](https://t.me/areply_bot)        | 自动解除频道消息在群组的同步置顶，附带群组日常维护常用小功能  |
 
+# Web3频道/群组
+### 交易所 Exchanges
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 交易所 | [Binance 中文群](https://t.me/BinanceChinese)  | 官方 - 币安官方中文讨论与公告                                                   |
+| 交易所 | [OKX 中文社区](https://t.me/OKXOfficialChinese) | 官方 - OKX 官方中文社群       |
+| 交易所 | [HTX 中文群](https://t.me/HuobiGlobalChinese)  | 官方 - HTX（原 Huobi）中文社区 |
+| 交易所 | [Gate 中文](https://t.me/Gateio_Chinese)      | 官方 - Gate.io 中文群      |
+| 交易所 | [KuCoin 中文](https://t.me/KuCoinChinese)     | 官方 - KuCoin 交流与活动     |
+| 交易所 | [MEXC 中文](https://t.me/MEXCzh)              | 官方 - MEXC 中文社群        |
+| 交易所 | [Bitget 中文](https://t.me/BitgetOfficialCN)  | 官方 - Bitget 期货交易中文群   |
+| 交易所 | [Bybit 中文](https://t.me/BybitChinese)       | 官方 - Bybit 官方讨论       |
+| 交易所 | [LBank 中文](https://t.me/LBank_CN)           | 官方 - LBank 交易所中文群     |
+| 交易所 | [ProEX 中文](https://t.me/ProEX_CN)           | 官方 - ProEX 讨论         |
+| 交易所 | [Coinlist 中文](https://t.me/CoinlistCN)      | 官方 - Coinlist 打新讨论    |
+| 交易所 | [Bitmart 中文](https://t.me/Bitmart_CN)       | 官方 - Bitmart 交流       |
+| 交易所 | [BingX 中文](https://t.me/BingXCN)            | 官方 - BingX 社群         |
+| 交易所 | [Hotbit 中文](https://t.me/Hotbit_CN)         | 官方 - Hotbit 社群        |
+| 交易所 | [WhiteBIT 中文](https://t.me/WhiteBIT_CN)     | 官方 - WhiteBIT 讨论      |
+| 交易所 | [ZB 中文](https://t.me/ZBCh)                  | 官方 - ZB.com 中文群       |
+| 交易所 | [Bitrue 中文](https://t.me/BitrueChinese)     | 官方 - Bitrue 社群        |
+| 交易所 | [Pionex 中文](https://t.me/PionexCN)          | 官方 - Pionex 网格交易      |
+| 交易所 | [OKX API 中文](https://t.me/OKX_API_CN)       | 技术 - OKX API 讨论       |
+| 交易所 | [Deribit 中文](https://t.me/DeribitCN)        | 衍生品 - Deribit 期权交流    | 
+| 交易所 | [Binance Exchange](https://t.me/binanceexchange)    | 官方 - 全球 Binance 主群 |
+| 交易所 | [Coinbase Official](https://t.me/Coinbase_Official) | 官方 - Coinbase 英文社区 |
+| 交易所 | [OKX Global](https://t.me/okx_official)             | 官方 - OKX 全球英文群     |
+| 交易所 | [Bybit English](https://t.me/BybitEnglish)          | 官方 - Bybit 交易者中心   |
+| 交易所 | [KuCoin Exchange](https://t.me/KuCoin_Exchange)     | 官方 - KuCoin 英文社群   |
+| 交易所 | [Gate.io Official](https://t.me/Gateio)             | 官方 - Gate.io 全球群   |
+| 交易所 | [MEXC Global](https://t.me/MEXCGlobalOfficial)      | 官方 - MEXC 英文社群     |
+| 交易所 | [Bitget Global](https://t.me/BitgetEN)              | 官方 - Bitget 英文群    |
+| 交易所 | [Deribit Exchange](https://t.me/deribit)            | 衍生品 - 期权合约讨论       |
+| 交易所 | [Kraken Exchange](https://t.me/KrakenExchange)      | 官方 - Kraken 公告与讨论  |
+| 交易所 | [Bitstamp](https://t.me/BitstampOfficial)           | 官方 - Bitstamp 全球群  |
+| 交易所 | [BingX Global](https://t.me/BingXOfficial)          | 社交交易 - BingX 跟单社群  |
+| 交易所 | [BitMEX](https://t.me/BitMEXOfficial)               | 期货 - BitMEX 社区     |
+| 交易所 | [Phemex](https://t.me/Phemex_English)               | 期货 - Phemex 英文聊天   |
+| 交易所 | [WhiteBIT Global](https://t.me/WhiteBIT)            | 官方 - WhiteBIT 讨论   |
+
+### DeFi
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| DeFi | [DeFiCN](https://t.me/DeFiCN)                 | DeFi - 综合 DeFi 讨论    |
+| DeFi | [Uniswap 中文](https://t.me/UniswapCN)          | DEX - Uniswap 使用与治理  |
+| DeFi | [Aave 中文](https://t.me/AaveCN)                | 借贷 - Aave 借贷协议       |
+| DeFi | [Curve 中文](https://t.me/CurveFinanceCN)       | 稳定币 - Curve 流动性      |
+| DeFi | [MakerDAO 中文](https://t.me/MakerDAO_CN)       | 稳定币 - Maker 与 DAI    |
+| DeFi | [PancakeSwap 中文](https://t.me/PancakeSwap_CN) | BSC - PancakeSwap    |
+| DeFi | [Sushi 中文](https://t.me/SushiSwapCN)          | DEX - SushiSwap      |
+| DeFi | [GMX 中文](https://t.me/GMXChinese)             | 永续 - GMX 合约          |
+| DeFi | [Compound 中文](https://t.me/CompoundCN)        | 借贷 - Compound 协议     |
+| DeFi | [Venus 中文](https://t.me/Venus_CN)             | 借贷 - Venus 借贷        |
+| DeFi | [dYdX 中文](https://t.me/dydxCN)                | 合约 - dYdX 交易所        |
+| DeFi | [Lido 中文](https://t.me/Lido_CN)               | 质押 - Lido 流动质押       |
+| DeFi | [Pendle 中文](https://t.me/Pendle_CN)           | 收益 - Pendle 期限收益     |
+| DeFi | [Stargate 中文](https://t.me/Stargate_CN)       | 跨链 - Stargate 跨链桥    |
+| DeFi | [Osmosis 中文](https://t.me/Osmosis_CN)         | Cosmos - Osmosis DEX |
+| DeFi | [Uniswap](https://t.me/Uniswap)                  | DEX - Uniswap 协议社区    |
+| DeFi | [Aave](https://t.me/AaveOfficial)                | 借贷 - Aave 治理与交流       |
+| DeFi | [MakerDAO](https://t.me/makerDAOofficial)        | 稳定币 - DAI 社区          |
+| DeFi | [Curve Finance](https://t.me/curvefi)            | 稳定币交换 - Curve 讨论      |
+| DeFi | [SushiSwap](https://t.me/sushiswap)              | DEX - SushiSwap 社区    |
+| DeFi | [PancakeSwap](https://t.me/PancakeSwap)          | BSC - PancakeSwap 全球群 |
+| DeFi | [GMX](https://t.me/GMX_IO)                       | 永续 - GMX 合约交易         |
+| DeFi | [dYdX](https://t.me/dydxofficial)                | 永续 - dYdX 协议群         |
+| DeFi | [Lido Finance](https://t.me/lidofinance)         | 质押 - Lido 液态质押        |
+| DeFi | [Pendle Finance](https://t.me/pendlefinance)     | 收益 - Pendle 收益分离      |
+| DeFi | [Stargate Finance](https://t.me/StargateFinance) | 跨链桥 - Stargate 跨链     |
+| DeFi | [Yearn Finance](https://t.me/yearnfinance)       | 收益 - Yearn 保险库        |
+| DeFi | [Balancer](https://t.me/balancerlabs)            | AMM - Balancer DAO    |
+| DeFi | [Synthetix](https://t.me/synthetix_io)           | 衍生品 - Synthetix 协议    |
+| DeFi | [Radiant Capital](https://t.me/RadiantCapital)   | 借贷 - 跨链借贷 Radiant     |
+
+### NFT
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| NFT | [OpenSea 中文](https://t.me/OpenSea_CN)            | NFT - OpenSea 交流       |
+| NFT | [Blur 中文](https://t.me/Blur_CN)                  | NFT - Blur 竞价市场        |
+| NFT | [Azuki 中文](https://t.me/Azuki_CN)                | NFT - Azuki 社群         |
+| NFT | [YugaLabs 中文](https://t.me/YugaLabsCN)           | NFT - BAYC / Otherside |
+| NFT | [PudgyPenguins 中文](https://t.me/Pudgy_CN)        | NFT - 小胖企鹅爱好者          |
+| NFT | [ElementMarket 中文](https://t.me/ElementMarketCN) | NFT - Element 市场       |
+| NFT | [NFTCN 社群](https://t.me/NFTCN)                   | NFT - 综合 NFT 讨论        |
+| NFT | [StepN 中文](https://t.me/StepN_official_CN)       | NFT/GameFi - StepN 跑鞋  |
+| NFT | [MagicEden 中文](https://t.me/MagicEdenCN)         | NFT - Solana NFT 市场    |
+| NFT | [Loot 中文](https://t.me/Loot_CN)                  | NFT - Loot 项目          |
+| NFT | [OpenSea Official](https://t.me/opensea)       | NFT - OpenSea 市场        |
+| NFT | [Blur.io](https://t.me/BlurExchange)           | NFT - Blur 竞价平台         |
+| NFT | [Azuki Official](https://t.me/azukiofficial)   | NFT - Azuki 持有者群        |
+| NFT | [Yuga Labs / BAYC](https://t.me/bayc_official) | NFT - BAYC 社区           |
+| NFT | [Pudgy Penguins](https://t.me/pudgypenguins)   | NFT - Pudgy Penguins    |
+| NFT | [Magic Eden](https://t.me/magicedenio)         | NFT - Solana NFT 市场     |
+| NFT | [Parallel TCG](https://t.me/parallel)          | NFT - Parallel 卡牌游戏     |
+| NFT | [Treasure DAO](https://t.me/treasure_dao)      | NFT/Game - Treasure 生态  |
+| NFT | [Loot Project](https://t.me/lootproject)       | NFT - Loot 冒险者          |
+| NFT | [DG Pals](https://t.me/DGPals)                 | NFT/GameFi - DG Pals 宠物 |
+
+### Layer 2
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| Layer 2 | [zkSync 中文](https://t.me/zkSync_CN)     | ZK - zkSync 生态         |
+| Layer 2 | [StarkNet 中文](https://t.me/StarkNet_CN) | ZK - StarkNet 技术       |
+| Layer 2 | [Optimism 中文](https://t.me/Optimism_CN) | Rollup - Optimism 生态   |
+| Layer 2 | [Arbitrum 中文](https://t.me/ArbitrumCN)  | Rollup - Arbitrum 交流   |
+| Layer 2 | [Base 中文](https://t.me/BaseChain_CN)    | Rollup - Coinbase Base |
+| Layer 2 | [Taiko 中文](https://t.me/Taiko_CN)       | ZK - Taiko 测试网         |
+| Layer 2 | [Linea 中文](https://t.me/LineaChinese)   | ZK - ConsenSys Linea   |
+| Layer 2 | [Scroll 中文](https://t.me/Scroll_ZK_CN)  | ZK - Scroll 生态         |
+| Layer 2 | [Manta 中文](https://t.me/Manta_CN)       | ZK - Manta Network     |
+| Layer 2 | [Metis 中文](https://t.me/MetisCN)        | Rollup - Metis DAO     |
+| Layer 2 | [zkSync Era](https://t.me/zksync)                  | ZK - zkSync 主群         |
+| Layer 2 | [StarkNet](https://t.me/starknet)                  | ZK - StarkNet 官方       |
+| Layer 2 | [Optimism](https://t.me/OptimismPortal)            | Rollup - Optimism 动态   |
+| Layer 2 | [Arbitrum Official](https://t.me/ArbitrumOfficial) | Rollup - Arbitrum 社区   |
+| Layer 2 | [Base Chain](https://t.me/base_chain)              | Rollup - Coinbase Base |
+| Layer 2 | [Linea](https://t.me/linea_build)                  | ZK - Linea 开发者         |
+| Layer 2 | [Scroll ZKP](https://t.me/scrollzkp)               | ZK - Scroll 社区         |
+| Layer 2 | [Mantle Network](https://t.me/mantlenetwork)       | Rollup - Mantle DAO    |
+| Layer 2 | [Taiko Labs](https://t.me/taikolabs)               | ZK - Taiko 开发群         |
+| Layer 2 | [Metis DAO](https://t.me/MetisDAO)                 | Rollup - Metis 生态      |
+
+### GameFi
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| GameFi | [Axie Infinity 中文](https://t.me/AxieInfinityCN) | GameFi - Axie 游戏         |
+| GameFi | [Gala Games 中文](https://t.me/GalaGamesCN)       | GameFi - Gala 生态         |
+| GameFi | [Illuvium 中文](https://t.me/Illuvium_CN)         | GameFi - Illuvium RPG    |
+| GameFi | [Star Atlas 中文](https://t.me/StarAtlasCN)       | GameFi - Star Atlas      |
+| GameFi | [BigTime 中文](https://t.me/BigTime_CN)           | GameFi - Big Time MMO    |
+| GameFi | [The Sandbox 中文](https://t.me/TheSandboxCN)     | GameFi - 元宇宙 Sandbox     |
+| GameFi | [Mavia 中文](https://t.me/Mavia_CN)               | GameFi - Heroes of Mavia |
+| GameFi | [AlienWorlds 中文](https://t.me/AlienWorldsCN)    | GameFi - Alien Worlds    |
+| GameFi | [Yuliverse 中文](https://t.me/YuliverseCN)        | GameFi - AR+LBS 游戏       |
+| GameFi | [Pixels 中文](https://t.me/Pixels_CN)             | GameFi - Pixels 农场       |
+| GameFi | [Axie Infinity](https://t.me/axieinfinity)    | GameFi - Axie 玩家群       |
+| GameFi | [Gala Games](https://t.me/GalaGamesOfficial)  | GameFi - Gala 生态        |
+| GameFi | [Illuvium Official](https://t.me/illuviumio)  | GameFi - Illuvium RPG   |
+| GameFi | [Big Time](https://t.me/BigTimeOfficial)      | GameFi - BigTime MMO    |
+| GameFi | [Star Atlas](https://t.me/staratlas)          | GameFi - Star Atlas 元宇宙 |
+| GameFi | [The Sandbox](https://t.me/sandboxgame)       | 元宇宙 - Sandbox 创作者       |
+| GameFi | [Pixels Global](https://t.me/PixelsOnline)    | GameFi - Pixels 农场      |
+| GameFi | [Heroes of Mavia](https://t.me/HeroesOfMavia) | GameFi - Mavia 策略       |
+| GameFi | [Alien Worlds](https://t.me/alienworldschat)  | GameFi - Alien Worlds   |
+| GameFi | [Yuliverse](https://t.me/Yuliverse)           | GameFi - AR+Web3 游戏     |
+
+### DAO
+| 板块  | Telegram                                     | 说明               |
+| --- | -------------------------------------------- | ---------------- |
+| DAO | [DAOhaus 中文](https://t.me/DAOhausCN)          | DAO - DAOhaus 治理     |
+| DAO | [Gitcoin 中文](https://t.me/GitcoinCN)          | DAO - Gitcoin Grants |
+| DAO | [BitDAO 中文](https://t.me/BitDAO_CN)           | DAO - BitDAO 社群      |
+| DAO | [ENS 中文](https://t.me/ENS_CN)                 | DAO - 以太坊域名          |
+| DAO | [FlamingoDAO 中文](https://t.me/FlamingoDAO_CN) | DAO - NFT 投资 DAO     |
+| DAO | [Gitcoin](https://t.me/gitcoinco)            | 资助 - Gitcoin DAO |
+| DAO | [Bankless DAO](https://t.me/BanklessDAO)     | 媒体 - Bankless 社区 |
+| DAO | [Aragon DAO](https://t.me/aragonproject)     | DAO - Aragon 治理  |
+| DAO | [ENS DAO](https://t.me/ensdomains)           | 域名 - Ethereum 域名 |
+| DAO | [BitDAO](https://t.me/bitdao_official)       | 国库 - BitDAO 持有人  |
+| DAO | [Flamingo DAO](https://t.me/flamingodao)     | NFT - 艺术投资 DAO   |
+| DAO | [Moloch DAO](https://t.me/molochdao)         | 资助 - ETH 资助 DAO  |
+| DAO | [Friends With Benefits](https://t.me/fwbDAO) | 社交 - FWB 成员群     |
+| DAO | [LexDAO](https://t.me/lexdao)                | 法律 - LexDAO 律师公会 |
+| DAO | [PleasrDAO](https://t.me/pleasrdao)          | 收藏 - PleasrDAO   |
+
+### 开发者
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 开发者 | [Web3DevCN](https://t.me/Web3DevSchool_CN)   | 技术 - Web3 开发者学院        |
+| 开发者 | [Solidity 中文](https://t.me/Solidity_CN)      | 技术 - Solidity 语言       |
+| 开发者 | [Substrate 中文](https://t.me/Substrate_CN)    | 技术 - 波卡 Substrate      |
+| 开发者 | [Rust 区块链](https://t.me/Rust_Blockchain_CN)  | 技术 - Rust + 区块链        |
+| 开发者 | [Hardhat 中文](https://t.me/Hardhat_CN)        | 技术 - Hardhat 工具        |
+| 开发者 | [ETH Shanghai Dev](https://t.me/ETHShanghai) | 技术 - ETH Shanghai 社群   |
+| 开发者 | [Chainlink 中文](https://t.me/Chainlink_CN)    | Oracle - Chainlink 预言机 |
+| 开发者 | [MoveLang 中文](https://t.me/MoveLang_CN)      | 技术 - Move 语言           |
+| 开发者 | [WasmEdge 中文](https://t.me/WasmEdge_CN)      | 技术 - WebAssembly       |
+| 开发者 | [Cosmos SDK 中文](https://t.me/CosmosSDK_CN)   | 技术 - Cosmos SDK        |
+| 开发者 | [Ethereum Dev](https://t.me/ethdev)                    | 技术 - 以太坊开发者          |
+| 开发者 | [Solidity](https://t.me/solidity_lang)                 | 技术 - Solidity 语言     |
+| 开发者 | [Chainlink Dev](https://t.me/chainlinkofficial)        | 预言机 - Chainlink 开发   |
+| 开发者 | [Substrate Technical](https://t.me/SubstrateTechnical) | 波卡 - Substrate 技术    |
+| 开发者 | [Rust Blockchain](https://t.me/rust_blockchain)        | 技术 - Rust + 区块链      |
+| 开发者 | [Hardhat](https://t.me/HardhatPlugin)                  | 技术 - Hardhat 工具      |
+| 开发者 | [Move Language](https://t.me/move_language)            | Aptos/Sui - Move 语言群 |
+| 开发者 | [Cosmos SDK](https://t.me/cosmosdev)                   | Cosmos - Cosmos 开发   |
+| 开发者 | [Web3.js](https://t.me/web3js)                         | 技术 - web3.js 库       |
+| 开发者 | [EthGlobal Hack](https://t.me/ethglobal)               | 黑客松 - ETH 黑客松        |
+
+### 挖矿
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 挖矿 | [Bitcoin 矿工中文](https://t.me/Bitcoin_Mining_CN)  | 矿业 - BTC 挖矿       |
+| 挖矿 | [Ethereum 矿工中文](https://t.me/EthMining_CN)      | 矿业 - PoW 历史讨论     |
+| 挖矿 | [Filecoin 中文矿工](https://t.me/Filecoin_Miner_CN) | 矿业 - FIL 存储矿工     |
+| 挖矿 | [Chia 矿工](https://t.me/ChiaCN)                  | 矿业 - Chia 农场      |
+| 挖矿 | [Kaspa 矿工中文](https://t.me/Kaspa_CN)             | 矿业 - Kaspa GPU 挖矿 |
+
+### 媒体
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 媒体/研究 | [8BTC News 中文](https://t.me/BTCSuperGroup)                  | 媒体 - 巴比特新闻群        |
+| 媒体/研究 | [Odaily 星球日报](https://t.me/Odaily_CN)                       | 媒体 - 行业快讯          |
+| 媒体/研究 | [ChainCatcher 中文](https://t.me/ChainCatcher_CN)             | 媒体 - 链捕手社区         |
+| 媒体/研究 | [BlockBeats 中文](https://t.me/BlockBeats)                    | 媒体 - 深潮 TechFlow   |
+| 媒体/研究 | [Footprint Analytics 中文](https://t.me/FootprintAnalyticsCN) | 数据 - 数据洞察          |
+| 媒体/研究 | [PANews 中文](https://t.me/PANews_CN)                         | 媒体 - PANews 讨论     |
+| 媒体/研究 | [CoinVoice 中文](https://t.me/CoinVoiceCN)                    | 媒体 - CoinVoice     |
+| 媒体/研究 | [Foresight News 中文](https://t.me/ForesightNewsCN)           | 媒体 - ForesightNews |
+| 媒体/研究 | [TechFlow 中文](https://t.me/TechFlowCN)                      | 媒体 - TechFlow      |
+| 媒体/研究 | [Decrypt 中文](https://t.me/Decrypt_CN)                       | 媒体 - Decrypt 中文频道  |
+| 媒体/研究 | [CoinDesk News](https://t.me/coindesk_news)            | 媒体 - CoinDesk 新闻      |
+| 媒体/研究 | [Cointelegraph](https://t.me/cointelegraph)            | 媒体 - Cointelegraph 新闻 |
+| 媒体/研究 | [The Block](https://t.me/TheBlock_)                    | 媒体 - The Block 快讯     |
+| 媒体/研究 | [Messari](https://t.me/MessariCrypto)                  | 研究 - Messari 洞见       |
+| 媒体/研究 | [Decrypt](https://t.me/Decrypt77)                      | 媒体 - Decrypt 新闻       |
+| 媒体/研究 | [Bankless](https://t.me/BanklessHQ)                    | 媒体 - Bankless 资讯      |
+| 媒体/研究 | [CryptoSlate](https://t.me/CryptoSlate)                | 媒体 - CryptoSlate 新闻   |
+| 媒体/研究 | [Foresight News](https://t.me/foresight_news)          | 媒体 - Foresight 英文     |
+| 媒体/研究 | [Footprint Analytics](https://t.me/FootprintAnalytics) | 数据 - Footprint 数据     |
+| 媒体/研究 | [CryptoQuant](https://t.me/cryptoquant_official)       | 数据 - 链上指标 CryptoQuant |
+
+### 交易信号
+| 板块  | Telegram                                    | 简介                    |
+| --- | ------------------------------------------- | --------------------- |
+| 交易信号 | [CryptoSignalsCN](https://t.me/CryptoSignalsCN) | 信号 - 行情/策略    |
+| 交易信号 | [WhaleAlert 中文](https://t.me/WhaleAlertCN)      | 监控 - 巨鲸转账     |
+| 交易信号 | [RAVEN Signals CN](https://t.me/RAVENSignalsCN) | 信号 - RAVEN 策略 |
+| 交易信号 | [TrendMaster CN](https://t.me/TrendMasterCN)    | 信号 - 趋势跟踪     |
+| 交易信号 | [FutureNet 中文](https://t.me/FutureNet_CN)       | 信号 - 合约策略     |
+| 交易信号 | [Crypto Pump Club](https://t.me/cryptoclubpump)          | 信号 - 拉盘预警        |
+| 交易信号 | [RAVEN Signals Pro](https://t.me/ravensignalspro)        | 信号 - 技术面洞察       |
+| 交易信号 | [Whale Alert](https://t.me/whale_alert)                  | 链上监控 - 大额转账提醒    |
+| 交易信号 | [Binance Killers](https://t.me/BinanceKillers)           | 信号 - 合约策略        |
+| 交易信号 | [Cabal Lines](https://t.me/caballines)                   | 信号 - 市场技术分析      |
+| 交易信号 | [Chain Crawlers](https://t.me/ChainCrawlers)             | 信号 - 链上侦察        |
+| 交易信号 | [CoinGape Signals](https://t.me/CoinGapeSignals)         | 信号 - CoinGape 交易 |
+| 交易信号 | [Smart Options](https://t.me/SmartOptions)               | 信号 - 机器人策略       |
+| 交易信号 | [ICO Drops Deals](https://t.me/ICO_Drops)                | 空投 - ICO/IDO 提醒  |
+| 交易信号 | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号 - Hopper 策略   |
+
+# VPS官方商家
+| 名称             | 链接                                                     | 说明                                                                                                                            |
+| -------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| NodeSeek       | [https://www.nodeseek.com/](https://www.nodeseek.com/) | NS 社群 · 交流群：[https://t.me/nodeseekg](https://t.me/nodeseekg) · 新帖推送频道：[https://t.me/nodeseekc](https://t.me/nodeseekc)        |
+| Hostloc 全球主机论坛 | [https://hostloc.com/](https://hostloc.com/)           | Hostloc 社群 · 交流群：[https://t.me/myhostloc](https://t.me/myhostloc) · 新帖推送频道：[https://t.me/hostloc2tg](https://t.me/hostloc2tg) |
+| LowEndBox      | [https://lowendbox.com/](https://lowendbox.com/)       | -                                                                                                              |
+| LowEndSpirit   | [https://lowendspirit.com/](https://lowendspirit.com/) | -                                                                                                              |
+| LowEndTalk     | [https://lowendtalk.com/](https://lowendtalk.com/)     |                                                                                                                                                     
+| 0WebHost                 | [https://www.0webhost.com/](https://www.0webhost.com/)           | —                                                                                                                                                                                                 |
+| 52xk（星空云）                | [https://idc.52xk.top/](https://idc.52xk.top/)                   | 星空云                                                                                                                                                                                               |
+| 56IDC / BinCloud 无聊云     | [https://56idc.net/](https://56idc.net/)                         | 别名：BinCloud / 无聊云 · 群组：[https://t.me/Chat_56IDC_Net](https://t.me/Chat_56IDC_Net) · 频道：[https://t.me/Post_56IDC_Net](https://t.me/Post_56IDC_Net)                                                 |
+| 7iNet                    | [https://www.7inet.com.cn/](https://www.7inet.com.cn/)           | 群组：[https://t.me/seveninet](https://t.me/seveninet) · 频道：[https://t.me/seveninet_channel](https://t.me/seveninet_channel)                                                                         |
+| AcckCloud                | [https://acck.io/](https://acck.io/)                             | 群组：[https://t.me/acckChat](https://t.me/acckChat) · 频道：[https://t.me/acck_notice](https://t.me/acck_notice)                                                                                       |
+| Advin Servers            | [https://advinservers.com/](https://advinservers.com/)           | —                                                                                                                                                                                                 |
+| Aiyun Network（艾云）        | [https://iaclouds.com/](https://iaclouds.com/)                   | 群组：[https://t.me/+4uhUjH0vkA05ZTE1](https://t.me/+4uhUjH0vkA05ZTE1) · 频道：[https://t.me/aiyunnetworkchannel](https://t.me/aiyunnetworkchannel)                                                     |
+| AkileCloud（AK）           | [https://akile.io/](https://akile.io/)                           | 群组：[https://t.me/akileChat](https://t.me/akileChat) · 频道：[https://t.me/akile_notice](https://t.me/akile_notice) · 监控：[https://uptime.akile.io](https://uptime.akile.io)                           |
+| Akko Cloud               | [https://www.akkocloud.com/](https://www.akkocloud.com/)         | 群组：[https://t.me/+nLlZwbyDnsIxZjU1](https://t.me/+nLlZwbyDnsIxZjU1) · 频道：[https://t.me/AkkocloudChannel](https://t.me/AkkocloudChannel)                                                           |
+| Alice Networks           | [https://alicenetworks.net/](https://alicenetworks.net/)         | 群组：[https://t.me/alicenetworks](https://t.me/alicenetworks) · 频道：[https://t.me/alicenetworkss](https://t.me/alicenetworkss)                                                                       |
+| 阿里云 aliyun               | [https://www.aliyun.com/](https://www.aliyun.com/)               | 别名：阿里云                                                                                                                                                                                            |
+| AlphaVPS                 | [https://alphavps.com/](https://alphavps.com/)                   | —                                                                                                                                                                                                 |
+| Alveon Hosting           | [https://alveon.io/](https://alveon.io/)                         | —                                                                                                                                                                                                 |
+| Amazing Virt             | [https://amazingvirt.com/](https://amazingvirt.com/)             | 群组：[https://t.me/AmazingVirtGroup](https://t.me/AmazingVirtGroup) · 频道：tg://join?invite=W4HA9zpcR5g4ZTNl                                                                                          |
+| Amazon AWS               | [https://aws.amazon.com/](https://aws.amazon.com/)               | AWS / Lightsail / EC2 / 亚马逊云                                                                                                                                                                      |
+| anyhk                    | [https://anyhk.net/](https://anyhk.net/)                         | 群组：[https://t.me/anyhkgroup](https://t.me/anyhkgroup) · 频道：[https://t.me/anyhknews](https://t.me/anyhknews) · 教程：[https://doc.anyhk.net/anyhk](https://doc.anyhk.net/anyhk)                       |
+| Apper                    | [https://apper.sh/](https://apper.sh/)                           | 频道：[https://t.me/Apper_Noc](https://t.me/Apper_Noc)                                                                                                                                               |
+| ASVM                     | [https://asvm.net/](https://asvm.net/)                           | 群组：[https://t.me/ASVM_B](https://t.me/ASVM_B) · 频道：[https://t.me/ASVM_A](https://t.me/ASVM_A)                                                                                                     |
+| Azure                    | [https://azure.microsoft.com/](https://azure.microsoft.com/)     | 微软云 / Azure / AZ                                                                                                                                                                                  |
+| Back Waves               | [https://backwaves.net/](https://backwaves.net/)                 | 群组：[https://t.me/backwavesidc](https://t.me/backwavesidc) · 频道：[https://t.me/backwaves](https://t.me/backwaves) · 通知：[https://t.me/BackWavesNOC](https://t.me/BackWavesNOC)                       |
+| BageVm                   | [https://www.bagevm.com/](https://www.bagevm.com/)               | 群组：[https://t.me/bagecloud](https://t.me/bagecloud) · 频道：[https://t.me/bagenotice](https://t.me/bagenotice)                                                                                       |
+| BanwagonHost（搬瓦工）        | [https://bandwagonhost.com/](https://bandwagonhost.com/)         | 别名：搬瓦工/BWG · 群组与频道：[https://t.me/BWHOfficial](https://t.me/BWHOfficial)                                                                                                                           |
+| BatVM                    | [https://www.batvm.com/](https://www.batvm.com/)                 | 群组：[https://t.me/BatVM168](https://t.me/BatVM168)                                                                                                                                                 |
+| Bero Host                | [https://bero-host.de/](https://bero-host.de/)                   | —                                                                                                                                                                                                 |
+| BestVM（富婆）               | [https://bestvm.cloud/](https://bestvm.cloud/)                   | 群组：[https://t.me/BestVmTalk](https://t.me/BestVmTalk) · 频道：[https://t.me/BestVmCloud](https://t.me/BestVmCloud)                                                                                   |
+| bigchick（鸡仔云/蛋仔云/黄鸡/小伞云） | [https://bigchick.xyz/](https://bigchick.xyz/)                   | 群组：[https://t.me/bigchick_io_chat](https://t.me/bigchick_io_chat) · 频道：[https://t.me/bigchick_io](https://t.me/bigchick_io)                                                                       |
+| BuyVM                    | [https://buyvm.net/](https://buyvm.net/)                         | —                                                                                                                                                                                                 |
+| ByteVirt（BV/老布）          | [https://bytevirt.com/](https://bytevirt.com/)                   | 群组：[https://t.me/bytevirtchat](https://t.me/bytevirtchat) · 频道：[https://t.me/bytevirt](https://t.me/bytevirt) · Uptime：[https://kk.bytevirt.net/](https://kk.bytevirt.net/)                       |
+| C1V hosting              | [https://www.c1vhosting.it/](https://www.c1vhosting.it/)         | —                                                                                                                                                                                                 |
+| CatServer                | [https://catserver.ca/](https://catserver.ca/)                   | —                                                                                                                                                                                                 |
+| CharityHost              | [https://charityhost.org/](https://charityhost.org/)             | —                                                                                                                                                                                                 |
+| Churros（鸽子云）             | [https://churros.cloud/](https://churros.cloud/)                 | 群组：[https://t.me/churroscloud](https://t.me/churroscloud) · 频道：[https://t.me/churros789](https://t.me/churros789)                                                                                 |
+| CloudCone（CC）            | [https://cloudcone.com/](https://cloudcone.com/)                 | 别名：CC                                                                                                                                                                                             |
+| claw（爪云）                 | [https://claw.cloud/](https://claw.cloud/)                       | —                                                                                                                                                                                                 |
+| Cloudid                  | [https://cloudie.hk/](https://cloudie.hk/)                       | —                                                                                                                                                                                                 |
+| Cloudnium                | [https://portal.cloudnium.net](https://portal.cloudnium.net)     | 群组：[https://t.me/Cloudnium_Group](https://t.me/Cloudnium_Group) · 频道：[https://t.me/Cloudnium_Info](https://t.me/Cloudnium_Info)                                                                   |
+| CloudSilk（白丝）            | [https://cloudsilk.io/](https://cloudsilk.io/)                   | 群组：[https://t.me/+VHZLKELTQyzPNgOV](https://t.me/+VHZLKELTQyzPNgOV) · 频道：[https://t.me/bestidc](https://t.me/bestidc)                                                                             |
+| coalcloud（碳云）            | [https://www.coalcloud.net/](https://www.coalcloud.net/)         | —                                                                                                                                                                                                 |
+| ColoCrossing（CCS）        | [https://www.colocrossing.com/](https://www.colocrossing.com/)   | 别名：CCS                                                                                                                                                                                            |
+| CowCloud                 | [https://bill.cowcloud.shop/](https://bill.cowcloud.shop/)       | 群组：[https://t.me/cowcloud_chat](https://t.me/cowcloud_chat) · 频道：[https://t.me/cowcloud_channel](https://t.me/cowcloud_channel)                                                                   |
+| Crunchbits               | [https://crunchbits.com/](https://crunchbits.com/)               | —                                                                                                                                                                                                 |
+| CSPT                     | [https://www.csptrans.com/](https://www.csptrans.com/)           | —                                                                                                                                                                                                 |
+| CstoneCloud              | [https://www.cstonecloud.com/](https://www.cstonecloud.com/)     | 群组：[https://t.me/cstonecloud_chat](https://t.me/cstonecloud_chat) · 频道：[https://t.me/cstonecloud](https://t.me/cstonecloud)                                                                       |
+| CubeCloud（魔方云）           | [https://www.cubecloud.net/](https://www.cubecloud.net/)         | 群组：[https://t.me/CubeCloud](https://t.me/CubeCloud) · 频道：[https://t.me/CubeCloudNews](https://t.me/CubeCloudNews)                                                                                 |
+| DartNode                 | [https://dartnode.com/](https://dartnode.com/)                   | —                                                                                                                                                                                                 |
+| Dasabo（大傻波）              | [https://dasabo.com/](https://dasabo.com/)                       | —                                                                                                                                                                                                 |
+| DediRock                 | [https://dedirock.com/](https://dedirock.com/)                   | 状态：[https://status.dedirock.com/](https://status.dedirock.com/)                                                                                                                                   |
+| DeluxHost                | [https://deluxhost.net/](https://deluxhost.net/)                 | 频道：[https://t.me/deluxhost](https://t.me/deluxhost)                                                                                                                                               |
+| DigitalOcean（DO）         | [https://www.digitalocean.com/](https://www.digitalocean.com/)   | 别名：DO                                                                                                                                                                                             |
+| DigitalVirt（DV）          | [https://digitalvirt.com/](https://digitalvirt.com/)             | 群组：[https://t.me/DigitalVirtLLC](https://t.me/DigitalVirtLLC) · 频道：[https://t.me/DigitalVirtStation](https://t.me/DigitalVirtStation)                                                             |
+| DMIT（大妈）                 | [https://www.dmit.io/](https://www.dmit.io/)                     | 频道：[https://t.me/DMIT_INC](https://t.me/DMIT_INC)                                                                                                                                                 |
+| DogYun（狗云）               | [https://www.dogyun.com/](https://www.dogyun.com/)               | 群组：[https://t.me/dogyun](https://t.me/dogyun) · 频道：[https://t.me/dogyun_channel](https://t.me/dogyun_channel)                                                                                     |
+| Dotdotnetwork            | [https://www.dotdotnetwork.com/](https://www.dotdotnetwork.com/) | 频道：[https://t.me/dotdotidc](https://t.me/dotdotidc)                                                                                                                                               |
+| DouYaYun（豆芽云）            | [https://www.douyayun.com/](https://www.douyayun.com/)           | 群组：[https://t.me/douyayun](https://t.me/douyayun)                                                                                                                                                 |
+| Ducky Cloud（鸭云）          | [https://ducky.ci](https://ducky.ci)                             | 群组：[https://t.me/DuckyGroup](https://t.me/DuckyGroup) · 频道：[https://t.me/DuckyRoBotChannel](https://t.me/DuckyRoBotChannel)                                                                       |
+| DuoDuoCloud（多多云）         | [https://duocloud.net/](https://duocloud.net/)                   | 群组：[https://t.me/duocloud](https://t.me/duocloud) · 频道：[https://t.me/duocloudc](https://t.me/duocloudc)                                                                                           |
+| EasyVM                   | [https://easyvm.net/](https://easyvm.net/)                       | —                                                                                                                                                                                                 |
+| EUserv（德鸡）               | [https://www.euserv.com/](https://www.euserv.com/)               | 别名：德鸡                                                                                                                                                                                             |
+| Evoxt                    | [https://evoxt.com/](https://evoxt.com/)                         | 频道：[https://t.me/evoxt](https://t.me/evoxt)                                                                                                                                                       |
+| Exception-Host           | [https://exception-host.com/](https://exception-host.com/)       | Discord：[https://discord.gg/ruFts57](https://discord.gg/ruFts57)                                                                                                                                  |
+| Faconhost                | [https://faconhost.com/](https://faconhost.com/)                 | —                                                                                                                                                                                                 |
+| FameSytems               | [https://famesystems.de/](https://famesystems.de/)               | —                                                                                                                                                                                                 |
+| FiberState               | [https://www.fiberstate.com/](https://www.fiberstate.com/)       | —                                                                                                                                                                                                 |
+| FireVPS                  | [https://firevps.net/](https://firevps.net/)                     | —                                                                                                                                                                                                 |
+| flsq（风林水起）               | [https://cloud.hk.flsq.info/](https://cloud.hk.flsq.info/)       | 频道：[https://t.me/flsq_notice](https://t.me/flsq_notice)                                                                                                                                           |
+| FuzzyPN                  | [https://cloud.fuzzypn.com/](https://cloud.fuzzypn.com/)         | 群组：[https://t.me/fzpn_sp](https://t.me/fzpn_sp) · 频道：[https://t.me/fuzzypn](https://t.me/fuzzypn)                                                                                                 |
+| FxTransit                | [https://fxtransit.net/](https://fxtransit.net/)                 | 群组：[https://t.me/FxTransit_Chat](https://t.me/FxTransit_Chat) · 频道：[https://t.me/FxTransit_News](https://t.me/FxTransit_News) · LookingGlass：[https://lg.fxtransit.io/](https://lg.fxtransit.io/) |
+| Gcore（老伯力）               | [https://gcore.com/](https://gcore.com/)                         | 别名：老伯力                                                                                                                                                                                            |
+| ggy（咕咕云）                 | [https://www.ggy.net/](https://www.ggy.net/)                     | 群组：[https://t.me/UoVzCloud](https://t.me/UoVzCloud) · 频道：[https://t.me/UOVZNEWS](https://t.me/UOVZNEWS)                                                                                           |
+| GigsGigsCloud（GGC）       | [https://www.gigsgigscloud.com/](https://www.gigsgigscloud.com/) | 群组：[https://t.me/gigsgigscloudgroup](https://t.me/gigsgigscloudgroup) · 频道：[https://t.me/gigsgigscloud](https://t.me/gigsgigscloud)                                                               |
+| GlobalVM                 | [https://globalvm.top/](https://globalvm.top/)                   | 群组：[https://t.me/globalvm_chat](https://t.me/globalvm_chat) · 频道：[https://t.me/globalvm_notification](https://t.me/globalvm_notification)                                                         |
+| Google Cloud（GCP）        | [https://cloud.google.com/](https://cloud.google.com/)           | 别名：GCP/谷歌云                                                                                                                                                                                        |
+| GreenCloud（绿云）           | [https://greencloudvps.com/](https://greencloudvps.com/)         | 别名：绿云                                                                                                                                                                                             |
+| gshou（怪兽云）               | [https://www.gshou.com/](https://www.gshou.com/)                 | 别名：怪兽云                                                                                                                                                                                            |
+| HaloCloud                | [https://my.halocloud.net/](https://my.halocloud.net/)           | 群组：[https://t.me/halocloud](https://t.me/halocloud) · 频道：[https://t.me/halocloudinfo](https://t.me/halocloudinfo)                                                                                 |
+| Haruka Network           | [https://haruka.cloud/](https://haruka.cloud/)                   | 群组：[https://t.me/harukacloud](https://t.me/harukacloud) · 频道：[https://t.me/harukanoc](https://t.me/harukanoc)                                                                                     |
+| henghost（恒创科技）           | [https://henghost.com/](https://henghost.com/)                   | 群组：[https://t.me/sondercloud](https://t.me/sondercloud)                                                                                                                                           |
+| Hetzner（HZ）              | [https://www.hetzner.com/](https://www.hetzner.com/)             | 别名：HZ                                                                              |
+   
+### 科学上网
+
+| 名字                              |                                              链接                                              | 功能描述 |
+| :------------------------------ | :------------------------------------------------------------------------------------------: | :--- |
+| Shadowsocks&Clash               |               [https://t.me/shadowsocks_clash](https://t.me/shadowsocks_clash)               | -    |
+| 不良林                             |                       [https://t.me/buliang00](https://t.me/buliang00)                       | -    |
+| 搬瓦工 (BandwagonHost)             |              [https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)              | -    |
+| Surge 交流                        |                        [https://t.me/loveapps](https://t.me/loveapps)                        | -    |
+| Surge Pro                       |                        [https://t.me/SurgePro](https://t.me/SurgePro)                        | -    |
+| Quantumult X                    |                        [https://t.me/QuanXApp](https://t.me/QuanXApp)                        | -    |
+| Quantumult                      |                      [https://t.me/quantumult](https://t.me/quantumult)                      | -    |
+| Loon                            |                        [https://t.me/Loon0x00](https://t.me/Loon0x00)                        | -    |
+| LanceX                          |                      [https://t.me/lancex_app](https://t.me/lancex_app)                      | -    |
+| Quantumult X、Surge、Loon 的脚本讨论   | [https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w) | -    |
+| thor，Quantumult X，小火箭 JSBox 交流群 |                    [https://t.me/weixiaoge777](https://t.me/weixiaoge777)                    | -    |
+| Nexitally                       |                  [https://t.me/nexitallyusers](https://t.me/nexitallyusers)                  | -    |
+| ImmTelecom                      |                 [https://t.me/immtelecom_chat](https://t.me/immtelecom_chat)                 | -    |
+| 科学上网技术研究会                       |                          [https://t.me/kxswjs](https://t.me/kxswjs)                          | -    |
+| 科学上网，科技分享                       |                        [https://t.me/qiankeji](https://t.me/qiankeji)                        | -    |
+| 老王用户群                           |                   [https://t.me/wangvpn_users](https://t.me/wangvpn_users)                   | -    |
+| 老王讨论群                           |               [https://t.me/wangvpn_user_chat](https://t.me/wangvpn_user_chat)               | -    |
+| 几鸡                              |                           [https://t.me/ngcss](https://t.me/ngcss)                           | -    |
+| 嘿嘿嘿                             |                     [https://t.me/hellcell321](https://t.me/hellcell321)                     | -    |
+| SSPanel 机场联盟                    |                         [https://t.me/SSUnion](https://t.me/SSUnion)                         | -    |
+| Air-Universe 开源后端交流群            |                    [https://t.me/Air_Universe](https://t.me/Air_Universe)                    | -    |
+| LAMP 交流群                        |                     [https://t.me/qiushui2018](https://t.me/qiushui2018)                     | -    |
+| BGP 测速                          |                      [https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)                      | -    |
+| 品云                              |                       [https://t.me/PinYunYes](https://t.me/PinYunYes)                       | -    |
+| ShadowsocksR 讨论组                |                   [https://t.me/ssrunofficial](https://t.me/ssrunofficial)                   | -    |
+| ShadowsocksR 讨论组 2 群            |                         [https://t.me/chatssr](https://t.me/chatssr)                         | -    |
+| Netch 游戏加速工具                    |             [https://t.me/Netch_Discuss_Group](https://t.me/Netch_Discuss_Group)             | -    |
+| Pharos Pro For iOS              |           [https://t.me/Shadow_x_user_support](https://t.me/Shadow_x_user_support)           | -    |
+| Pharos Pro For Android          | [https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ](https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ) | -    |
+| ShadowRay                       |                       [https://t.me/ShadowRay](https://t.me/ShadowRay)                       | -    |
+| Project V (V2Ray)               |                    [https://t.me/projectv2ray](https://t.me/projectv2ray)                    | -    |
+| Project X (Xray)                |                     [https://t.me/projectXray](https://t.me/projectXray)                     | -    |
+| V2fly Official                  |                      [https://t.me/v2fly_chat](https://t.me/v2fly_chat)                      | -    |
+| V2Fly #Off-Topic                | [https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg](https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg) | -    |
+| v2rayN&G                        |                          [https://t.me/v2rayN](https://t.me/v2rayN)                          | -    |
+| NobyDa Script                   | [https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw](https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw) | -    |
+| 老毛子 Padavan 固件自助交流群             |                           [https://t.me/pdcn2](https://t.me/pdcn2)                           | -    |
+| 老毛子 Padavan 固件 iOS 自助交流群        |                           [https://t.me/pdcn3](https://t.me/pdcn3)                           | -    |
+| Wingy Halal Group               |                         [https://t.me/wingytg](https://t.me/wingytg)                         | -    |
+| WireGuard                       |                       [https://t.me/WireGuard](https://t.me/WireGuard)                       | -    |
+| VPN 讨论群                         |                           [https://t.me/gouwu](https://t.me/gouwu)                           | -    |
+| SockBoom 咕咕咕交流群                 |                        [https://t.me/sockboom](https://t.me/sockboom)                        | -    |
+| Python 云 - 一个学习 py 的公益机场        |                       [https://t.me/pythonyun](https://t.me/pythonyun)                       | -    |
+| NyanCAT Group                   |                      [https://t.me/NyanCaaaat](https://t.me/NyanCaaaat)                      | -    |
+| 梦迪 mdssCloud                    |                         [https://t.me/mdssios](https://t.me/mdssios)                         | -    |
+| Catnet                          |              [https://t.me/justanode_official](https://t.me/justanode_official)              | -    |
+| 次元链接                            |                          [https://t.me/cylink](https://t.me/cylink)                          | -    |
+| MunClolud                       | [https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw](https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw) | -    |
+| Flysocks-Server                 |                        [https://t.me/flysocks](https://t.me/flysocks)                        | -    |
+| loriCloud                       |                       [https://t.me/loricloud](https://t.me/loricloud)                       | -    |
+| 盈科數碼動力 PCCW                     |                        [https://t.me/ssrcloud](https://t.me/ssrcloud)                        | -    |
+| THE.SSR 官方售后群                   |                     [https://t.me/thessrgroup](https://t.me/thessrgroup)                     | -    |
+| 永久公益机场                          |                        [https://t.me/AC_FFree](https://t.me/AC_FFree)                        | -    |
+| 大水比交流群                          |                      [https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)                      | -    |
+| 大佬吹牛群                           |                          [https://t.me/xddos0](https://t.me/xddos0)                          | -    |
+| 少数人 TG 交流群                      |                     [https://t.me/shaoshurenx](https://t.me/shaoshurenx)                     | -    |
+| DLK 的奔放交流时间                     |                          [https://t.me/dlkvpn](https://t.me/dlkvpn)                          | -    |
+| 泡泡云                             |                       [https://t.me/popocloud](https://t.me/popocloud)                       | -    |
+| Mac 翻墙 SpechtLite 交流群           |                      [https://t.me/SpechtLite](https://t.me/SpechtLite)                      | -    |
+| GFW 吐槽 && 翻墙方法讨论                |                 [https://t.me/DiscussCrossGFW](https://t.me/DiscussCrossGFW)                 | -    |
+| VPS 全球主机交流                      |                         [https://t.me/VPSchat](https://t.me/VPSchat)                         | -    |
+| BIS 科学上网                        |                      [https://t.me/BISproject](https://t.me/BISproject)                      | -    |
+| Kitsunebi 交流                    |                  [https://t.me/Kitsunebi_funs](https://t.me/Kitsunebi_funs)                  | -    |
+| 精品免费翻墙 app 推荐                   |                      [https://t.me/fuckyougfw](https://t.me/fuckyougfw)                      | -    |
+| SSTap Rule                      |                       [https://t.me/SSTapRule](https://t.me/SSTapRule)                       | -    |
+| 几鸡 - 小圈自用公益机场                   |                     [https://t.me/lisuanlaoji](https://t.me/lisuanlaoji)                     | -    |
+| vAgent 云计算加速服务                  |              [https://t.me/crossgreatfirewall](https://t.me/crossgreatfirewall)              | -    |
+| ss panel v3 mod 非官方水群           |                         [https://t.me/SSUnion](https://t.me/SSUnion)                         | -    |
+| 小布吉岛闲聊群                         |                     [https://t.me/bujidaochat](https://t.me/bujidaochat)                     | -    |
+| OKAB3 吹水                        |                     [https://t.me/OKAB3Script](https://t.me/OKAB3Script)                     | -    |
+| Geph 官方群                        |                       [https://t.me/gephusers](https://t.me/gephusers)                       | -    |
+| ExCloud                         |                         [https://t.me/excloud](https://t.me/excloud)                         | -    |
+| AK’s Tech Studio                | [https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ) | -    |
+| 章鱼哥的 SSPanel 之家                 |                         [https://t.me/woaizyg](https://t.me/woaizyg)                         | -    |
+| 枫之谷加速                           |                           [https://t.me/fzgjs](https://t.me/fzgjs)                           | -    |
+| VPS 信号旗情报本部                     |                    [https://t.me/vps_xinhaoqi](https://t.me/vps_xinhaoqi)                    | -    |
+| 小火箭 / 圈叉非官方群                    |         [https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)         | -    |
+| 中信加速器 VPN 官方群                   |                          [https://t.me/zxfast](https://t.me/zxfast)                          | -    |
+| 火箭写书                            |                         [https://t.me/woicesu](https://t.me/woicesu)                         | -    |
+| SSRSpeed N 使用交流                 |                       [https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)                       | -    |
+| iQZone                          |                         [https://t.me/iQ_Zone](https://t.me/iQ_Zone)                         | -    |
+| 毒药机场测速 SS/SSR                     | [https://t.me/DuyaoSS](https://t.me/DuyaoSS)                                         | -    |
+| V1 Blog 科技 生活 SpeedTest 主机评测      | [https://t.me/V1_BLOG](https://t.me/V1_BLOG)                                         | -    |
+| 機場海外測速中心                          | [https://t.me/BlacklotusChannel](https://t.me/BlacklotusChannel)                     | -    |
+| 品云☁️测速                            | [https://t.me/PinYunPs](https://t.me/PinYunPs)                                       | -    |
+| ss，ssr，v2ray 机场测速                 | [https://t.me/askahh](https://t.me/askahh)                                           | -    |
+| 前女友们用过的机场                         | [https://t.me/gebaopiCloud](https://t.me/gebaopiCloud)                               | -    |
+| 全球互联网测速中心                         | [https://t.me/speedcentre](https://t.me/speedcentre)                                 | -    |
+| 全球互联网节点中心                         | [https://t.me/sharecentre](https://t.me/sharecentre)                                 | -    |
+| 机场 ☁️ 测速                          | [https://t.me/yunspeedtest](https://t.me/yunspeedtest)                               | -    |
+| 跑路公告板                             | [https://t.me/Paolutongzhi](https://t.me/Paolutongzhi)                               | -    |
+| 秋水逸冰的个人频道                         | [https://t.me/qiushuiyibing](https://t.me/qiushuiyibing)                             | -    |
+| Surge 开发者的频道                      | [https://t.me/yachme](https://t.me/yachme)                                           | -    |
+| Surge News                        | [https://t.me/surgenews](https://t.me/surgenews)                                     | -    |
+| Shadowrocket News                 | [https://t.me/ShadowrocketNews](https://t.me/ShadowrocketNews)                       | -    |
+| Quantumult News                   | [https://t.me/QuanXNews](https://t.me/QuanXNews)                                     | -    |
+| Qure for Quantumult X 图标          | [https://t.me/QureIconSet](https://t.me/QureIconSet)                                 | -    |
+| mini 图标包 for Quantumult X         | [https://t.me/Orzmini](https://t.me/Orzmini)                                         | -    |
+| PVSZ for QuanX                    | [https://t.me/PVSZforQuanX](https://t.me/PVSZforQuanX)                               | -    |
+| QuantumultX & Surge 脚本收集          | [https://t.me/NobyDa](https://t.me/NobyDa)                                           | -    |
+| Quantumult X JS 收集分享              | [https://t.me/QuanXJS](https://t.me/QuanXJS)                                         | -    |
+| Quantumult X 功能教学                 | [https://t.me/HellCellZC123](https://t.me/HellCellZC123)                             | -    |
+| QuantumultX 教程 & API & 解析器 更新通知频道 | [https://t.me/QuanX_API](https://t.me/QuanX_API)                                     | -    |
+| Chavy Scripts                     | [https://t.me/chavyscripts](https://t.me/chavyscripts)                               | -    |
+| zZPiglet                          | [https://t.me/zZPiglet](https://t.me/zZPiglet)                                       | -    |
+| Project X Channel                 | [https://t.me/projectXtls](https://t.me/projectXtls)                                 | -    |
+| W37° 大飛频道                         | [https://t.me/w37fhy](https://t.me/w37fhy)                                           | -    |
+| DivineEngine                      | [https://t.me/DivineEngine](https://t.me/DivineEngine)                               | -    |
+| Cool Scripts                      | [https://t.me/cool_scripts](https://t.me/cool_scripts)                               | -    |
+| TG 规则脚本信息分享器                      | [https://t.me/MRHXPJGG](https://t.me/MRHXPJGG)                                       | -    |
+| Tempest TCN(rixCloud)             | [https://t.me/TempestApp](https://t.me/TempestApp)                                   | -    |
+| Trojan Qt5 News                   | [https://t.me/TrojanQt5News](https://t.me/TrojanQt5News)                             | -    |
+| ServerCat 主机喵                     | [https://t.me/servercat](https://t.me/servercat)                                     | -    |
+| Surfboard News                    | [https://t.me/surfboardnews](https://t.me/surfboardnews)                             | -    |
+| 魅影极速官方频道                          | [https://t.me/myjstw](https://t.me/myjstw)                                           | -    |
+| 魅影极速轻量站 ARK 频道                    | [https://t.me/arktochannel](https://t.me/arktochannel)                               | -    |
+| Fndroid 的日常 (Clash for Windows)   | [https://t.me/fndroid_news](https://t.me/fndroid_news)                               | -    |
+| Clash.NET 公告                      | [https://t.me/ClashDotNetFrameworkAnncmnt](https://t.me/ClashDotNetFrameworkAnncmnt) | -    |
+| Clash.Mini 公告频道                   | [https://t.me/ClashMiniNo1](https://t.me/ClashMiniNo1)                               | -    |
+| ClashR News                       | [https://t.me/ClashR_News](https://t.me/ClashR_News)                                 | -    |
+| Clash (R) for Windows 公告板         | [https://t.me/ClashR_for_Windows_Channel](https://t.me/ClashR_for_Windows_Channel)   | -    |
+| ACL4SSR                           | [https://t.me/ACL4SSR](https://t.me/ACL4SSR)                                         | -    |
+| Stick Rules                       | [https://t.me/usestick](https://t.me/usestick)                                       | -    |
+| Free Telegram proxy               | [https://t.me/proxyme](https://t.me/proxyme)                                         | -    |
+| vAgent 官方福利资源发布频道                 | [https://t.me/everythingjustbegin](https://t.me/everythingjustbegin)                 | -    |
+| ss panel v3 mod 魔改修改版 News        | [https://t.me/sspanel_Uim](https://t.me/sspanel_Uim)                                 | -    |
+| BosLife                           | [https://t.me/boslifenews](https://t.me/boslifenews)                                 | -    |
+| SubConverter 更新频道                 | [https://t.me/subconverter](https://t.me/subconverter)                               | -    |
+| VPN 测评 - 各类 VPN 相关资讯 + 真实测评       | [https://t.me/VPNceping](https://t.me/VPNceping)                                     | -    |
+| 火箭空间站 (TG 代理)                     | [https://t.me/Rocketcool](https://t.me/Rocketcool)                                   | -    |
+| elecV2                            | [https://t.me/elecV2](https://t.me/elecV2)                                           | -    |
+| 科学上网与机场观察                         | [https://t.me/jichangtj](https://t.me/jichangtj)                                     | -    |
+| YtFlow β                          | [https://t.me/YtFlowChannel](https://t.me/YtFlowChannel)                             | -    |
+| MerlinClash 猫咪爬梯                  | [https://t.me/merlinclashcat](https://t.me/merlinclashcat)                           | -    |
+| 中信加速器 VPN 官方频道                    | [https://t.me/zxfast_channel](https://t.me/zxfast_channel)                           | -    |
+| 黑科技 TG 代理                         | [https://t.me/iPoject](https://t.me/iPoject)                                         | -    |
+
+
 # 金融相关频道
 
-| 名称 | 频道ID | 简介 |
+| 名称 | 链接 | 简介 |
 |-------|--------|------|
 | 币圈日报 | https://t.me/bidaily | 币圈日报-每日最前沿的币圈新闻资讯 |
-| 撸空投💰币圈💰Web3💰财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
+| 撸空投/币圈/Web3/财务自由 | https://t.me/tglukongtou | 分享最新前沿的空投资讯，奔向财务自由之路 |
 | 加密货币交流群 | https://t.me/jmhbgroup | 一起讨论加密货币，奔向财务自由之路 |
 | 币安官方中文群 | https://t.me/BinanceChinese | 币安官方中文TG群 |
 | 欧易OKX官方中文群 | https://t.me/OKXGroup_CN | 本群为唯一官方指定中文社群 |
@@ -315,7 +789,7 @@
 
 # 社群
 
-| 名称 | 频道ID | 简介 |
+| 名称 | 链接 | 简介 |
 |-------|--------|------|
 | 👸大漂亮的小夥伴們（唯一群！嚴打廣告，大漂亮不會主動DM各位小夥伴） | https://t.me/giantcutie6688 | 大漂亮唯一tg群，有冒牌社區，大家仔細辨別。群內非官方🔗連結請慎點！ 你在元宇宙世界裡的第一個好�... |
 | Vultr 用户群 | https://t.me/vultr_group | Vultr 用户群，非官方 群规 * 禁止传播谣言/盗版 * 禁止撕逼 (谩骂/人身攻击等) * 禁止讨论免流/黄赌毒/宗教... |
@@ -584,169 +1058,7 @@
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
 
 
-### 京豆
-
-| 名字          |                    链接                    | 功能描述        |
-| :---------- | :--------------------------------------: | :---------- |
-| jdShareCode | [@jdShareCode](https://t.me/jdShareCode) | ——（未提供，可补充） |
-| PKC皮卡车      | [@topstyle996](https://t.me/topstyle996) | ——（未提供，可补充） |
-| Leeco-雪花社   |   [@xuehuashe](https://t.me/xuehuashe)   | ——（未提供，可补充） |
-
-
-### 脚本
-
-| 名字             |                         链接                         | 功能描述        |
-| :------------- | :------------------------------------------------: | :---------- |
-| jdShareCode    |      [@jdShareCode](https://t.me/jdShareCode)      | ——（未提供，可补充） |
-| PKC皮卡车         |      [@topstyle996](https://t.me/topstyle996)      | ——（未提供，可补充） |
-| Leeco-雪花社      |        [@xuehuashe](https://t.me/xuehuashe)        | ——（未提供，可补充） |
-| Bigo社区群        |        [@bigo_tool](https://t.me/bigo_tool)        | ——（未提供，可补充） |
-| Fragment账号实时报价 | [@Fragment_Monitor](https://t.me/Fragment_Monitor) | ——（未提供，可补充） |
-
-
-### 科学上网
-
-| 名字                              |                                              链接                                              | 功能描述 |
-| :------------------------------ | :------------------------------------------------------------------------------------------: | :--- |
-| Shadowsocks&Clash               |               [https://t.me/shadowsocks_clash](https://t.me/shadowsocks_clash)               | -    |
-| 不良林                             |                       [https://t.me/buliang00](https://t.me/buliang00)                       | -    |
-| 搬瓦工 (BandwagonHost)             |              [https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)              | -    |
-| Surge 交流                        |                        [https://t.me/loveapps](https://t.me/loveapps)                        | -    |
-| Surge Pro                       |                        [https://t.me/SurgePro](https://t.me/SurgePro)                        | -    |
-| Quantumult X                    |                        [https://t.me/QuanXApp](https://t.me/QuanXApp)                        | -    |
-| Quantumult                      |                      [https://t.me/quantumult](https://t.me/quantumult)                      | -    |
-| Loon                            |                        [https://t.me/Loon0x00](https://t.me/Loon0x00)                        | -    |
-| LanceX                          |                      [https://t.me/lancex_app](https://t.me/lancex_app)                      | -    |
-| Quantumult X、Surge、Loon 的脚本讨论   | [https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w) | -    |
-| thor，Quantumult X，小火箭 JSBox 交流群 |                    [https://t.me/weixiaoge777](https://t.me/weixiaoge777)                    | -    |
-| Nexitally                       |                  [https://t.me/nexitallyusers](https://t.me/nexitallyusers)                  | -    |
-| ImmTelecom                      |                 [https://t.me/immtelecom_chat](https://t.me/immtelecom_chat)                 | -    |
-| 科学上网技术研究会                       |                          [https://t.me/kxswjs](https://t.me/kxswjs)                          | -    |
-| 科学上网，科技分享                       |                        [https://t.me/qiankeji](https://t.me/qiankeji)                        | -    |
-| 老王用户群                           |                   [https://t.me/wangvpn_users](https://t.me/wangvpn_users)                   | -    |
-| 老王讨论群                           |               [https://t.me/wangvpn_user_chat](https://t.me/wangvpn_user_chat)               | -    |
-| 几鸡                              |                           [https://t.me/ngcss](https://t.me/ngcss)                           | -    |
-| 嘿嘿嘿                             |                     [https://t.me/hellcell321](https://t.me/hellcell321)                     | -    |
-| SSPanel 机场联盟                    |                         [https://t.me/SSUnion](https://t.me/SSUnion)                         | -    |
-| Air-Universe 开源后端交流群            |                    [https://t.me/Air_Universe](https://t.me/Air_Universe)                    | -    |
-| LAMP 交流群                        |                     [https://t.me/qiushui2018](https://t.me/qiushui2018)                     | -    |
-| BGP 测速                          |                      [https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)                      | -    |
-| 品云                              |                       [https://t.me/PinYunYes](https://t.me/PinYunYes)                       | -    |
-| ShadowsocksR 讨论组                |                   [https://t.me/ssrunofficial](https://t.me/ssrunofficial)                   | -    |
-| ShadowsocksR 讨论组 2 群            |                         [https://t.me/chatssr](https://t.me/chatssr)                         | -    |
-| Netch 游戏加速工具                    |             [https://t.me/Netch_Discuss_Group](https://t.me/Netch_Discuss_Group)             | -    |
-| Pharos Pro For iOS              |           [https://t.me/Shadow_x_user_support](https://t.me/Shadow_x_user_support)           | -    |
-| Pharos Pro For Android          | [https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ](https://t.me/joinchat/EthDYRQ80Clo_dj8e3PJnQ) | -    |
-| ShadowRay                       |                       [https://t.me/ShadowRay](https://t.me/ShadowRay)                       | -    |
-| Project V (V2Ray)               |                    [https://t.me/projectv2ray](https://t.me/projectv2ray)                    | -    |
-| Project X (Xray)                |                     [https://t.me/projectXray](https://t.me/projectXray)                     | -    |
-| V2fly Official                  |                      [https://t.me/v2fly_chat](https://t.me/v2fly_chat)                      | -    |
-| V2Fly #Off-Topic                | [https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg](https://t.me/joinchat/GhXX_0zQFLOkjy9z81eQqg) | -    |
-| v2rayN&G                        |                          [https://t.me/v2rayN](https://t.me/v2rayN)                          | -    |
-| NobyDa Script                   | [https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw](https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw) | -    |
-| 老毛子 Padavan 固件自助交流群             |                           [https://t.me/pdcn2](https://t.me/pdcn2)                           | -    |
-| 老毛子 Padavan 固件 iOS 自助交流群        |                           [https://t.me/pdcn3](https://t.me/pdcn3)                           | -    |
-| Wingy Halal Group               |                         [https://t.me/wingytg](https://t.me/wingytg)                         | -    |
-| WireGuard                       |                       [https://t.me/WireGuard](https://t.me/WireGuard)                       | -    |
-| VPN 讨论群                         |                           [https://t.me/gouwu](https://t.me/gouwu)                           | -    |
-| SockBoom 咕咕咕交流群                 |                        [https://t.me/sockboom](https://t.me/sockboom)                        | -    |
-| Python 云 - 一个学习 py 的公益机场        |                       [https://t.me/pythonyun](https://t.me/pythonyun)                       | -    |
-| NyanCAT Group                   |                      [https://t.me/NyanCaaaat](https://t.me/NyanCaaaat)                      | -    |
-| 梦迪 mdssCloud                    |                         [https://t.me/mdssios](https://t.me/mdssios)                         | -    |
-| Catnet                          |              [https://t.me/justanode_official](https://t.me/justanode_official)              | -    |
-| 次元链接                            |                          [https://t.me/cylink](https://t.me/cylink)                          | -    |
-| MunClolud                       | [https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw](https://t.me/joinchat/E5UhwEOdb4UtA_VbonoxDw) | -    |
-| Flysocks-Server                 |                        [https://t.me/flysocks](https://t.me/flysocks)                        | -    |
-| loriCloud                       |                       [https://t.me/loricloud](https://t.me/loricloud)                       | -    |
-| 盈科數碼動力 PCCW                     |                        [https://t.me/ssrcloud](https://t.me/ssrcloud)                        | -    |
-| THE.SSR 官方售后群                   |                     [https://t.me/thessrgroup](https://t.me/thessrgroup)                     | -    |
-| 永久公益机场                          |                        [https://t.me/AC_FFree](https://t.me/AC_FFree)                        | -    |
-| 大水比交流群                          |                      [https://t.me/hxisj8whsv](https://t.me/hxisj8whsv)                      | -    |
-| 大佬吹牛群                           |                          [https://t.me/xddos0](https://t.me/xddos0)                          | -    |
-| 少数人 TG 交流群                      |                     [https://t.me/shaoshurenx](https://t.me/shaoshurenx)                     | -    |
-| DLK 的奔放交流时间                     |                          [https://t.me/dlkvpn](https://t.me/dlkvpn)                          | -    |
-| 泡泡云                             |                       [https://t.me/popocloud](https://t.me/popocloud)                       | -    |
-| Mac 翻墙 SpechtLite 交流群           |                      [https://t.me/SpechtLite](https://t.me/SpechtLite)                      | -    |
-| GFW 吐槽 && 翻墙方法讨论                |                 [https://t.me/DiscussCrossGFW](https://t.me/DiscussCrossGFW)                 | -    |
-| VPS 全球主机交流                      |                         [https://t.me/VPSchat](https://t.me/VPSchat)                         | -    |
-| BIS 科学上网                        |                      [https://t.me/BISproject](https://t.me/BISproject)                      | -    |
-| Kitsunebi 交流                    |                  [https://t.me/Kitsunebi_funs](https://t.me/Kitsunebi_funs)                  | -    |
-| 精品免费翻墙 app 推荐                   |                      [https://t.me/fuckyougfw](https://t.me/fuckyougfw)                      | -    |
-| SSTap Rule                      |                       [https://t.me/SSTapRule](https://t.me/SSTapRule)                       | -    |
-| 几鸡 - 小圈自用公益机场                   |                     [https://t.me/lisuanlaoji](https://t.me/lisuanlaoji)                     | -    |
-| vAgent 云计算加速服务                  |              [https://t.me/crossgreatfirewall](https://t.me/crossgreatfirewall)              | -    |
-| ss panel v3 mod 非官方水群           |                         [https://t.me/SSUnion](https://t.me/SSUnion)                         | -    |
-| 小布吉岛闲聊群                         |                     [https://t.me/bujidaochat](https://t.me/bujidaochat)                     | -    |
-| OKAB3 吹水                        |                     [https://t.me/OKAB3Script](https://t.me/OKAB3Script)                     | -    |
-| Geph 官方群                        |                       [https://t.me/gephusers](https://t.me/gephusers)                       | -    |
-| ExCloud                         |                         [https://t.me/excloud](https://t.me/excloud)                         | -    |
-| AK’s Tech Studio                | [https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ](https://t.me/joinchat/GnoDABmvn-48g2PpaySbeQ) | -    |
-| 章鱼哥的 SSPanel 之家                 |                         [https://t.me/woaizyg](https://t.me/woaizyg)                         | -    |
-| 枫之谷加速                           |                           [https://t.me/fzgjs](https://t.me/fzgjs)                           | -    |
-| VPS 信号旗情报本部                     |                    [https://t.me/vps_xinhaoqi](https://t.me/vps_xinhaoqi)                    | -    |
-| 小火箭 / 圈叉非官方群                    |         [https://t.me/shadowrocket_unofficial](https://t.me/shadowrocket_unofficial)         | -    |
-| 中信加速器 VPN 官方群                   |                          [https://t.me/zxfast](https://t.me/zxfast)                          | -    |
-| 火箭写书                            |                         [https://t.me/woicesu](https://t.me/woicesu)                         | -    |
-| SSRSpeed N 使用交流                 |                       [https://t.me/SSRSpeedN](https://t.me/SSRSpeedN)                       | -    |
-| iQZone                          |                         [https://t.me/iQ_Zone](https://t.me/iQ_Zone)                         | -    |
-| 毒药机场测速 SS/SSR                     | [https://t.me/DuyaoSS](https://t.me/DuyaoSS)                                         | -    |
-| V1 Blog 科技 生活 SpeedTest 主机评测      | [https://t.me/V1_BLOG](https://t.me/V1_BLOG)                                         | -    |
-| 機場海外測速中心                          | [https://t.me/BlacklotusChannel](https://t.me/BlacklotusChannel)                     | -    |
-| 品云☁️测速                            | [https://t.me/PinYunPs](https://t.me/PinYunPs)                                       | -    |
-| ss，ssr，v2ray 机场测速                 | [https://t.me/askahh](https://t.me/askahh)                                           | -    |
-| 前女友们用过的机场                         | [https://t.me/gebaopiCloud](https://t.me/gebaopiCloud)                               | -    |
-| 全球互联网测速中心                         | [https://t.me/speedcentre](https://t.me/speedcentre)                                 | -    |
-| 全球互联网节点中心                         | [https://t.me/sharecentre](https://t.me/sharecentre)                                 | -    |
-| 机场 ☁️ 测速                          | [https://t.me/yunspeedtest](https://t.me/yunspeedtest)                               | -    |
-| 跑路公告板                             | [https://t.me/Paolutongzhi](https://t.me/Paolutongzhi)                               | -    |
-| 秋水逸冰的个人频道                         | [https://t.me/qiushuiyibing](https://t.me/qiushuiyibing)                             | -    |
-| Surge 开发者的频道                      | [https://t.me/yachme](https://t.me/yachme)                                           | -    |
-| Surge News                        | [https://t.me/surgenews](https://t.me/surgenews)                                     | -    |
-| Shadowrocket News                 | [https://t.me/ShadowrocketNews](https://t.me/ShadowrocketNews)                       | -    |
-| Quantumult News                   | [https://t.me/QuanXNews](https://t.me/QuanXNews)                                     | -    |
-| Qure for Quantumult X 图标          | [https://t.me/QureIconSet](https://t.me/QureIconSet)                                 | -    |
-| mini 图标包 for Quantumult X         | [https://t.me/Orzmini](https://t.me/Orzmini)                                         | -    |
-| PVSZ for QuanX                    | [https://t.me/PVSZforQuanX](https://t.me/PVSZforQuanX)                               | -    |
-| QuantumultX & Surge 脚本收集          | [https://t.me/NobyDa](https://t.me/NobyDa)                                           | -    |
-| Quantumult X JS 收集分享              | [https://t.me/QuanXJS](https://t.me/QuanXJS)                                         | -    |
-| Quantumult X 功能教学                 | [https://t.me/HellCellZC123](https://t.me/HellCellZC123)                             | -    |
-| QuantumultX 教程 & API & 解析器 更新通知频道 | [https://t.me/QuanX_API](https://t.me/QuanX_API)                                     | -    |
-| Chavy Scripts                     | [https://t.me/chavyscripts](https://t.me/chavyscripts)                               | -    |
-| zZPiglet                          | [https://t.me/zZPiglet](https://t.me/zZPiglet)                                       | -    |
-| Project X Channel                 | [https://t.me/projectXtls](https://t.me/projectXtls)                                 | -    |
-| W37° 大飛频道                         | [https://t.me/w37fhy](https://t.me/w37fhy)                                           | -    |
-| DivineEngine                      | [https://t.me/DivineEngine](https://t.me/DivineEngine)                               | -    |
-| Cool Scripts                      | [https://t.me/cool_scripts](https://t.me/cool_scripts)                               | -    |
-| TG 规则脚本信息分享器                      | [https://t.me/MRHXPJGG](https://t.me/MRHXPJGG)                                       | -    |
-| Tempest TCN(rixCloud)             | [https://t.me/TempestApp](https://t.me/TempestApp)                                   | -    |
-| Trojan Qt5 News                   | [https://t.me/TrojanQt5News](https://t.me/TrojanQt5News)                             | -    |
-| ServerCat 主机喵                     | [https://t.me/servercat](https://t.me/servercat)                                     | -    |
-| Surfboard News                    | [https://t.me/surfboardnews](https://t.me/surfboardnews)                             | -    |
-| 魅影极速官方频道                          | [https://t.me/myjstw](https://t.me/myjstw)                                           | -    |
-| 魅影极速轻量站 ARK 频道                    | [https://t.me/arktochannel](https://t.me/arktochannel)                               | -    |
-| Fndroid 的日常 (Clash for Windows)   | [https://t.me/fndroid_news](https://t.me/fndroid_news)                               | -    |
-| Clash.NET 公告                      | [https://t.me/ClashDotNetFrameworkAnncmnt](https://t.me/ClashDotNetFrameworkAnncmnt) | -    |
-| Clash.Mini 公告频道                   | [https://t.me/ClashMiniNo1](https://t.me/ClashMiniNo1)                               | -    |
-| ClashR News                       | [https://t.me/ClashR_News](https://t.me/ClashR_News)                                 | -    |
-| Clash (R) for Windows 公告板         | [https://t.me/ClashR_for_Windows_Channel](https://t.me/ClashR_for_Windows_Channel)   | -    |
-| ACL4SSR                           | [https://t.me/ACL4SSR](https://t.me/ACL4SSR)                                         | -    |
-| Stick Rules                       | [https://t.me/usestick](https://t.me/usestick)                                       | -    |
-| Free Telegram proxy               | [https://t.me/proxyme](https://t.me/proxyme)                                         | -    |
-| vAgent 官方福利资源发布频道                 | [https://t.me/everythingjustbegin](https://t.me/everythingjustbegin)                 | -    |
-| ss panel v3 mod 魔改修改版 News        | [https://t.me/sspanel_Uim](https://t.me/sspanel_Uim)                                 | -    |
-| BosLife                           | [https://t.me/boslifenews](https://t.me/boslifenews)                                 | -    |
-| SubConverter 更新频道                 | [https://t.me/subconverter](https://t.me/subconverter)                               | -    |
-| VPN 测评 - 各类 VPN 相关资讯 + 真实测评       | [https://t.me/VPNceping](https://t.me/VPNceping)                                     | -    |
-| 火箭空间站 (TG 代理)                     | [https://t.me/Rocketcool](https://t.me/Rocketcool)                                   | -    |
-| elecV2                            | [https://t.me/elecV2](https://t.me/elecV2)                                           | -    |
-| 科学上网与机场观察                         | [https://t.me/jichangtj](https://t.me/jichangtj)                                     | -    |
-| YtFlow β                          | [https://t.me/YtFlowChannel](https://t.me/YtFlowChannel)                             | -    |
-| MerlinClash 猫咪爬梯                  | [https://t.me/merlinclashcat](https://t.me/merlinclashcat)                           | -    |
-| 中信加速器 VPN 官方频道                    | [https://t.me/zxfast_channel](https://t.me/zxfast_channel)                           | -    |
-| 黑科技 TG 代理                         | [https://t.me/iPoject](https://t.me/iPoject)                                         | -    |
-
-
-# 软件
+# 软件群组/频道
 | 群组名称                       | 链接                                                                                           | 功能描述 |
 | -------------------------- | -------------------------------------------------------------------------------------------- | ---- |
 | App 限免精选                   | [https://t.me/appfans](https://t.me/appfans)                                                 | -    |
@@ -883,7 +1195,7 @@
 | Filebox 官方群                         |                      [https://t.me/FileboxApp](https://t.me/FileboxApp)                      | -    |
 
 
-# 社群
+# 社群频道/群组
 
 | 名称                              | 链接                                                                                           | 功能描述 |
 | ------------------------------- | -------------------------------------------------------------------------------------------- | ---- |
@@ -1136,7 +1448,7 @@
 | 加密货币爱好者           | [https://t.me/jmhbgroup](https://t.me/jmhbgroup)         | -    |
 
 
-# 播客
+# 播客频道/群组
 | 群组名称                | 链接                                                                                           | 功能描述 |
 | ------------------- | -------------------------------------------------------------------------------------------- | ---- |
 | 一天世界                | [https://t.me/ipn_yitianshijie](https://t.me/ipn_yitianshijie)                               | -    |
@@ -1152,10 +1464,13 @@
 | 「得意忘形」听众群           | [https://t.me/joinchat/Bx8JqQ33oVCrKSul-cHJGQ](https://t.me/joinchat/Bx8JqQ33oVCrKSul-cHJGQ) | -    |
 
 
-# Telegram
+# Telegram官方交流群/频道
 
 | 群组名称                        | 链接                                                                                                     | 功能描述 |
 | --------------------------- | ------------------------------------------------------------------------------------------------------ | ---- |
+| Durov’s Channel（Telegram 创始人兼 CEO 的频道） | [https://t.me/durov](https://t.me/durov)                                           | -    |
+| Telegram 官方诈骗举报                        | [https://t.me/notoscam](https://t.me/notoscam)                                     | -    |
+| Telegram-zh_CN Project                 | [https://t.me/zh_CN](https://t.me/zh_CN)            
 | Durov’s Chat                | [https://t.me/durovschat](https://t.me/durovschat)                                                     | -    |
 | 官方翻译支持群 English             | [https://t.me/translation_en](https://t.me/translation_en)                                             | -    |
 | 官方翻译支持群 简体中文 (聪聪)           | [https://t.me/translation_zhcncc](https://t.me/translation_zhcncc)                                     | -    |
@@ -1206,147 +1521,6 @@
 | KeralaGram                  | [https://t.me/keralagram](https://t.me/keralagram)                                                     | -    |
 | 64Gram                      | [https://t.me/tg_x64](https://t.me/tg_x64)                                                             | -    |
 | telegram.Bot                | [https://t.me/pythontelegrambotgroup](https://t.me/pythontelegrambotgroup)                             | -    |
-
-
-# 其他
-
-| 群组名称                            | 链接                                                                                           | 功能描述 |
-| ------------------------------- | -------------------------------------------------------------------------------------------- | ---- |
-| Coder Offtopic 中文群              | [https://t.me/coder_ot](https://t.me/coder_ot)                                               | -    |
-| BoastTG                         | [https://t.me/BoastTG](https://t.me/BoastTG)                                                 | -    |
-| Steam&PlayStation&Xbox&Switch   | [https://t.me/ps4cn2](https://t.me/ps4cn2)                                                   | -    |
-| KoolProxy                       | [https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg](https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg) | -    |
-| 图话天下                            | [https://t.me/joinchat/Ap7Q_zvEXX48wixHbtg79A](https://t.me/joinchat/Ap7Q_zvEXX48wixHbtg79A) | -    |
-| 烧饼博客粉丝群                         | [https://t.me/sbfans](https://t.me/sbfans)                                                   | -    |
-| 圍觀設計師現場                         | [https://t.me/lookingforqoli](https://t.me/lookingforqoli)                                   | -    |
-| Official Counterparty Chat      | [https://t.me/Counterparty_XCP](https://t.me/Counterparty_XCP)                               | -    |
-| Casual ENGLISH Chat             | [https://t.me/joinchat/AAAAAEBz8Owuzgri6kB2UA](https://t.me/joinchat/AAAAAEBz8Owuzgri6kB2UA) | -    |
-| 愚民小鎮                            | [https://t.me/twWolf](https://t.me/twWolf)                                                   | -    |
-| PDA 的 Discovery 版块              | [https://t.me/discoverys](https://t.me/discoverys)                                           | -    |
-| 骇客邦                             | [https://t.me/hihackers](https://t.me/hihackers)                                             | -    |
-| S&D 两位先生                        | [https://t.me/Science_Democracy](https://t.me/Science_Democracy)                             | -    |
-| 欧美生活影视音乐圈 Europe America        | [https://t.me/AJSCIEAA](https://t.me/AJSCIEAA)                                               | -    |
-| Sit and Date                    | [https://t.me/SitandRelaxGroup](https://t.me/SitandRelaxGroup)                               | -    |
-| ACGN☆Taiwan                     | [http://t.me/TaiwanAnime](http://t.me/TaiwanAnime)                                           | -    |
-| 内涵段子之闲聊群                        | [https://t.me/OverseasChinese](https://t.me/OverseasChinese)                                 | -    |
-| 上帝是女孩                           | [https://t.me/Godaregirls](https://t.me/Godaregirls)                                         | -    |
-| Telegram 狼人杀群                   | [https://t.me/langrensha888](https://t.me/langrensha888)                                     | -    |
-| RSS 屋                           | [https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ) | -    |
-| 电报唱吧                            | [https://t.me/changba_tg](https://t.me/changba_tg)                                           | -    |
-| SPhard 交流群                      | [https://t.me/sphard](https://t.me/sphard)                                                   | -    |
-| 璃颜 & 红尘，伊人笑                     | [https://t.me/liyanhongchen](https://t.me/liyanhongchen)                                     | -    |
-| 搞笑视频                            | [https://t.me/joinchat/AAAAAFe-j4P9-B1VgdAmJw](https://t.me/joinchat/AAAAAFe-j4P9-B1VgdAmJw) | -    |
-| Hanan’s Group                   | [https://t.me/hanhans2](https://t.me/hanhans2)                                               | -    |
-| 创造者日报                           | [https://t.me/creatorsdaily](https://t.me/creatorsdaily)                                     | -    |
-| Tg 唱吧总站                         | [https://t.me/changba_tg](https://t.me/changba_tg)                                           | -    |
-| Zapro・杂铺 HAPPY                  | [https://t.me/tmioeTG](https://t.me/tmioeTG)                                                 | -    |
-| Faangbbs 北美程序员大群                | [https://t.me/faangbbs](https://t.me/faangbbs)                                               | -    |
-| Count To 1 Million              | [https://t.me/CountToOneMillion](https://t.me/CountToOneMillion)                             | -    |
-| No U                            | [https://t.me/NoUGroup](https://t.me/NoUGroup)                                               | -    |
-| APPDO 数字生活指南                    | [https://t.me/appdododo](https://t.me/appdododo)                                             | -    |
-| FriendChCodeList                | [https://t.me/FriendChCodeList](https://t.me/FriendChCodeList)                               | -    |
-| oooooohmygosh & friends         | [https://t.me/omgfriends](https://t.me/omgfriends)                                           | -    |
-| No.1 Manila_服务器_优秀的服务器_服务器托管租用_ | [https://t.me/PHmanila](https://t.me/PHmanila)                                               | -    |
-| Leetcode 刷题                     | [https://t.me/leetcode_discuss](https://t.me/leetcode_discuss)                               | -    |
-| LeetCode + Interview Prep 2021  | [https://t.me/leetcode_discussion](https://t.me/leetcode_discussion)                         | -    |
-| 验证码平台                           | [https://t.me/jiema_USA](https://t.me/jiema_USA)                                             | -    |
-| 验证码平台                           | [https://t.me/jiemapingtai2](https://t.me/jiemapingtai2)                                     | -    |
-| 沙雕根据地                           | [https://t.me/shadiaoo](https://t.me/shadiaoo)                                               | -    |
-| ACG 萌                           | [https://t.me/acg_moe](https://t.me/acg_moe)                                                 | -    |
-| WSB 华尔街中文社区                     | [https://t.me/WSBetsZH](https://t.me/WSBetsZH)                                               | -    |
-| 华尔街日报 RSS                       | [https://t.me/wsj_rss](https://t.me/wsj_rss)                                                 | -    |
-| Satoshi Street Bets 中本街社区       | [https://t.me/SatoshiStreetBetsZH](https://t.me/SatoshiStreetBetsZH)                         | -    |
-| tsuPro Talk                     | [https://t.me/tsuPorn](https://t.me/tsuPorn)                                                 | -    |
-| 想尽办法看电视                         | [https://t.me/joinchat/MgUQ3B1apkzq3sqVzTFP0A](https://t.me/joinchat/MgUQ3B1apkzq3sqVzTFP0A) | -    |
-| 一起充电群                           | [https://t.me/letsbuycharger](https://t.me/letsbuycharger)                                   | -    |
-
-
-# 频道 Channel
-
-| 群组名称                                   | 链接                                                                                 | 功能描述 |
-| -------------------------------------- | ---------------------------------------------------------------------------------- | ---- |
-| Durov’s Channel（Telegram 创始人兼 CEO 的频道） | [https://t.me/durov](https://t.me/durov)                                           | -    |
-| Telegram 官方诈骗举报                        | [https://t.me/notoscam](https://t.me/notoscam)                                     | -    |
-| Telegram-zh_CN Project                 | [https://t.me/zh_CN](https://t.me/zh_CN)                                           | -    |
-| Telegram 简体中文                          | [https://t.me/tele_zh_cn](https://t.me/tele_zh_cn)                                 | -    |
-| Telegram 繁体中文                          | [https://t.me/Tele_zh_TW](https://t.me/Tele_zh_TW)                                 | -    |
-| Telegram News                          | [https://t.me/telegram](https://t.me/telegram)                                     | -    |
-| Telegram Tips                          | [https://t.me/TelegramTips](https://t.me/TelegramTips)                             | -    |
-| Telegram Features                      | [https://t.me/features](https://t.me/features)                                     | -    |
-| Telegram Geeks                         | [https://t.me/geekschannel](https://t.me/geekschannel)                             | -    |
-| Telegram Info English                  | [https://t.me/tginfoen](https://t.me/tginfoen)                                     | -    |
-| Telegram Info                          | [https://t.me/tginfo](https://t.me/tginfo)                                         | -    |
-| Telegram Apps                          | [https://t.me/tgfiles](https://t.me/tgfiles)                                       | -    |
-| Telegram APKs for Android              | [https://t.me/TAndroidAPK](https://t.me/TAndroidAPK)                               | -    |
-| Telegram for macOS Updates             | [https://t.me/macos_stable_updates_files](https://t.me/macos_stable_updates_files) | -    |
-| Telegram Stable Releases               | [https://t.me/tgstable](https://t.me/tgstable)                                     | -    |
-| Telegram Beta                          | [https://t.me/tgbeta](https://t.me/tgbeta)                                         | -    |
-| Telegram X                             | [https://t.me/tgx_android](https://t.me/tgx_android)                               | -    |
-| Telegram Beta Blog                     | [https://t.me/tgrambeta](https://t.me/tgrambeta)                                   | -    |
-| Telegram Designers                     | [https://t.me/designers](https://t.me/designers)                                   | -    |
-| Telegram Contests                      | [https://t.me/contest](https://t.me/contest)                                       | -    |
-| Telegram Memes                         | [https://t.me/MemesTelegram](https://t.me/MemesTelegram)                           | -    |
-| Instant View Contest News              | [https://t.me/IVcontest](https://t.me/IVcontest)                                   | -    |
-| Telegram BotNews                       | [https://t.me/BotNews](https://t.me/BotNews)                                       | -    |
-| Katalog Telegram                       | [https://t.me/katalogtelegram](https://t.me/katalogtelegram)                       | -    |
-| Telegram iOS Beta Slots                | [https://t.me/tgslots](https://t.me/tgslots)                                       | -    |
-| Telegram Blog Secrets                  | [https://t.me/tgblog_secrets](https://t.me/tgblog_secrets)                         | -    |
-| Telegram Censorship Report             | [https://t.me/TCReport](https://t.me/TCReport)                                     | -    |
-| durov_russia                           | [https://t.me/durov_russia](https://t.me/durov_russia)                             | -    |
-| tgx_android_translate                  | [https://t.me/tgx_android_translate](https://t.me/tgx_android_translate)           | -    |
-| desktop                                | [https://t.me/desktop](https://t.me/desktop)                                       | -    |
-| AptitudeTestContest                    | [https://t.me/AptitudeTestContest](https://t.me/AptitudeTestContest)               | -    |
-| IsisWatch                              | [https://t.me/IsisWatch](https://t.me/IsisWatch)                                   | -    |
-| stopCA                                 | [https://t.me/stopCA](https://t.me/stopCA)                                         | -    |
-| username                               | [https://t.me/username](https://t.me/username)                                     | -    |
-| TelegramIT                             | [https://t.me/TelegramIT](https://t.me/TelegramIT)                                 | -    |
-| TelegramES                             | [https://t.me/TelegramES](https://t.me/TelegramES)                                 | -    |
-| TelegramDE                             | [https://t.me/TelegramDE](https://t.me/TelegramDE)                                 | -    |
-| TelegramArabia                         | [https://t.me/TelegramArabia](https://t.me/TelegramArabia)                         | -    |
-| TelegramNL                             | [https://t.me/TelegramNL](https://t.me/TelegramNL)                                 | -    |
-| TelegramIndonesia                      | [https://t.me/TelegramIndonesia](https://t.me/TelegramIndonesia)                   | -    |
-| TelegramBR                             | [https://t.me/TelegramBR](https://t.me/TelegramBR)                                 | -    |
-| DiscussThis                            | [https://t.me/DiscussThis](https://t.me/DiscussThis)                               | -    |
-| telegramtipsit                         | [https://t.me/telegramtipsit](https://t.me/telegramtipsit)                         | -    |
-| telegramtipsbr                         | [https://t.me/telegramtipsbr](https://t.me/telegramtipsbr)                         | -    |
-| telegramtipsAR                         | [https://t.me/telegramtipsAR](https://t.me/telegramtipsAR)                         | -    |
-| telegramtipsES                         | [https://t.me/telegramtipsES](https://t.me/telegramtipsES)                         | -    |
-| telegramtipsID                         | [https://t.me/telegramtipsID](https://t.me/telegramtipsID)                         | -    |
-| connectivity_test                      | [https://t.me/connectivity_test](https://t.me/connectivity_test)                   | -    |
-| topanimated                            | [https://t.me/topanimated](https://t.me/topanimated)                               | -    |
-| videomessages                          | [https://t.me/videomessages](https://t.me/videomessages)                           | -    |
-| Transparency                           | [https://t.me/Transparency](https://t.me/Transparency)                             | -    |
-| virus                                  | [https://t.me/virus](https://t.me/virus)                                           | -    |
-| macos_stable_updates_files             | [https://t.me/macos_stable_updates_files](https://t.me/macos_stable_updates_files) | -    |
-| Telegram 新手指南                          | [https://t.me/newbie_guide](https://t.me/newbie_guide)                             | -    |
-| Telegram 种植园                           | [https://t.me/TelePlanting](https://t.me/TelePlanting)                             | -    |
-| Telegram 新手入口                          | [https://t.me/StartTG](https://t.me/StartTG)                                       | -    |
-| Desktop Themes Channel                 | [https://t.me/themes](https://t.me/themes)                                         | -    |
-| Telegram Desktop Themes                | [https://t.me/desktopThemes](https://t.me/desktopThemes)                           | -    |
-| Telegram Themes                        | [https://t.me/themechannel](https://t.me/themechannel)                             | -    |
-| Telegram Themes                        | [https://t.me/themeschannel](https://t.me/themeschannel)                           | -    |
-| rThemes                                | [https://t.me/rThemes](https://t.me/rThemes)                                       | -    |
-| ThemeTelegram X                        | [https://t.me/ThemeTelegram_X](https://t.me/ThemeTelegram_X)                       | -    |
-| Android Themes Channel                 | [https://t.me/AndroidThemes](https://t.me/AndroidThemes)                           | -    |
-| Telegram Theme By Shana                | [https://t.me/ShanaThemes](https://t.me/ShanaThemes)                               | -    |
-| Cancer Themes                          | [https://t.me/cancerthemes](https://t.me/cancerthemes)                             | -    |
-| VANILLA TELEGRAM THEMES                | [https://t.me/VanillaTG](https://t.me/VanillaTG)                                   | -    |
-| Telegram Stickers                      | [https://t.me/TgSticker](https://t.me/TgSticker)                                   | -    |
-| Telegram 新手频道                          | [https://t.me/newbie_tele](https://t.me/newbie_tele)                               | -    |
-| Telegram 文言翻譯之官方頻道                     | [https://t.me/classical_chinese](https://t.me/classical_chinese)                   | -    |
-| 電報群組廣播                                 | [https://t.me/FOCUSTELEGRAMGROUPLINK](https://t.me/FOCUSTELEGRAMGROUPLINK)         | -    |
-| 電報新群推送                                 | [https://t.me/linkpush](https://t.me/linkpush)                                     | -    |
-| tg 机器人推荐                               | [https://t.me/tgbotlist](https://t.me/tgbotlist)                                   | -    |
-| Telegreat Project                      | [https://t.me/Telegreat](https://t.me/Telegreat)                                   | -    |
-| Telegram Passport                      | [https://t.me/TelegramPassport](https://t.me/TelegramPassport)                     | -    |
-| Plus Messenger official                | [https://t.me/plusmsgr](https://t.me/plusmsgr)                                     | -    |
-| KeralaGram [Official]®                 | [https://t.me/KeralaGramChannel](https://t.me/KeralaGramChannel)                   | -    |
-| Challegram                             | [https://t.me/Challegram](https://t.me/Challegram)                                 | -    |
-| X Plus Channel                         | [https://t.me/XPlus_Channel](https://t.me/XPlus_Channel)                           | -    |
-| Nicegram                               | [https://t.me/nicegramapp](https://t.me/nicegramapp)                               | -    |
-| Nicegram Dev                           | [https://t.me/nicegramdev](https://t.me/nicegramdev)                               | -    |
-| 捷报 News                                | [https://t.me/JieBaoNews](https://t.me/JieBaoNews)                                 | -    |
-| PagerMaid-Modify Update                | [https://t.me/PagerMaid_Modify](https://t.me/PagerMaid_Modify)                     | -    |
 
 
 # 媒体
@@ -1466,7 +1640,7 @@
 | Wallpaper@Winn 手工壁纸分享                                 | [https://t.me/WallpaperWinn](https://t.me/WallpaperWinn)             | -                                          |   |
 
 
-# 其他
+# 一些未分类频道/群组
 
 | 群组名称                               | 链接                                                                                           | 功能描述 |
 | ---------------------------------- | -------------------------------------------------------------------------------------------- | ---- |
@@ -1683,12 +1857,6 @@
 | 苍穹の下・SKY 的 Blog      | [https://t.me/blueskyxnblog](https://t.me/blueskyxnblog)                   | -    |
 | 瞎玩菌                  | [https://t.me/blindgamer](https://t.me/blindgamer)                         | -    |
 | Tesla China        | [https://t.me/Teslacn](https://t.me/Teslacn)                               | -    |
-
-
-
-# 其他
-| 群组名称                      | 链接                                                                               | 功能描述                   |
-| ------------------------- | -------------------------------------------------------------------------------- | ---------------------- |
 | 这个我知道                     | [https://t.me/keyword_reply_bot](https://t.me/keyword_reply_bot)                 | 本机器人能够自动回复关键词对应的内容     |
 | 这个我删了 Bot                 | [https://t.me/keyworddel_bot](https://t.me/keyworddel_bot)                       | 自动删除推广 / 广告 / 菠菜等消息    |
 | Vultr 助手 Bot              | [https://t.me/vultr_helper_bot](https://t.me/vultr_helper_bot)                   | Vultr 账户绑定与余额/流量提醒     |
@@ -1787,254 +1955,137 @@
 | Shop Bot                  | [https://t.me/shopbot](https://t.me/shopbot)                                     | Payments 示例            |
 | StickerBot                | [https://t.me/sticker](https://t.me/sticker)                                     | Emoji 贴纸搜索             |
 | Gamee                     | [https://t.me/gamee](https://t.me/gamee)                                         | 在线游戏                   |
-|                           |                                                                                  |                        |
-
-   
-# Web3电报群
-### 交易所 Exchanges
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| 交易所 | [Binance 中文群](https://t.me/BinanceChinese)  | 官方 - 币安官方中文讨论与公告                                                   |
-| 交易所 | [OKX 中文社区](https://t.me/OKXOfficialChinese) | 官方 - OKX 官方中文社群       |
-| 交易所 | [HTX 中文群](https://t.me/HuobiGlobalChinese)  | 官方 - HTX（原 Huobi）中文社区 |
-| 交易所 | [Gate 中文](https://t.me/Gateio_Chinese)      | 官方 - Gate.io 中文群      |
-| 交易所 | [KuCoin 中文](https://t.me/KuCoinChinese)     | 官方 - KuCoin 交流与活动     |
-| 交易所 | [MEXC 中文](https://t.me/MEXCzh)              | 官方 - MEXC 中文社群        |
-| 交易所 | [Bitget 中文](https://t.me/BitgetOfficialCN)  | 官方 - Bitget 期货交易中文群   |
-| 交易所 | [Bybit 中文](https://t.me/BybitChinese)       | 官方 - Bybit 官方讨论       |
-| 交易所 | [LBank 中文](https://t.me/LBank_CN)           | 官方 - LBank 交易所中文群     |
-| 交易所 | [ProEX 中文](https://t.me/ProEX_CN)           | 官方 - ProEX 讨论         |
-| 交易所 | [Coinlist 中文](https://t.me/CoinlistCN)      | 官方 - Coinlist 打新讨论    |
-| 交易所 | [Bitmart 中文](https://t.me/Bitmart_CN)       | 官方 - Bitmart 交流       |
-| 交易所 | [BingX 中文](https://t.me/BingXCN)            | 官方 - BingX 社群         |
-| 交易所 | [Hotbit 中文](https://t.me/Hotbit_CN)         | 官方 - Hotbit 社群        |
-| 交易所 | [WhiteBIT 中文](https://t.me/WhiteBIT_CN)     | 官方 - WhiteBIT 讨论      |
-| 交易所 | [ZB 中文](https://t.me/ZBCh)                  | 官方 - ZB.com 中文群       |
-| 交易所 | [Bitrue 中文](https://t.me/BitrueChinese)     | 官方 - Bitrue 社群        |
-| 交易所 | [Pionex 中文](https://t.me/PionexCN)          | 官方 - Pionex 网格交易      |
-| 交易所 | [OKX API 中文](https://t.me/OKX_API_CN)       | 技术 - OKX API 讨论       |
-| 交易所 | [Deribit 中文](https://t.me/DeribitCN)        | 衍生品 - Deribit 期权交流    | 
-| 交易所 | [Binance Exchange](https://t.me/binanceexchange)    | 官方 - 全球 Binance 主群 |
-| 交易所 | [Coinbase Official](https://t.me/Coinbase_Official) | 官方 - Coinbase 英文社区 |
-| 交易所 | [OKX Global](https://t.me/okx_official)             | 官方 - OKX 全球英文群     |
-| 交易所 | [Bybit English](https://t.me/BybitEnglish)          | 官方 - Bybit 交易者中心   |
-| 交易所 | [KuCoin Exchange](https://t.me/KuCoin_Exchange)     | 官方 - KuCoin 英文社群   |
-| 交易所 | [Gate.io Official](https://t.me/Gateio)             | 官方 - Gate.io 全球群   |
-| 交易所 | [MEXC Global](https://t.me/MEXCGlobalOfficial)      | 官方 - MEXC 英文社群     |
-| 交易所 | [Bitget Global](https://t.me/BitgetEN)              | 官方 - Bitget 英文群    |
-| 交易所 | [Deribit Exchange](https://t.me/deribit)            | 衍生品 - 期权合约讨论       |
-| 交易所 | [Kraken Exchange](https://t.me/KrakenExchange)      | 官方 - Kraken 公告与讨论  |
-| 交易所 | [Bitstamp](https://t.me/BitstampOfficial)           | 官方 - Bitstamp 全球群  |
-| 交易所 | [BingX Global](https://t.me/BingXOfficial)          | 社交交易 - BingX 跟单社群  |
-| 交易所 | [BitMEX](https://t.me/BitMEXOfficial)               | 期货 - BitMEX 社区     |
-| 交易所 | [Phemex](https://t.me/Phemex_English)               | 期货 - Phemex 英文聊天   |
-| 交易所 | [WhiteBIT Global](https://t.me/WhiteBIT)            | 官方 - WhiteBIT 讨论   |
-
-### DeFi
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| DeFi | [DeFiCN](https://t.me/DeFiCN)                 | DeFi - 综合 DeFi 讨论    |
-| DeFi | [Uniswap 中文](https://t.me/UniswapCN)          | DEX - Uniswap 使用与治理  |
-| DeFi | [Aave 中文](https://t.me/AaveCN)                | 借贷 - Aave 借贷协议       |
-| DeFi | [Curve 中文](https://t.me/CurveFinanceCN)       | 稳定币 - Curve 流动性      |
-| DeFi | [MakerDAO 中文](https://t.me/MakerDAO_CN)       | 稳定币 - Maker 与 DAI    |
-| DeFi | [PancakeSwap 中文](https://t.me/PancakeSwap_CN) | BSC - PancakeSwap    |
-| DeFi | [Sushi 中文](https://t.me/SushiSwapCN)          | DEX - SushiSwap      |
-| DeFi | [GMX 中文](https://t.me/GMXChinese)             | 永续 - GMX 合约          |
-| DeFi | [Compound 中文](https://t.me/CompoundCN)        | 借贷 - Compound 协议     |
-| DeFi | [Venus 中文](https://t.me/Venus_CN)             | 借贷 - Venus 借贷        |
-| DeFi | [dYdX 中文](https://t.me/dydxCN)                | 合约 - dYdX 交易所        |
-| DeFi | [Lido 中文](https://t.me/Lido_CN)               | 质押 - Lido 流动质押       |
-| DeFi | [Pendle 中文](https://t.me/Pendle_CN)           | 收益 - Pendle 期限收益     |
-| DeFi | [Stargate 中文](https://t.me/Stargate_CN)       | 跨链 - Stargate 跨链桥    |
-| DeFi | [Osmosis 中文](https://t.me/Osmosis_CN)         | Cosmos - Osmosis DEX |
-| DeFi | [Uniswap](https://t.me/Uniswap)                  | DEX - Uniswap 协议社区    |
-| DeFi | [Aave](https://t.me/AaveOfficial)                | 借贷 - Aave 治理与交流       |
-| DeFi | [MakerDAO](https://t.me/makerDAOofficial)        | 稳定币 - DAI 社区          |
-| DeFi | [Curve Finance](https://t.me/curvefi)            | 稳定币交换 - Curve 讨论      |
-| DeFi | [SushiSwap](https://t.me/sushiswap)              | DEX - SushiSwap 社区    |
-| DeFi | [PancakeSwap](https://t.me/PancakeSwap)          | BSC - PancakeSwap 全球群 |
-| DeFi | [GMX](https://t.me/GMX_IO)                       | 永续 - GMX 合约交易         |
-| DeFi | [dYdX](https://t.me/dydxofficial)                | 永续 - dYdX 协议群         |
-| DeFi | [Lido Finance](https://t.me/lidofinance)         | 质押 - Lido 液态质押        |
-| DeFi | [Pendle Finance](https://t.me/pendlefinance)     | 收益 - Pendle 收益分离      |
-| DeFi | [Stargate Finance](https://t.me/StargateFinance) | 跨链桥 - Stargate 跨链     |
-| DeFi | [Yearn Finance](https://t.me/yearnfinance)       | 收益 - Yearn 保险库        |
-| DeFi | [Balancer](https://t.me/balancerlabs)            | AMM - Balancer DAO    |
-| DeFi | [Synthetix](https://t.me/synthetix_io)           | 衍生品 - Synthetix 协议    |
-| DeFi | [Radiant Capital](https://t.me/RadiantCapital)   | 借贷 - 跨链借贷 Radiant     |
-
-### NFT
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| NFT | [OpenSea 中文](https://t.me/OpenSea_CN)            | NFT - OpenSea 交流       |
-| NFT | [Blur 中文](https://t.me/Blur_CN)                  | NFT - Blur 竞价市场        |
-| NFT | [Azuki 中文](https://t.me/Azuki_CN)                | NFT - Azuki 社群         |
-| NFT | [YugaLabs 中文](https://t.me/YugaLabsCN)           | NFT - BAYC / Otherside |
-| NFT | [PudgyPenguins 中文](https://t.me/Pudgy_CN)        | NFT - 小胖企鹅爱好者          |
-| NFT | [ElementMarket 中文](https://t.me/ElementMarketCN) | NFT - Element 市场       |
-| NFT | [NFTCN 社群](https://t.me/NFTCN)                   | NFT - 综合 NFT 讨论        |
-| NFT | [StepN 中文](https://t.me/StepN_official_CN)       | NFT/GameFi - StepN 跑鞋  |
-| NFT | [MagicEden 中文](https://t.me/MagicEdenCN)         | NFT - Solana NFT 市场    |
-| NFT | [Loot 中文](https://t.me/Loot_CN)                  | NFT - Loot 项目          |
-| NFT | [OpenSea Official](https://t.me/opensea)       | NFT - OpenSea 市场        |
-| NFT | [Blur.io](https://t.me/BlurExchange)           | NFT - Blur 竞价平台         |
-| NFT | [Azuki Official](https://t.me/azukiofficial)   | NFT - Azuki 持有者群        |
-| NFT | [Yuga Labs / BAYC](https://t.me/bayc_official) | NFT - BAYC 社区           |
-| NFT | [Pudgy Penguins](https://t.me/pudgypenguins)   | NFT - Pudgy Penguins    |
-| NFT | [Magic Eden](https://t.me/magicedenio)         | NFT - Solana NFT 市场     |
-| NFT | [Parallel TCG](https://t.me/parallel)          | NFT - Parallel 卡牌游戏     |
-| NFT | [Treasure DAO](https://t.me/treasure_dao)      | NFT/Game - Treasure 生态  |
-| NFT | [Loot Project](https://t.me/lootproject)       | NFT - Loot 冒险者          |
-| NFT | [DG Pals](https://t.me/DGPals)                 | NFT/GameFi - DG Pals 宠物 |
-
-### Layer 2
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| Layer 2 | [zkSync 中文](https://t.me/zkSync_CN)     | ZK - zkSync 生态         |
-| Layer 2 | [StarkNet 中文](https://t.me/StarkNet_CN) | ZK - StarkNet 技术       |
-| Layer 2 | [Optimism 中文](https://t.me/Optimism_CN) | Rollup - Optimism 生态   |
-| Layer 2 | [Arbitrum 中文](https://t.me/ArbitrumCN)  | Rollup - Arbitrum 交流   |
-| Layer 2 | [Base 中文](https://t.me/BaseChain_CN)    | Rollup - Coinbase Base |
-| Layer 2 | [Taiko 中文](https://t.me/Taiko_CN)       | ZK - Taiko 测试网         |
-| Layer 2 | [Linea 中文](https://t.me/LineaChinese)   | ZK - ConsenSys Linea   |
-| Layer 2 | [Scroll 中文](https://t.me/Scroll_ZK_CN)  | ZK - Scroll 生态         |
-| Layer 2 | [Manta 中文](https://t.me/Manta_CN)       | ZK - Manta Network     |
-| Layer 2 | [Metis 中文](https://t.me/MetisCN)        | Rollup - Metis DAO     |
-| Layer 2 | [zkSync Era](https://t.me/zksync)                  | ZK - zkSync 主群         |
-| Layer 2 | [StarkNet](https://t.me/starknet)                  | ZK - StarkNet 官方       |
-| Layer 2 | [Optimism](https://t.me/OptimismPortal)            | Rollup - Optimism 动态   |
-| Layer 2 | [Arbitrum Official](https://t.me/ArbitrumOfficial) | Rollup - Arbitrum 社区   |
-| Layer 2 | [Base Chain](https://t.me/base_chain)              | Rollup - Coinbase Base |
-| Layer 2 | [Linea](https://t.me/linea_build)                  | ZK - Linea 开发者         |
-| Layer 2 | [Scroll ZKP](https://t.me/scrollzkp)               | ZK - Scroll 社区         |
-| Layer 2 | [Mantle Network](https://t.me/mantlenetwork)       | Rollup - Mantle DAO    |
-| Layer 2 | [Taiko Labs](https://t.me/taikolabs)               | ZK - Taiko 开发群         |
-| Layer 2 | [Metis DAO](https://t.me/MetisDAO)                 | Rollup - Metis 生态      |
-
-### GameFi
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| GameFi | [Axie Infinity 中文](https://t.me/AxieInfinityCN) | GameFi - Axie 游戏         |
-| GameFi | [Gala Games 中文](https://t.me/GalaGamesCN)       | GameFi - Gala 生态         |
-| GameFi | [Illuvium 中文](https://t.me/Illuvium_CN)         | GameFi - Illuvium RPG    |
-| GameFi | [Star Atlas 中文](https://t.me/StarAtlasCN)       | GameFi - Star Atlas      |
-| GameFi | [BigTime 中文](https://t.me/BigTime_CN)           | GameFi - Big Time MMO    |
-| GameFi | [The Sandbox 中文](https://t.me/TheSandboxCN)     | GameFi - 元宇宙 Sandbox     |
-| GameFi | [Mavia 中文](https://t.me/Mavia_CN)               | GameFi - Heroes of Mavia |
-| GameFi | [AlienWorlds 中文](https://t.me/AlienWorldsCN)    | GameFi - Alien Worlds    |
-| GameFi | [Yuliverse 中文](https://t.me/YuliverseCN)        | GameFi - AR+LBS 游戏       |
-| GameFi | [Pixels 中文](https://t.me/Pixels_CN)             | GameFi - Pixels 农场       |
-| GameFi | [Axie Infinity](https://t.me/axieinfinity)    | GameFi - Axie 玩家群       |
-| GameFi | [Gala Games](https://t.me/GalaGamesOfficial)  | GameFi - Gala 生态        |
-| GameFi | [Illuvium Official](https://t.me/illuviumio)  | GameFi - Illuvium RPG   |
-| GameFi | [Big Time](https://t.me/BigTimeOfficial)      | GameFi - BigTime MMO    |
-| GameFi | [Star Atlas](https://t.me/staratlas)          | GameFi - Star Atlas 元宇宙 |
-| GameFi | [The Sandbox](https://t.me/sandboxgame)       | 元宇宙 - Sandbox 创作者       |
-| GameFi | [Pixels Global](https://t.me/PixelsOnline)    | GameFi - Pixels 农场      |
-| GameFi | [Heroes of Mavia](https://t.me/HeroesOfMavia) | GameFi - Mavia 策略       |
-| GameFi | [Alien Worlds](https://t.me/alienworldschat)  | GameFi - Alien Worlds   |
-| GameFi | [Yuliverse](https://t.me/Yuliverse)           | GameFi - AR+Web3 游戏     |
-
-### DAO
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| DAO | [DAOhaus 中文](https://t.me/DAOhausCN)          | DAO - DAOhaus 治理     |
-| DAO | [Gitcoin 中文](https://t.me/GitcoinCN)          | DAO - Gitcoin Grants |
-| DAO | [BitDAO 中文](https://t.me/BitDAO_CN)           | DAO - BitDAO 社群      |
-| DAO | [ENS 中文](https://t.me/ENS_CN)                 | DAO - 以太坊域名          |
-| DAO | [FlamingoDAO 中文](https://t.me/FlamingoDAO_CN) | DAO - NFT 投资 DAO     |
-| DAO | [Gitcoin](https://t.me/gitcoinco)            | 资助 - Gitcoin DAO |
-| DAO | [Bankless DAO](https://t.me/BanklessDAO)     | 媒体 - Bankless 社区 |
-| DAO | [Aragon DAO](https://t.me/aragonproject)     | DAO - Aragon 治理  |
-| DAO | [ENS DAO](https://t.me/ensdomains)           | 域名 - Ethereum 域名 |
-| DAO | [BitDAO](https://t.me/bitdao_official)       | 国库 - BitDAO 持有人  |
-| DAO | [Flamingo DAO](https://t.me/flamingodao)     | NFT - 艺术投资 DAO   |
-| DAO | [Moloch DAO](https://t.me/molochdao)         | 资助 - ETH 资助 DAO  |
-| DAO | [Friends With Benefits](https://t.me/fwbDAO) | 社交 - FWB 成员群     |
-| DAO | [LexDAO](https://t.me/lexdao)                | 法律 - LexDAO 律师公会 |
-| DAO | [PleasrDAO](https://t.me/pleasrdao)          | 收藏 - PleasrDAO   |
-
-### 开发者
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| 开发者 | [Web3DevCN](https://t.me/Web3DevSchool_CN)   | 技术 - Web3 开发者学院        |
-| 开发者 | [Solidity 中文](https://t.me/Solidity_CN)      | 技术 - Solidity 语言       |
-| 开发者 | [Substrate 中文](https://t.me/Substrate_CN)    | 技术 - 波卡 Substrate      |
-| 开发者 | [Rust 区块链](https://t.me/Rust_Blockchain_CN)  | 技术 - Rust + 区块链        |
-| 开发者 | [Hardhat 中文](https://t.me/Hardhat_CN)        | 技术 - Hardhat 工具        |
-| 开发者 | [ETH Shanghai Dev](https://t.me/ETHShanghai) | 技术 - ETH Shanghai 社群   |
-| 开发者 | [Chainlink 中文](https://t.me/Chainlink_CN)    | Oracle - Chainlink 预言机 |
-| 开发者 | [MoveLang 中文](https://t.me/MoveLang_CN)      | 技术 - Move 语言           |
-| 开发者 | [WasmEdge 中文](https://t.me/WasmEdge_CN)      | 技术 - WebAssembly       |
-| 开发者 | [Cosmos SDK 中文](https://t.me/CosmosSDK_CN)   | 技术 - Cosmos SDK        |
-| 开发者 | [Ethereum Dev](https://t.me/ethdev)                    | 技术 - 以太坊开发者          |
-| 开发者 | [Solidity](https://t.me/solidity_lang)                 | 技术 - Solidity 语言     |
-| 开发者 | [Chainlink Dev](https://t.me/chainlinkofficial)        | 预言机 - Chainlink 开发   |
-| 开发者 | [Substrate Technical](https://t.me/SubstrateTechnical) | 波卡 - Substrate 技术    |
-| 开发者 | [Rust Blockchain](https://t.me/rust_blockchain)        | 技术 - Rust + 区块链      |
-| 开发者 | [Hardhat](https://t.me/HardhatPlugin)                  | 技术 - Hardhat 工具      |
-| 开发者 | [Move Language](https://t.me/move_language)            | Aptos/Sui - Move 语言群 |
-| 开发者 | [Cosmos SDK](https://t.me/cosmosdev)                   | Cosmos - Cosmos 开发   |
-| 开发者 | [Web3.js](https://t.me/web3js)                         | 技术 - web3.js 库       |
-| 开发者 | [EthGlobal Hack](https://t.me/ethglobal)               | 黑客松 - ETH 黑客松        |
-
-### 挖矿
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| 挖矿 | [Bitcoin 矿工中文](https://t.me/Bitcoin_Mining_CN)  | 矿业 - BTC 挖矿       |
-| 挖矿 | [Ethereum 矿工中文](https://t.me/EthMining_CN)      | 矿业 - PoW 历史讨论     |
-| 挖矿 | [Filecoin 中文矿工](https://t.me/Filecoin_Miner_CN) | 矿业 - FIL 存储矿工     |
-| 挖矿 | [Chia 矿工](https://t.me/ChiaCN)                  | 矿业 - Chia 农场      |
-| 挖矿 | [Kaspa 矿工中文](https://t.me/Kaspa_CN)             | 矿业 - Kaspa GPU 挖矿 |
-
-### 媒体
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| 媒体/研究 | [8BTC News 中文](https://t.me/BTCSuperGroup)                  | 媒体 - 巴比特新闻群        |
-| 媒体/研究 | [Odaily 星球日报](https://t.me/Odaily_CN)                       | 媒体 - 行业快讯          |
-| 媒体/研究 | [ChainCatcher 中文](https://t.me/ChainCatcher_CN)             | 媒体 - 链捕手社区         |
-| 媒体/研究 | [BlockBeats 中文](https://t.me/BlockBeats)                    | 媒体 - 深潮 TechFlow   |
-| 媒体/研究 | [Footprint Analytics 中文](https://t.me/FootprintAnalyticsCN) | 数据 - 数据洞察          |
-| 媒体/研究 | [PANews 中文](https://t.me/PANews_CN)                         | 媒体 - PANews 讨论     |
-| 媒体/研究 | [CoinVoice 中文](https://t.me/CoinVoiceCN)                    | 媒体 - CoinVoice     |
-| 媒体/研究 | [Foresight News 中文](https://t.me/ForesightNewsCN)           | 媒体 - ForesightNews |
-| 媒体/研究 | [TechFlow 中文](https://t.me/TechFlowCN)                      | 媒体 - TechFlow      |
-| 媒体/研究 | [Decrypt 中文](https://t.me/Decrypt_CN)                       | 媒体 - Decrypt 中文频道  |
-| 媒体/研究 | [CoinDesk News](https://t.me/coindesk_news)            | 媒体 - CoinDesk 新闻      |
-| 媒体/研究 | [Cointelegraph](https://t.me/cointelegraph)            | 媒体 - Cointelegraph 新闻 |
-| 媒体/研究 | [The Block](https://t.me/TheBlock_)                    | 媒体 - The Block 快讯     |
-| 媒体/研究 | [Messari](https://t.me/MessariCrypto)                  | 研究 - Messari 洞见       |
-| 媒体/研究 | [Decrypt](https://t.me/Decrypt77)                      | 媒体 - Decrypt 新闻       |
-| 媒体/研究 | [Bankless](https://t.me/BanklessHQ)                    | 媒体 - Bankless 资讯      |
-| 媒体/研究 | [CryptoSlate](https://t.me/CryptoSlate)                | 媒体 - CryptoSlate 新闻   |
-| 媒体/研究 | [Foresight News](https://t.me/foresight_news)          | 媒体 - Foresight 英文     |
-| 媒体/研究 | [Footprint Analytics](https://t.me/FootprintAnalytics) | 数据 - Footprint 数据     |
-| 媒体/研究 | [CryptoQuant](https://t.me/cryptoquant_official)       | 数据 - 链上指标 CryptoQuant |
-
-### 交易信号
-| 板块  | Telegram                                    | 简介                    |
-| --- | ------------------------------------------- | --------------------- |
-| 交易信号 | [CryptoSignalsCN](https://t.me/CryptoSignalsCN) | 信号 - 行情/策略    |
-| 交易信号 | [WhaleAlert 中文](https://t.me/WhaleAlertCN)      | 监控 - 巨鲸转账     |
-| 交易信号 | [RAVEN Signals CN](https://t.me/RAVENSignalsCN) | 信号 - RAVEN 策略 |
-| 交易信号 | [TrendMaster CN](https://t.me/TrendMasterCN)    | 信号 - 趋势跟踪     |
-| 交易信号 | [FutureNet 中文](https://t.me/FutureNet_CN)       | 信号 - 合约策略     |
-| 交易信号 | [Crypto Pump Club](https://t.me/cryptoclubpump)          | 信号 - 拉盘预警        |
-| 交易信号 | [RAVEN Signals Pro](https://t.me/ravensignalspro)        | 信号 - 技术面洞察       |
-| 交易信号 | [Whale Alert](https://t.me/whale_alert)                  | 链上监控 - 大额转账提醒    |
-| 交易信号 | [Binance Killers](https://t.me/BinanceKillers)           | 信号 - 合约策略        |
-| 交易信号 | [Cabal Lines](https://t.me/caballines)                   | 信号 - 市场技术分析      |
-| 交易信号 | [Chain Crawlers](https://t.me/ChainCrawlers)             | 信号 - 链上侦察        |
-| 交易信号 | [CoinGape Signals](https://t.me/CoinGapeSignals)         | 信号 - CoinGape 交易 |
-| 交易信号 | [Smart Options](https://t.me/SmartOptions)               | 信号 - 机器人策略       |
-| 交易信号 | [ICO Drops Deals](https://t.me/ICO_Drops)                | 空投 - ICO/IDO 提醒  |
-| 交易信号 | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号 - Hopper 策略   |
-
+| Coder Offtopic 中文群              | [https://t.me/coder_ot](https://t.me/coder_ot)                                               | -    |
+| BoastTG                         | [https://t.me/BoastTG](https://t.me/BoastTG)                                                 | -    |
+| Steam&PlayStation&Xbox&Switch   | [https://t.me/ps4cn2](https://t.me/ps4cn2)                                                   | -    |
+| KoolProxy                       | [https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg](https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg) | -    |
+| 图话天下                            | [https://t.me/joinchat/Ap7Q_zvEXX48wixHbtg79A](https://t.me/joinchat/Ap7Q_zvEXX48wixHbtg79A) | -    |
+| 烧饼博客粉丝群                         | [https://t.me/sbfans](https://t.me/sbfans)                                                   | -    |
+| 圍觀設計師現場                         | [https://t.me/lookingforqoli](https://t.me/lookingforqoli)                                   | -    |
+| Official Counterparty Chat      | [https://t.me/Counterparty_XCP](https://t.me/Counterparty_XCP)                               | -    |
+| Casual ENGLISH Chat             | [https://t.me/joinchat/AAAAAEBz8Owuzgri6kB2UA](https://t.me/joinchat/AAAAAEBz8Owuzgri6kB2UA) | -    |
+| 愚民小鎮                            | [https://t.me/twWolf](https://t.me/twWolf)                                                   | -    |
+| PDA 的 Discovery 版块              | [https://t.me/discoverys](https://t.me/discoverys)                                           | -    |
+| 骇客邦                             | [https://t.me/hihackers](https://t.me/hihackers)                                             | -    |
+| S&D 两位先生                        | [https://t.me/Science_Democracy](https://t.me/Science_Democracy)                             | -    |
+| 欧美生活影视音乐圈 Europe America        | [https://t.me/AJSCIEAA](https://t.me/AJSCIEAA)                                               | -    |
+| Sit and Date                    | [https://t.me/SitandRelaxGroup](https://t.me/SitandRelaxGroup)                               | -    |
+| ACGN☆Taiwan                     | [http://t.me/TaiwanAnime](http://t.me/TaiwanAnime)                                           | -    |
+| 内涵段子之闲聊群                        | [https://t.me/OverseasChinese](https://t.me/OverseasChinese)                                 | -    |
+| 上帝是女孩                           | [https://t.me/Godaregirls](https://t.me/Godaregirls)                                         | -    |
+| Telegram 狼人杀群                   | [https://t.me/langrensha888](https://t.me/langrensha888)                                     | -    |
+| RSS 屋                           | [https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ](https://t.me/joinchat/HiIOAxV7g9JwNuLuThUsyQ) | -    |
+| 电报唱吧                            | [https://t.me/changba_tg](https://t.me/changba_tg)                                           | -    |
+| SPhard 交流群                      | [https://t.me/sphard](https://t.me/sphard)                                                   | -    |
+| 璃颜 & 红尘，伊人笑                     | [https://t.me/liyanhongchen](https://t.me/liyanhongchen)                                     | -    |
+| 搞笑视频                            | [https://t.me/joinchat/AAAAAFe-j4P9-B1VgdAmJw](https://t.me/joinchat/AAAAAFe-j4P9-B1VgdAmJw) | -    |
+| Hanan’s Group                   | [https://t.me/hanhans2](https://t.me/hanhans2)                                               | -    |
+| 创造者日报                           | [https://t.me/creatorsdaily](https://t.me/creatorsdaily)                                     | -    |
+| Tg 唱吧总站                         | [https://t.me/changba_tg](https://t.me/changba_tg)                                           | -    |
+| Zapro・杂铺 HAPPY                  | [https://t.me/tmioeTG](https://t.me/tmioeTG)                                                 | -    |
+| Faangbbs 北美程序员大群                | [https://t.me/faangbbs](https://t.me/faangbbs)                                               | -    |
+| Count To 1 Million              | [https://t.me/CountToOneMillion](https://t.me/CountToOneMillion)                             | -    |
+| No U                            | [https://t.me/NoUGroup](https://t.me/NoUGroup)                                               | -    |
+| APPDO 数字生活指南                    | [https://t.me/appdododo](https://t.me/appdododo)                                             | -    |
+| FriendChCodeList                | [https://t.me/FriendChCodeList](https://t.me/FriendChCodeList)                               | -    |
+| oooooohmygosh & friends         | [https://t.me/omgfriends](https://t.me/omgfriends)                                           | -    |
+| No.1 Manila_服务器_优秀的服务器_服务器托管租用_ | [https://t.me/PHmanila](https://t.me/PHmanila)                                               | -    |
+| Leetcode 刷题                     | [https://t.me/leetcode_discuss](https://t.me/leetcode_discuss)                               | -    |
+| LeetCode + Interview Prep 2021  | [https://t.me/leetcode_discussion](https://t.me/leetcode_discussion)                         | -    |
+| 验证码平台                           | [https://t.me/jiema_USA](https://t.me/jiema_USA)                                             | -    |
+| 验证码平台                           | [https://t.me/jiemapingtai2](https://t.me/jiemapingtai2)                                     | -    |
+| 沙雕根据地                           | [https://t.me/shadiaoo](https://t.me/shadiaoo)                                               | -    |
+| ACG 萌                           | [https://t.me/acg_moe](https://t.me/acg_moe)                                                 | -    |
+| WSB 华尔街中文社区                     | [https://t.me/WSBetsZH](https://t.me/WSBetsZH)                                               | -    |
+| 华尔街日报 RSS                       | [https://t.me/wsj_rss](https://t.me/wsj_rss)                                                 | -    |
+| Satoshi Street Bets 中本街社区       | [https://t.me/SatoshiStreetBetsZH](https://t.me/SatoshiStreetBetsZH)                         | -    |
+| tsuPro Talk                     | [https://t.me/tsuPorn](https://t.me/tsuPorn)                                                 | -    |
+| 想尽办法看电视                         | [https://t.me/joinchat/MgUQ3B1apkzq3sqVzTFP0A](https://t.me/joinchat/MgUQ3B1apkzq3sqVzTFP0A) | -    |
+| 一起充电群                           | [https://t.me/letsbuycharger](https://t.me/letsbuycharger)                                   | -    | 
+| Telegram 简体中文                          | [https://t.me/tele_zh_cn](https://t.me/tele_zh_cn)                                 | -    |
+| Telegram 繁体中文                          | [https://t.me/Tele_zh_TW](https://t.me/Tele_zh_TW)                                 | -    |
+| Telegram News                          | [https://t.me/telegram](https://t.me/telegram)                                     | -    |
+| Telegram Tips                          | [https://t.me/TelegramTips](https://t.me/TelegramTips)                             | -    |
+| Telegram Features                      | [https://t.me/features](https://t.me/features)                                     | -    |
+| Telegram Geeks                         | [https://t.me/geekschannel](https://t.me/geekschannel)                             | -    |
+| Telegram Info English                  | [https://t.me/tginfoen](https://t.me/tginfoen)                                     | -    |
+| Telegram Info                          | [https://t.me/tginfo](https://t.me/tginfo)                                         | -    |
+| Telegram Apps                          | [https://t.me/tgfiles](https://t.me/tgfiles)                                       | -    |
+| Telegram APKs for Android              | [https://t.me/TAndroidAPK](https://t.me/TAndroidAPK)                               | -    |
+| Telegram for macOS Updates             | [https://t.me/macos_stable_updates_files](https://t.me/macos_stable_updates_files) | -    |
+| Telegram Stable Releases               | [https://t.me/tgstable](https://t.me/tgstable)                                     | -    |
+| Telegram Beta                          | [https://t.me/tgbeta](https://t.me/tgbeta)                                         | -    |
+| Telegram X                             | [https://t.me/tgx_android](https://t.me/tgx_android)                               | -    |
+| Telegram Beta Blog                     | [https://t.me/tgrambeta](https://t.me/tgrambeta)                                   | -    |
+| Telegram Designers                     | [https://t.me/designers](https://t.me/designers)                                   | -    |
+| Telegram Contests                      | [https://t.me/contest](https://t.me/contest)                                       | -    |
+| Telegram Memes                         | [https://t.me/MemesTelegram](https://t.me/MemesTelegram)                           | -    |
+| Instant View Contest News              | [https://t.me/IVcontest](https://t.me/IVcontest)                                   | -    |
+| Telegram BotNews                       | [https://t.me/BotNews](https://t.me/BotNews)                                       | -    |
+| Katalog Telegram                       | [https://t.me/katalogtelegram](https://t.me/katalogtelegram)                       | -    |
+| Telegram iOS Beta Slots                | [https://t.me/tgslots](https://t.me/tgslots)                                       | -    |
+| Telegram Blog Secrets                  | [https://t.me/tgblog_secrets](https://t.me/tgblog_secrets)                         | -    |
+| Telegram Censorship Report             | [https://t.me/TCReport](https://t.me/TCReport)                                     | -    |
+| durov_russia                           | [https://t.me/durov_russia](https://t.me/durov_russia)                             | -    |
+| tgx_android_translate                  | [https://t.me/tgx_android_translate](https://t.me/tgx_android_translate)           | -    |
+| desktop                                | [https://t.me/desktop](https://t.me/desktop)                                       | -    |
+| AptitudeTestContest                    | [https://t.me/AptitudeTestContest](https://t.me/AptitudeTestContest)               | -    |
+| IsisWatch                              | [https://t.me/IsisWatch](https://t.me/IsisWatch)                                   | -    |
+| stopCA                                 | [https://t.me/stopCA](https://t.me/stopCA)                                         | -    |
+| username                               | [https://t.me/username](https://t.me/username)                                     | -    |
+| TelegramIT                             | [https://t.me/TelegramIT](https://t.me/TelegramIT)                                 | -    |
+| TelegramES                             | [https://t.me/TelegramES](https://t.me/TelegramES)                                 | -    |
+| TelegramDE                             | [https://t.me/TelegramDE](https://t.me/TelegramDE)                                 | -    |
+| TelegramArabia                         | [https://t.me/TelegramArabia](https://t.me/TelegramArabia)                         | -    |
+| TelegramNL                             | [https://t.me/TelegramNL](https://t.me/TelegramNL)                                 | -    |
+| TelegramIndonesia                      | [https://t.me/TelegramIndonesia](https://t.me/TelegramIndonesia)                   | -    |
+| TelegramBR                             | [https://t.me/TelegramBR](https://t.me/TelegramBR)                                 | -    |
+| DiscussThis                            | [https://t.me/DiscussThis](https://t.me/DiscussThis)                               | -    |
+| telegramtipsit                         | [https://t.me/telegramtipsit](https://t.me/telegramtipsit)                         | -    |
+| telegramtipsbr                         | [https://t.me/telegramtipsbr](https://t.me/telegramtipsbr)                         | -    |
+| telegramtipsAR                         | [https://t.me/telegramtipsAR](https://t.me/telegramtipsAR)                         | -    |
+| telegramtipsES                         | [https://t.me/telegramtipsES](https://t.me/telegramtipsES)                         | -    |
+| telegramtipsID                         | [https://t.me/telegramtipsID](https://t.me/telegramtipsID)                         | -    |
+| connectivity_test                      | [https://t.me/connectivity_test](https://t.me/connectivity_test)                   | -    |
+| topanimated                            | [https://t.me/topanimated](https://t.me/topanimated)                               | -    |
+| videomessages                          | [https://t.me/videomessages](https://t.me/videomessages)                           | -    |
+| Transparency                           | [https://t.me/Transparency](https://t.me/Transparency)                             | -    |
+| virus                                  | [https://t.me/virus](https://t.me/virus)                                           | -    |
+| macos_stable_updates_files             | [https://t.me/macos_stable_updates_files](https://t.me/macos_stable_updates_files) | -    |
+| Telegram 新手指南                          | [https://t.me/newbie_guide](https://t.me/newbie_guide)                             | -    |
+| Telegram 种植园                           | [https://t.me/TelePlanting](https://t.me/TelePlanting)                             | -    |
+| Telegram 新手入口                          | [https://t.me/StartTG](https://t.me/StartTG)                                       | -    |
+| Desktop Themes Channel                 | [https://t.me/themes](https://t.me/themes)                                         | -    |
+| Telegram Desktop Themes                | [https://t.me/desktopThemes](https://t.me/desktopThemes)                           | -    |
+| Telegram Themes                        | [https://t.me/themechannel](https://t.me/themechannel)                             | -    |
+| Telegram Themes                        | [https://t.me/themeschannel](https://t.me/themeschannel)                           | -    |
+| rThemes                                | [https://t.me/rThemes](https://t.me/rThemes)                                       | -    |
+| ThemeTelegram X                        | [https://t.me/ThemeTelegram_X](https://t.me/ThemeTelegram_X)                       | -    |
+| Android Themes Channel                 | [https://t.me/AndroidThemes](https://t.me/AndroidThemes)                           | -    |
+| Telegram Theme By Shana                | [https://t.me/ShanaThemes](https://t.me/ShanaThemes)                               | -    |
+| Cancer Themes                          | [https://t.me/cancerthemes](https://t.me/cancerthemes)                             | -    |
+| VANILLA TELEGRAM THEMES                | [https://t.me/VanillaTG](https://t.me/VanillaTG)                                   | -    |
+| Telegram Stickers                      | [https://t.me/TgSticker](https://t.me/TgSticker)                                   | -    |
+| Telegram 新手频道                          | [https://t.me/newbie_tele](https://t.me/newbie_tele)                               | -    |
+| Telegram 文言翻譯之官方頻道                     | [https://t.me/classical_chinese](https://t.me/classical_chinese)                   | -    |
+| 電報群組廣播                                 | [https://t.me/FOCUSTELEGRAMGROUPLINK](https://t.me/FOCUSTELEGRAMGROUPLINK)         | -    |
+| 電報新群推送                                 | [https://t.me/linkpush](https://t.me/linkpush)                                     | -    |
+| tg 机器人推荐                               | [https://t.me/tgbotlist](https://t.me/tgbotlist)                                   | -    |
+| Telegreat Project                      | [https://t.me/Telegreat](https://t.me/Telegreat)                                   | -    |
+| Telegram Passport                      | [https://t.me/TelegramPassport](https://t.me/TelegramPassport)                     | -    |
+| Plus Messenger official                | [https://t.me/plusmsgr](https://t.me/plusmsgr)                                     | -    |
+| KeralaGram [Official]®                 | [https://t.me/KeralaGramChannel](https://t.me/KeralaGramChannel)                   | -    |
+| Challegram                             | [https://t.me/Challegram](https://t.me/Challegram)                                 | -    |
+| X Plus Channel                         | [https://t.me/XPlus_Channel](https://t.me/XPlus_Channel)                           | -    |
+| Nicegram                               | [https://t.me/nicegramapp](https://t.me/nicegramapp)                               | -    |
+| Nicegram Dev                           | [https://t.me/nicegramdev](https://t.me/nicegramdev)                               | -    |
+| 捷报 News                                | [https://t.me/JieBaoNews](https://t.me/JieBaoNews)                                 | -    |
+| PagerMaid-Modify Update                | [https://t.me/PagerMaid_Modify](https://t.me/PagerMaid_Modify)                     | -    |                                                                         
 
 #### 参考资料
-
-- [BotoStore](https://botostore.com/)
+- [AZeC4](https://github.com/AZeC4/TelegramGroup) 信息来源
+- [bigtree945](https://github.com/bigtree945/Official_VPS) VPS信息来源
+- [BotoStore](https://botostore.com/) 信息来源
 - [BotsArchive](https://botsarchive.com/) bottelegram频道：[BotsArchive](https://t.me/BotsArchive)
 - [Telegram Bot：@BotsArchiveBot](https://t.me/BotsArchiveBot)
 - [Search Telegram Bots](https://botlist.infotelbot.com/) 
