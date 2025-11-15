@@ -1,10 +1,17 @@
 <!--
  * @Description:
  * @telegram: 98nav.com
+ **Keywords：**  
+Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, TG 工具大全, Web3 Telegram, Crypto 群组导航, VPS 推荐, Telegram 资源索引, Telegram 中文资源, TG 功能机器人, 加密货币群组, NFT Telegram, DeFi Telegram, 科学上网 Telegram
+
+**Description：**  
+本仓库整理 9999+ Telegram 群组、频道、机器人、Web3 社区、加密货币资源、VPS 商家、工具机器人等分类合集。支持快速导航、资源检索、频道索引，是目前最全的 Telegram 中文导航索引。
+
 -->
 <div align="center">
 
-# 9999+ TG电报群组、TG机器人推荐、Telegram群组、Telegram频道和Telegran官方机器人、技术、吃瓜、渠道等资源
+
+# 9999+ TG电报群组、TG机器人推荐、Telegram群组、Telegram频道和Telegran官方机器人、技术、热点、渠道、套图等资源
   #### 加入前检查群公告，警惕私聊诈骗与钓鱼链接。对任何“主动私信”或“陌生消息”保持怀疑；务必 DYOR（Do Your Own Research）。可以先开启“仅限管理员私聊”与“隐藏手机号”，增强隐私与安全。
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，自觉管好钱包注意辨别，一切产生的法律问题均与本项目无关❗️
 
@@ -17,11 +24,11 @@
 
 # 目录
 
-- [资源搜索机器人](#资源搜索机器人)
+- [资源搜索机器人/BOT](#资源搜索机器人)
 - [资源搜索群](#资源搜索群)
-- [Telegram官方/机器人](#Telegram官方/机器人)
-- [Telegram功能机器人](#Telegram功能机器人)
-- [Telegram电报官方机器人](#Telegram电报官方机器人)
+- [Telegram官方/机器人/BOT](#Telegram官方/机器人)
+- [Telegram功能机器人/BOT](#Telegram功能机器人)
+- [Telegram电报官方机器人/BOT](#Telegram电报官方机器人)
 - [Web3频道/群组](#频道数据分析/管理)
 - [金融相关频道](#金融相关频道)
 - [VPS官方商家](#VPS官方商家)
@@ -38,7 +45,7 @@
 | 名字       | 链接       | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | SOSO   | [@soso](https://t.me/soso?start=a_7621030165)                       |  发送关键词搜索，将"SOSO"添加到昵称，添加后立刻获得 0.5 U的空投，每天签到领取0.01至10U的随机奖励。|
-| JISO  | [@jiso](https://t.me/jiso?start=a_7621030165)                     | 发送关键词搜索群、频道、视频等资源，输入{吃瓜、源码、seo}等获取资料     |
+| JISO  | [@jiso](https://t.me/jiso?start=a_7621030165)                     | 发送关键词搜索群、频道、视频等资源，输入{热点、源码、seo}等获取资料     |
 | 极搜JiSou  |  [@jisou](https://t.me/jisou?start=a_7621030165)               | 发送关键词找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 超级索引  | [@CJSY](https://t.me/CJSY?start=7337342691)                  | 发送词语即可搜索关联群组与频道资源，老牌搜索机器人超级索引邀请好友，新人使用直接领取1.88U！！(完成1次有效搜索)         |
 | Super搜索       | [@Super](https://t.me/Super?start=ref-7337342691)                | 查找群组、频道、影视、音乐或机器人         |
@@ -50,9 +57,9 @@
 # 资源搜索群
 | 名字       | 链接                                                                | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|TG全局搜索资源/吃瓜                           | [https://t.me/sosobo2](https://t.me/sosobo2)          | 打破信息差，看看最近热门搜索的关键词-soso资源库   |
+|TG全局搜索资源/CG                           | [https://t.me/sosobo2](https://t.me/sosobo2)          | 打破信息差，看看最近热门搜索的关键词-soso资源库   |
 |T电报中文搜索                           | [https://t.me/tgxqzy](https://t.me/tgxqzy)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-soso资源库   |
-|黑料搜索交流                           | [https://t.me/hlsousuo](https://t.me/hlsousuo)          | 打破信息差，看看最近热门搜索的关键词-smss资源库   |
+|Hl搜索交流                           | [https://t.me/hlsousuo](https://t.me/hlsousuo)          | 打破信息差，看看最近热门搜索的关键词-smss资源库   |
 |TG全能搜群资源大群                           | [https://t.me/zysoso](hhttps://t.me/zysoso)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-smss资源库   |
 <br>
 
