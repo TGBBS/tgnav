@@ -2,7 +2,7 @@
  * @Description:
  * @telegram: 98nav.com
  **Keywords：**  
-Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, TG 工具大全, Web3 Telegram, Crypto 群组导航, VPS 推荐, Telegram 资源索引, Telegram 中文资源, TG 功能机器人, 加密货币群组, NFT Telegram, DeFi Telegram, 科学上网 Telegram
+Telegram 群组推荐, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, TG 工具大全, Web3 Telegram, Crypto 群组导航, VPS 推荐, Telegram 资源索引, Telegram 中文资源, TG 功能机器人, 加密货币群组, NFT Telegram, DeFi Telegram, 科学上网 Telegram
 
 **Description：**  
 本仓库整理 9999+ Telegram 群组、频道、机器人、Web3 社区、加密货币资源、VPS 商家、工具机器人等分类合集。支持快速导航、资源检索、频道索引，是目前最全的 Telegram 中文导航索引。
@@ -11,7 +11,7 @@ Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, 
 <div align="center">
 
 
-# 19999+ TG电报群组、TG机器人推荐、Telegram群组、Telegram频道和Telegran官方机器人、技术、热点、渠道、套图等资源
+# TG电报群组、TG机器人推荐、 19999+Telegram群组、Telegram频道和Telegran官方机器人、技术、热点、渠道、套图等资源
   #### 加入前检查群公告，警惕私聊诈骗与钓鱼链接。对任何“主动私信”或“陌生消息”保持怀疑；务必 DYOR（Do Your Own Research）。可以先开启“仅限管理员私聊”与“隐藏手机号”，增强隐私与安全。
   ❗️严禁中国大陆用户使用，请遵守当地法律法规，自觉管好钱包注意辨别，一切产生的法律问题均与本项目无关❗️
 
