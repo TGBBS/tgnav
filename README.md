@@ -66,7 +66,7 @@ Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, 
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付                                          |
 |客服页面                             | [https://telegram.org/support](https://telegram.org/support)          | -  |
-|官方 Twitter|[ https://twitter.com/telegram]([https://twitter.com/telegram](https://telegra.ph/Common-Login-Problems-03-12)|-|            
+|官方 Twitter|[ https://twitter.com/telegram](https://telegra.ph/Common-Login-Problems-03-12)|-|            
 | 官方FAQ |  [官方FAQ](https://telegram.org/support)  | - |
 | Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
 | BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
