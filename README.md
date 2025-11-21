@@ -51,7 +51,7 @@ Telegram 群组推荐, Telegram 机器人, TG 频道导航, Telegram 搜索机�
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | [![soso搜索机器人](https://imgur.com/nDYYgDt.png)soso搜索机器人](https://t.me/soso?start=a_7621030165) | [![jiso搜索机器人](https://imgur.com/CDEXRYd.png) jiso搜索机器人](https://t.me/jiso?start=a_7621030165)    | [![jisou搜索机器人](https://imgur.com/uBvuAdr.png)jisou搜索机器人](https://t.me/jisou2bot?start=a_7621030165) |
 |:---:|:---:|:---:|
-|[![smss搜索机器人](https://imgur.com/sJFVApG.png)smss搜索机器人](https://t.me/smss?start=spread_7337342691) |  [![Super搜索](https://imgur.com/5q8HdmL.png)Super搜索](https://t.me/Super?start=ref-7337342691) |[![@超级索引](https://imgur.com/0YidFF7)@超级索引](https://t.me/CJSY?start=7337342691)|
+|[![smss搜索机器人](https://imgur.com/sJFVApG.png)smss搜索机器人](https://t.me/smss?start=spread_7337342691) |  [![Super搜索](https://imgur.com/5q8HdmL.png)Super搜索](https://t.me/Super?start=ref-7337342691) |[![@超级索引](https://imgur.com/0YidFF7.png)@超级索引](https://t.me/CJSY?start=7337342691)|
 <br>
 
 # 资源搜索群
