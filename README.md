@@ -58,7 +58,7 @@ Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, 
 |TG全局搜索资源/CG                           | [https://t.me/sosobo2](https://t.me/sosobo2)          | 打破信息差，看看最近热门搜索的关键词-soso资源库   |
 |T电报中文搜索                           | [https://t.me/tgxqzy](https://t.me/tgxqzy)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-soso资源库   |
 |Hl搜索交流                           | [https://t.me/hlsousuo](https://t.me/hlsousuo)          | 打破信息差，看看最近热门搜索的关键词-smss资源库   |
-|TG全能搜群资源大群                           | [https://t.me/zysoso](hhttps://t.me/zysoso)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-smss资源库   |
+|TG全能搜群资源大群                           | [https://t.me/zysoso](https://t.me/zysoso)          | 群中输入关键字，搜索频道、群、热点、视频、音乐等资源-smss资源库   |
 <br>
 
 # Telegram官方/机器人
@@ -66,8 +66,8 @@ Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, 
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付                                          |
 |客服页面                             | [https://telegram.org/support](https://telegram.org/support)          | -  |
-|官方 Twitter|[ https://twitter.com/telegram]( https://twitter.com/telegram)|-|              
-| 官方FAQ| [官方FAQ]((https://telegra.ph/Common-Login-Problems-03-12)) | - |
+|官方 Twitter|[ https://twitter.com/telegram]([https://twitter.com/telegram](https://telegra.ph/Common-Login-Problems-03-12)|-|            
+| 官方FAQ |  [官方FAQ](https://telegram.org/support)  | - |
 | Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
 | BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
 | Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 创建贴纸包，管理贴纸                       |
