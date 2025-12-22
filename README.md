@@ -11,7 +11,7 @@ Telegram 群組, Telegram 機器人, TG 頻道導航, Telegram 搜尋機器人, 
 <div align="center">
 
 
-# 19999+ TG電報群組、TG機器人推薦、Telegram群組、Telegram頻道和Telegran官方機器人、技術、熱點、管道、套圖等資源
+# TG電報群組、TG機器人推薦、全网最全Telegram群組导航、Telegram頻道和Telegran官方機器人、技術、熱點、管道、套圖等資源
   #### 加入前檢查群公告，警惕私聊詐騙與釣魚連結。對任何「主動私訊」或「陌生訊息」保持懷疑；務必 DYOR（Do Your Own Research）。可以先開啟「僅限管理員私聊」與「隱藏手機號」，增強隱私與安全。
   ❗️嚴禁中國大陸使用者使用，請遵守當地法律法規，自覺管好錢包注意辨別，一切產生的法律問題均與本專案無關❗️
 
