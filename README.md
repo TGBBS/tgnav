@@ -57,7 +57,7 @@ Telegram 群組, Telegram 機器人, TG 頻道導航, Telegram 搜尋機器人, 
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |TG全域搜尋資源/CG                           | [https://t.me/sosobo2](https://t.me/sosobo2)          | 打破資訊差，看看最近熱門搜尋的關鍵詞-soso資源庫   |
 |T電報中文搜尋                           | [https://t.me/tgxqzy](https://t.me/tgxqzy)          | 群中輸入關鍵字，搜尋頻道、群、熱點、影片、音樂等資源-soso資源庫   |
-|Hl搜尋交流                           | [https://t.me/hlsousuo](https://t.me/hlsousuo)          | 打破資訊差，看看最近熱門搜尋的關鍵詞-smss資源庫   |
+|黑料搜尋交流                           | [https://t.me/hlsousou](https://t.me/hlsousou)          | 打破資訊差，看看最近熱門搜尋的關鍵詞-smss資源庫   |
 |TG全能搜群資源大群                           | [https://t.me/zysoso](https://t.me/zysoso)          | 群中輸入關鍵字，搜尋頻道、群、熱點、影片、音樂等資源-smss資源庫   |
 |搜索资源群组                           | [https://t.me/sousuozzss](https://t.me/sousuozzss)          | 群中輸入關鍵字，搜尋頻道、群、熱點、影片、音樂等資源-JIsou資源庫   |
 <br>
