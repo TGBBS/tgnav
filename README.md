@@ -15,7 +15,7 @@ Telegram 群組, Telegram 機器人, TG 頻道導航, Telegram 搜尋機器人, 
   #### 加入前檢查群公告，警惕私聊詐騙與釣魚連結。對任何「主動私訊」或「陌生訊息」保持懷疑；務必 DYOR（Do Your Own Research）。可以先開啟「僅限管理員私聊」與「隱藏手機號」，增強隱私與安全。
   ❗️嚴禁中國大陸使用者使用，請遵守當地法律法規，自覺管好錢包注意辨別，一切產生的法律問題均與本專案無關❗️
 
- ### <a>TG百科/申訴/客戶端漢化:</a> <a href="https://t.me/pindaotj">@pindaotj</a>&nbsp;&nbsp;&nbsp; <a>導航網站:</a> <a href="https://98nav.com">https://98nav.com</a>  
+ ### <a>TG百科/申訴/客戶端漢化:</a> <a href="https://t.me/pindaotj">@pindaotj</a>&nbsp;&nbsp;&nbsp; <a>導航網站:</a> <a href="https://98nav.com">https://awnav.com</a>  
   <br>
 
 </div>
